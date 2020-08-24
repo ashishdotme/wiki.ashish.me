@@ -13,166 +13,165 @@
 <p align="center">📻 my notes on various topics</p>
 
 <!-- index starts -->
-
 ## Javascript
 
-- [Async await](https://github.com/ashishdotme/notes/blob/master/javascript/async-await.md) - _Aug 23 2020_
-- [Callback hell](https://github.com/ashishdotme/notes/blob/master/javascript/callback-hell.md) - _Aug 23 2020_
-- [Es6](https://github.com/ashishdotme/notes/blob/master/javascript/es6.md) - _Apr 18 2019_
-- [Babel](https://github.com/ashishdotme/notes/blob/master/javascript/babel.md) - _Apr 18 2019_
-- [Exports imports](https://github.com/ashishdotme/notes/blob/master/javascript/exports-imports.md) - _Apr 18 2019_
-- [Prototypes and classes](https://github.com/ashishdotme/notes/blob/master/javascript/prototypes-and-classes.md) - _Apr 18 2019_
-- [Webpack](https://github.com/ashishdotme/notes/blob/master/javascript/webpack.md) - _Apr 18 2019_
-- [Introduction](https://github.com/ashishdotme/notes/blob/master/javascript/introduction.md) - _Jan 23 2019_
-- [Es5](https://github.com/ashishdotme/notes/blob/master/javascript/es5.md) - _Jan 23 2019_
+* [Callback hell](https://github.com/ashishdotme/notes/blob/master/javascript/callback-hell.md) - *Aug 23 2020*
+* [Async await](https://github.com/ashishdotme/notes/blob/master/javascript/async-await.md) - *Aug 23 2020*
+* [Babel](https://github.com/ashishdotme/notes/blob/master/javascript/babel.md) - *Apr 18 2019*
+* [Es6](https://github.com/ashishdotme/notes/blob/master/javascript/es6.md) - *Apr 18 2019*
+* [Webpack](https://github.com/ashishdotme/notes/blob/master/javascript/webpack.md) - *Apr 18 2019*
+* [Exports imports](https://github.com/ashishdotme/notes/blob/master/javascript/exports-imports.md) - *Apr 18 2019*
+* [Prototypes and classes](https://github.com/ashishdotme/notes/blob/master/javascript/prototypes-and-classes.md) - *Apr 18 2019*
+* [Introduction](https://github.com/ashishdotme/notes/blob/master/javascript/introduction.md) - *Jan 23 2019*
+* [Es5](https://github.com/ashishdotme/notes/blob/master/javascript/es5.md) - *Jan 23 2019*
 
 ## Design patterns
 
-- [Decorator pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/decorator-pattern.md) - _Aug 23 2020_
-- [Proxy pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/proxy-pattern.md) - _Aug 23 2020_
-- [Adapter pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/adapter-pattern.md) - _Aug 23 2020_
-- [Builder pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/builder-pattern.md) - _Aug 21 2020_
-- [Factory](https://github.com/ashishdotme/notes/blob/master/design-patterns/factory.md) - _Aug 21 2020_
-- [Singleton pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/singleton-pattern.md) - _Aug 21 2020_
-- [Flyweight pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/flyweight-pattern.md) - _Jan 23 2019_
-- [State pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/state-pattern.md) - _Jan 23 2019_
-- [Iterator pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/iterator-pattern.md) - _Jan 23 2019_
-- [Facade pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/facade-pattern.md) - _Jan 23 2019_
-- [Template pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/template-pattern.md) - _Jan 23 2019_
-- [Composite pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/composite-pattern.md) - _Jan 23 2019_
-- [Introduction](https://github.com/ashishdotme/notes/blob/master/design-patterns/introduction.md) - _Jan 23 2019_
-- [Factory method](https://github.com/ashishdotme/notes/blob/master/design-patterns/factory-method.md) - _Jan 23 2019_
-- [Observer pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/observer-pattern.md) - _Jan 23 2019_
-- [Memento pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/memento-pattern.md) - _Jan 23 2019_
-- [Prototype pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/prototype-pattern.md) - _Jan 23 2019_
-- [Visitor pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/visitor-pattern.md) - _Jan 23 2019_
-- [Interpreter pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/interpreter-pattern.md) - _Jan 23 2019_
-- [Delegate pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/delegate-pattern.md) - _Jan 23 2019_
-- [Bridge pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/bridge-pattern.md) - _Jan 23 2019_
-- [Chain of responsibility](https://github.com/ashishdotme/notes/blob/master/design-patterns/chain-of-responsibility.md) - _Jan 23 2019_
-- [Mediator pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/mediator-pattern.md) - _Jan 23 2019_
-- [Strategy pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/strategy-pattern.md) - _Jan 23 2019_
+* [Decorator pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/decorator-pattern.md) - *Aug 23 2020*
+* [Adapter pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/adapter-pattern.md) - *Aug 23 2020*
+* [Proxy pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/proxy-pattern.md) - *Aug 23 2020*
+* [Builder pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/builder-pattern.md) - *Aug 21 2020*
+* [Factory](https://github.com/ashishdotme/notes/blob/master/design-patterns/factory.md) - *Aug 21 2020*
+* [Singleton pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/singleton-pattern.md) - *Aug 21 2020*
+* [Delegate pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/delegate-pattern.md) - *Jan 23 2019*
+* [Observer pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/observer-pattern.md) - *Jan 23 2019*
+* [Visitor pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/visitor-pattern.md) - *Jan 23 2019*
+* [Introduction](https://github.com/ashishdotme/notes/blob/master/design-patterns/introduction.md) - *Jan 23 2019*
+* [Composite pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/composite-pattern.md) - *Jan 23 2019*
+* [Interpreter pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/interpreter-pattern.md) - *Jan 23 2019*
+* [Chain of responsibility](https://github.com/ashishdotme/notes/blob/master/design-patterns/chain-of-responsibility.md) - *Jan 23 2019*
+* [Factory method](https://github.com/ashishdotme/notes/blob/master/design-patterns/factory-method.md) - *Jan 23 2019*
+* [Template pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/template-pattern.md) - *Jan 23 2019*
+* [Bridge pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/bridge-pattern.md) - *Jan 23 2019*
+* [Facade pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/facade-pattern.md) - *Jan 23 2019*
+* [Strategy pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/strategy-pattern.md) - *Jan 23 2019*
+* [State pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/state-pattern.md) - *Jan 23 2019*
+* [Flyweight pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/flyweight-pattern.md) - *Jan 23 2019*
+* [Iterator pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/iterator-pattern.md) - *Jan 23 2019*
+* [Mediator pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/mediator-pattern.md) - *Jan 23 2019*
+* [Memento pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/memento-pattern.md) - *Jan 23 2019*
+* [Prototype pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/prototype-pattern.md) - *Jan 23 2019*
 
 ## React
 
-- [Lifecycle](https://github.com/ashishdotme/notes/blob/master/react/lifecycle.md) - _Aug 21 2020_
-- [Redux](https://github.com/ashishdotme/notes/blob/master/react/redux.md) - _Aug 21 2020_
-- [Redux sideeffects](https://github.com/ashishdotme/notes/blob/master/react/redux-sideeffects.md) - _Apr 18 2019_
-- [Binding](https://github.com/ashishdotme/notes/blob/master/react/binding.md) - _Apr 18 2019_
-- [Testing](https://github.com/ashishdotme/notes/blob/master/react/testing.md) - _Apr 18 2019_
+* [Redux](https://github.com/ashishdotme/notes/blob/master/react/redux.md) - *Aug 21 2020*
+* [Lifecycle](https://github.com/ashishdotme/notes/blob/master/react/lifecycle.md) - *Aug 21 2020*
+* [Binding](https://github.com/ashishdotme/notes/blob/master/react/binding.md) - *Apr 18 2019*
+* [Testing](https://github.com/ashishdotme/notes/blob/master/react/testing.md) - *Apr 18 2019*
+* [Redux sideeffects](https://github.com/ashishdotme/notes/blob/master/react/redux-sideeffects.md) - *Apr 18 2019*
 
 ## Docker
 
-- [Cheatsheet](https://github.com/ashishdotme/notes/blob/master/docker/cheatsheet.md) - _Sep 03 2019_
-- [Architecture](https://github.com/ashishdotme/notes/blob/master/docker/architecture.md) - _Apr 18 2019_
-- [Container](https://github.com/ashishdotme/notes/blob/master/docker/container.md) - _Apr 18 2019_
+* [Cheatsheet](https://github.com/ashishdotme/notes/blob/master/docker/cheatsheet.md) - *Sep 03 2019*
+* [Container](https://github.com/ashishdotme/notes/blob/master/docker/container.md) - *Apr 18 2019*
+* [Architecture](https://github.com/ashishdotme/notes/blob/master/docker/architecture.md) - *Apr 18 2019*
 
 ## Personal
 
-- [Skin care](https://github.com/ashishdotme/notes/blob/master/personal/skin-care.md) - _Apr 22 2019_
-- [Diet plan](https://github.com/ashishdotme/notes/blob/master/personal/diet-plan.md) - _Apr 19 2019_
-- [Gym](https://github.com/ashishdotme/notes/blob/master/personal/gym.md) - _Apr 18 2019_
-- [Hair care](https://github.com/ashishdotme/notes/blob/master/personal/hair-care.md) - _Apr 18 2019_
+* [Skin care](https://github.com/ashishdotme/notes/blob/master/personal/skin-care.md) - *Apr 22 2019*
+* [Diet plan](https://github.com/ashishdotme/notes/blob/master/personal/diet-plan.md) - *Apr 19 2019*
+* [Gym](https://github.com/ashishdotme/notes/blob/master/personal/gym.md) - *Apr 18 2019*
+* [Hair care](https://github.com/ashishdotme/notes/blob/master/personal/hair-care.md) - *Apr 18 2019*
 
 ## Macbook
 
-- [Setup](https://github.com/ashishdotme/notes/blob/master/macbook/setup.md) - _Apr 18 2019_
+* [Setup](https://github.com/ashishdotme/notes/blob/master/macbook/setup.md) - *Apr 18 2019*
 
 ## English
 
-- [Vocalary](https://github.com/ashishdotme/notes/blob/master/english/vocalary.md) - _Apr 18 2019_
-- [Prepositions](https://github.com/ashishdotme/notes/blob/master/english/prepositions.md) - _Apr 18 2019_
+* [Vocalary](https://github.com/ashishdotme/notes/blob/master/english/vocalary.md) - *Apr 18 2019*
+* [Prepositions](https://github.com/ashishdotme/notes/blob/master/english/prepositions.md) - *Apr 18 2019*
 
 ## Perforce
 
-- [Introduction](https://github.com/ashishdotme/notes/blob/master/perforce/introduction.md) - _Apr 18 2019_
-- [Basic operations](https://github.com/ashishdotme/notes/blob/master/perforce/basic-operations.md) - _Apr 18 2019_
-- [Stream](https://github.com/ashishdotme/notes/blob/master/perforce/stream.md) - _Apr 18 2019_
-
-## Data structures
-
-- [Stack](https://github.com/ashishdotme/notes/blob/master/data-structures/stack.md) - _Jan 23 2019_
-- [Hash table](https://github.com/ashishdotme/notes/blob/master/data-structures/hash-table.md) - _Jan 23 2019_
-- [Time complexity](https://github.com/ashishdotme/notes/blob/master/data-structures/time-complexity.md) - _Jan 23 2019_
-- [Introduction](https://github.com/ashishdotme/notes/blob/master/data-structures/introduction.md) - _Jan 23 2019_
-- [Array](https://github.com/ashishdotme/notes/blob/master/data-structures/array.md) - _Jan 23 2019_
-- [Linked list](https://github.com/ashishdotme/notes/blob/master/data-structures/linked-list.md) - _Jan 23 2019_
-- [Queue](https://github.com/ashishdotme/notes/blob/master/data-structures/queue.md) - _Jan 23 2019_
-- [Tree](https://github.com/ashishdotme/notes/blob/master/data-structures/tree.md) - _Jan 23 2019_
-- [Graph](https://github.com/ashishdotme/notes/blob/master/data-structures/graph.md) - _Jan 23 2019_
-
-## Algorithms
-
-- [Asymptotic analysis](https://github.com/ashishdotme/notes/blob/master/algorithms/asymptotic-analysis.md) - _Jan 23 2019_
-- [Backtracking](https://github.com/ashishdotme/notes/blob/master/algorithms/backtracking.md) - _Jan 23 2019_
-- [Introduction](https://github.com/ashishdotme/notes/blob/master/algorithms/introduction.md) - _Jan 23 2019_
-- [Recursion](https://github.com/ashishdotme/notes/blob/master/algorithms/recursion.md) - _Jan 23 2019_
-- [Divide and conquer](https://github.com/ashishdotme/notes/blob/master/algorithms/divide-and-conquer.md) - _Jan 23 2019_
-- [Dynamic programming](https://github.com/ashishdotme/notes/blob/master/algorithms/dynamic-programming.md) - _Jan 23 2019_
-- [Sorting](https://github.com/ashishdotme/notes/blob/master/algorithms/sorting.md) - _Jan 23 2019_
-- [Greedy algorithms](https://github.com/ashishdotme/notes/blob/master/algorithms/greedy-algorithms.md) - _Jan 23 2019_
-
-## Angular
-
-- [Routing](https://github.com/ashishdotme/notes/blob/master/angular/routing.md) - _Jan 23 2019_
-- [Lifecycle](https://github.com/ashishdotme/notes/blob/master/angular/lifecycle.md) - _Jan 23 2019_
-- [Template](https://github.com/ashishdotme/notes/blob/master/angular/template.md) - _Jan 23 2019_
-- [Directives](https://github.com/ashishdotme/notes/blob/master/angular/directives.md) - _Jan 23 2019_
-- [Pipes](https://github.com/ashishdotme/notes/blob/master/angular/pipes.md) - _Jan 23 2019_
-- [Observables](https://github.com/ashishdotme/notes/blob/master/angular/observables.md) - _Jan 23 2019_
-- [Data binding](https://github.com/ashishdotme/notes/blob/master/angular/data-binding.md) - _Jan 23 2019_
-- [Components](https://github.com/ashishdotme/notes/blob/master/angular/components.md) - _Jan 23 2019_
-- [Module](https://github.com/ashishdotme/notes/blob/master/angular/module.md) - _Jan 23 2019_
-- [Introduction](https://github.com/ashishdotme/notes/blob/master/angular/introduction.md) - _Jan 23 2019_
-- [Dependency injection](https://github.com/ashishdotme/notes/blob/master/angular/dependency-injection.md) - _Jan 23 2019_
-- [Metadata](https://github.com/ashishdotme/notes/blob/master/angular/metadata.md) - _Jan 23 2019_
-- [Angular cli](https://github.com/ashishdotme/notes/blob/master/angular/angular-cli.md) - _Jan 23 2019_
-
-## Html
-
-- [Position](https://github.com/ashishdotme/notes/blob/master/html/position.md) - _Jan 23 2019_
-
-## C sharp
-
-- [Delegates](https://github.com/ashishdotme/notes/blob/master/c-sharp/delegates.md) - _Jan 23 2019_
-- [Entity](https://github.com/ashishdotme/notes/blob/master/c-sharp/entity.md) - _Jan 23 2019_
-- [Generics](https://github.com/ashishdotme/notes/blob/master/c-sharp/generics.md) - _Jan 23 2019_
-- [Introduction](https://github.com/ashishdotme/notes/blob/master/c-sharp/introduction.md) - _Jan 23 2019_
-- [Linq](https://github.com/ashishdotme/notes/blob/master/c-sharp/linq.md) - _Jan 23 2019_
-- [Oops](https://github.com/ashishdotme/notes/blob/master/c-sharp/oops.md) - _Jan 23 2019_
-- [Design patterns](https://github.com/ashishdotme/notes/blob/master/c-sharp/design-patterns.md) - _Jan 23 2019_
-- [Lamdas](https://github.com/ashishdotme/notes/blob/master/c-sharp/lamdas.md) - _Jan 23 2019_
-- [Clr](https://github.com/ashishdotme/notes/blob/master/c-sharp/CLR.md) - _Jan 23 2019_
-- [Ado](https://github.com/ashishdotme/notes/blob/master/c-sharp/ado.md) - _Jan 23 2019_
-
-## Computer architecture
-
-- [Memory](https://github.com/ashishdotme/notes/blob/master/computer-architecture/memory.md) - _Jan 23 2019_
+* [Introduction](https://github.com/ashishdotme/notes/blob/master/perforce/introduction.md) - *Apr 18 2019*
+* [Basic operations](https://github.com/ashishdotme/notes/blob/master/perforce/basic-operations.md) - *Apr 18 2019*
+* [Stream](https://github.com/ashishdotme/notes/blob/master/perforce/stream.md) - *Apr 18 2019*
 
 ## Swift
 
-- [Extensions](https://github.com/ashishdotme/notes/blob/master/swift/extensions.md) - _Jan 23 2019_
-- [Collections](https://github.com/ashishdotme/notes/blob/master/swift/collections.md) - _Jan 23 2019_
-- [Generics](https://github.com/ashishdotme/notes/blob/master/swift/generics.md) - _Jan 23 2019_
-- [Classes and structures](https://github.com/ashishdotme/notes/blob/master/swift/classes-and-structures.md) - _Jan 23 2019_
-- [Pattern matching](https://github.com/ashishdotme/notes/blob/master/swift/pattern-matching.md) - _Jan 23 2019_
-- [Types and flow](https://github.com/ashishdotme/notes/blob/master/swift/types-and-flow.md) - _Jan 23 2019_
-- [Introduction](https://github.com/ashishdotme/notes/blob/master/swift/introduction.md) - _Jan 23 2019_
-- [Optionals](https://github.com/ashishdotme/notes/blob/master/swift/optionals.md) - _Jan 23 2019_
-- [Operators](https://github.com/ashishdotme/notes/blob/master/swift/operators.md) - _Jan 23 2019_
-- [Memory management](https://github.com/ashishdotme/notes/blob/master/swift/memory-management.md) - _Jan 23 2019_
-- [Functions and closures](https://github.com/ashishdotme/notes/blob/master/swift/functions-and-closures.md) - _Jan 23 2019_
-- [Error handling](https://github.com/ashishdotme/notes/blob/master/swift/error-handling.md) - _Jan 23 2019_
-- [Protocols](https://github.com/ashishdotme/notes/blob/master/swift/protocols.md) - _Jan 23 2019_
-- [Enumerations](https://github.com/ashishdotme/notes/blob/master/swift/enumerations.md) - _Jan 23 2019_
+* [Functions and closures](https://github.com/ashishdotme/notes/blob/master/swift/functions-and-closures.md) - *Jan 23 2019*
+* [Extensions](https://github.com/ashishdotme/notes/blob/master/swift/extensions.md) - *Jan 23 2019*
+* [Protocols](https://github.com/ashishdotme/notes/blob/master/swift/protocols.md) - *Jan 23 2019*
+* [Introduction](https://github.com/ashishdotme/notes/blob/master/swift/introduction.md) - *Jan 23 2019*
+* [Optionals](https://github.com/ashishdotme/notes/blob/master/swift/optionals.md) - *Jan 23 2019*
+* [Collections](https://github.com/ashishdotme/notes/blob/master/swift/collections.md) - *Jan 23 2019*
+* [Types and flow](https://github.com/ashishdotme/notes/blob/master/swift/types-and-flow.md) - *Jan 23 2019*
+* [Enumerations](https://github.com/ashishdotme/notes/blob/master/swift/enumerations.md) - *Jan 23 2019*
+* [Generics](https://github.com/ashishdotme/notes/blob/master/swift/generics.md) - *Jan 23 2019*
+* [Error handling](https://github.com/ashishdotme/notes/blob/master/swift/error-handling.md) - *Jan 23 2019*
+* [Operators](https://github.com/ashishdotme/notes/blob/master/swift/operators.md) - *Jan 23 2019*
+* [Pattern matching](https://github.com/ashishdotme/notes/blob/master/swift/pattern-matching.md) - *Jan 23 2019*
+* [Memory management](https://github.com/ashishdotme/notes/blob/master/swift/memory-management.md) - *Jan 23 2019*
+* [Classes and structures](https://github.com/ashishdotme/notes/blob/master/swift/classes-and-structures.md) - *Jan 23 2019*
 
-## Maths
+## Html
 
-- [Misc](https://github.com/ashishdotme/notes/blob/master/maths/misc.md) - _Jan 23 2019_
-- [Logarithm](https://github.com/ashishdotme/notes/blob/master/maths/logarithm.md) - _Jan 23 2019_
+* [Position](https://github.com/ashishdotme/notes/blob/master/html/position.md) - *Jan 23 2019*
+
+## Algorithms
+
+* [Asymptotic analysis](https://github.com/ashishdotme/notes/blob/master/algorithms/asymptotic-analysis.md) - *Jan 23 2019*
+* [Sorting](https://github.com/ashishdotme/notes/blob/master/algorithms/sorting.md) - *Jan 23 2019*
+* [Introduction](https://github.com/ashishdotme/notes/blob/master/algorithms/introduction.md) - *Jan 23 2019*
+* [Divide and conquer](https://github.com/ashishdotme/notes/blob/master/algorithms/divide-and-conquer.md) - *Jan 23 2019*
+* [Greedy algorithms](https://github.com/ashishdotme/notes/blob/master/algorithms/greedy-algorithms.md) - *Jan 23 2019*
+* [Backtracking](https://github.com/ashishdotme/notes/blob/master/algorithms/backtracking.md) - *Jan 23 2019*
+* [Recursion](https://github.com/ashishdotme/notes/blob/master/algorithms/recursion.md) - *Jan 23 2019*
+* [Dynamic programming](https://github.com/ashishdotme/notes/blob/master/algorithms/dynamic-programming.md) - *Jan 23 2019*
+
+## C sharp
+
+* [Linq](https://github.com/ashishdotme/notes/blob/master/c-sharp/linq.md) - *Jan 23 2019*
+* [Entity](https://github.com/ashishdotme/notes/blob/master/c-sharp/entity.md) - *Jan 23 2019*
+* [Introduction](https://github.com/ashishdotme/notes/blob/master/c-sharp/introduction.md) - *Jan 23 2019*
+* [Ado](https://github.com/ashishdotme/notes/blob/master/c-sharp/ado.md) - *Jan 23 2019*
+* [Oops](https://github.com/ashishdotme/notes/blob/master/c-sharp/oops.md) - *Jan 23 2019*
+* [Generics](https://github.com/ashishdotme/notes/blob/master/c-sharp/generics.md) - *Jan 23 2019*
+* [Lamdas](https://github.com/ashishdotme/notes/blob/master/c-sharp/lamdas.md) - *Jan 23 2019*
+* [Delegates](https://github.com/ashishdotme/notes/blob/master/c-sharp/delegates.md) - *Jan 23 2019*
+* [Clr](https://github.com/ashishdotme/notes/blob/master/c-sharp/CLR.md) - *Jan 23 2019*
+* [Design patterns](https://github.com/ashishdotme/notes/blob/master/c-sharp/design-patterns.md) - *Jan 23 2019*
+
+## Data structures
+
+* [Queue](https://github.com/ashishdotme/notes/blob/master/data-structures/queue.md) - *Jan 23 2019*
+* [Array](https://github.com/ashishdotme/notes/blob/master/data-structures/array.md) - *Jan 23 2019*
+* [Stack](https://github.com/ashishdotme/notes/blob/master/data-structures/stack.md) - *Jan 23 2019*
+* [Introduction](https://github.com/ashishdotme/notes/blob/master/data-structures/introduction.md) - *Jan 23 2019*
+* [Tree](https://github.com/ashishdotme/notes/blob/master/data-structures/tree.md) - *Jan 23 2019*
+* [Graph](https://github.com/ashishdotme/notes/blob/master/data-structures/graph.md) - *Jan 23 2019*
+* [Hash table](https://github.com/ashishdotme/notes/blob/master/data-structures/hash-table.md) - *Jan 23 2019*
+* [Time complexity](https://github.com/ashishdotme/notes/blob/master/data-structures/time-complexity.md) - *Jan 23 2019*
+* [Linked list](https://github.com/ashishdotme/notes/blob/master/data-structures/linked-list.md) - *Jan 23 2019*
+
+## Angular
+
+* [Module](https://github.com/ashishdotme/notes/blob/master/angular/module.md) - *Jan 23 2019*
+* [Components](https://github.com/ashishdotme/notes/blob/master/angular/components.md) - *Jan 23 2019*
+* [Directives](https://github.com/ashishdotme/notes/blob/master/angular/directives.md) - *Jan 23 2019*
+* [Lifecycle](https://github.com/ashishdotme/notes/blob/master/angular/lifecycle.md) - *Jan 23 2019*
+* [Dependency injection](https://github.com/ashishdotme/notes/blob/master/angular/dependency-injection.md) - *Jan 23 2019*
+* [Template](https://github.com/ashishdotme/notes/blob/master/angular/template.md) - *Jan 23 2019*
+* [Introduction](https://github.com/ashishdotme/notes/blob/master/angular/introduction.md) - *Jan 23 2019*
+* [Routing](https://github.com/ashishdotme/notes/blob/master/angular/routing.md) - *Jan 23 2019*
+* [Pipes](https://github.com/ashishdotme/notes/blob/master/angular/pipes.md) - *Jan 23 2019*
+* [Observables](https://github.com/ashishdotme/notes/blob/master/angular/observables.md) - *Jan 23 2019*
+* [Metadata](https://github.com/ashishdotme/notes/blob/master/angular/metadata.md) - *Jan 23 2019*
+* [Angular cli](https://github.com/ashishdotme/notes/blob/master/angular/angular-cli.md) - *Jan 23 2019*
+* [Data binding](https://github.com/ashishdotme/notes/blob/master/angular/data-binding.md) - *Jan 23 2019*
 
 ## Sql
 
-- [Basics](https://github.com/ashishdotme/notes/blob/master/sql/basics.md) - _Jan 23 2019_
-- [Joins](https://github.com/ashishdotme/notes/blob/master/sql/joins.md) - _Jan 23 2019_
+* [Joins](https://github.com/ashishdotme/notes/blob/master/sql/joins.md) - *Jan 23 2019*
+* [Basics](https://github.com/ashishdotme/notes/blob/master/sql/basics.md) - *Jan 23 2019*
+
+## Maths
+
+* [Logarithm](https://github.com/ashishdotme/notes/blob/master/maths/logarithm.md) - *Jan 23 2019*
+* [Misc](https://github.com/ashishdotme/notes/blob/master/maths/misc.md) - *Jan 23 2019*
+
+## Computer architecture
+
+* [Memory](https://github.com/ashishdotme/notes/blob/master/computer-architecture/memory.md) - *Jan 23 2019*
 <!-- index ends -->
