@@ -1,2 +1,4 @@
 .DS_Store
 notes.db
+node_modules
+website
