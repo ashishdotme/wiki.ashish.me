@@ -15,6 +15,7 @@
 <!-- index starts -->
 ## Javascript
 
+* [Generator](https://github.com/ashishdotme/notes/blob/master/javascript/generator.md) - *Aug 27 2020*
 * [Callback hell](https://github.com/ashishdotme/notes/blob/master/javascript/callback-hell.md) - *Aug 23 2020*
 * [Async await](https://github.com/ashishdotme/notes/blob/master/javascript/async-await.md) - *Aug 23 2020*
 * [Babel](https://github.com/ashishdotme/notes/blob/master/javascript/babel.md) - *Apr 18 2019*
