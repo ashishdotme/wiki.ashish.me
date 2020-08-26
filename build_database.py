@@ -35,7 +35,6 @@ def build_database(repo_path):
     table = db.table("notes", pk="path")
     for filepath in root.glob("*/*.md"):
         fp = filepath.open()
-        title = fp.readline().lstrip("#").strip()
         body = fp.read().strip()
         path = str(filepath.relative_to(root))
         url = "https://github.com/ashishdotme/notes/blob/master/{}".format(
