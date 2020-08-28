@@ -15,6 +15,7 @@
 <!-- index starts -->
 ## Design patterns
 
+* [Strategy pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/strategy-pattern.md) - *Aug 28 2020*
 * [Composite pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/composite-pattern.md) - *Aug 27 2020*
 * [Decorator pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/decorator-pattern.md) - *Aug 23 2020*
 * [Adapter pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/adapter-pattern.md) - *Aug 23 2020*
@@ -32,7 +33,6 @@
 * [Template pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/template-pattern.md) - *Jan 23 2019*
 * [Bridge pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/bridge-pattern.md) - *Jan 23 2019*
 * [Facade pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/facade-pattern.md) - *Jan 23 2019*
-* [Strategy pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/strategy-pattern.md) - *Jan 23 2019*
 * [State pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/state-pattern.md) - *Jan 23 2019*
 * [Flyweight pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/flyweight-pattern.md) - *Jan 23 2019*
 * [Iterator pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/iterator-pattern.md) - *Jan 23 2019*
