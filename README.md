@@ -15,6 +15,7 @@
 <!-- index starts -->
 ## Design patterns
 
+* [Command pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/command-pattern.md) - *Aug 28 2020*
 * [Strategy pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/strategy-pattern.md) - *Aug 28 2020*
 * [Composite pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/composite-pattern.md) - *Aug 27 2020*
 * [Decorator pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/decorator-pattern.md) - *Aug 23 2020*
