@@ -13,21 +13,9 @@
 <p align="center">📻 my notes on various topics</p>
 
 <!-- index starts -->
-## Javascript
-
-* [Generator](https://github.com/ashishdotme/notes/blob/master/javascript/generator.md) - *Aug 27 2020*
-* [Callback hell](https://github.com/ashishdotme/notes/blob/master/javascript/callback-hell.md) - *Aug 23 2020*
-* [Async await](https://github.com/ashishdotme/notes/blob/master/javascript/async-await.md) - *Aug 23 2020*
-* [Babel](https://github.com/ashishdotme/notes/blob/master/javascript/babel.md) - *Apr 18 2019*
-* [Es6](https://github.com/ashishdotme/notes/blob/master/javascript/es6.md) - *Apr 18 2019*
-* [Webpack](https://github.com/ashishdotme/notes/blob/master/javascript/webpack.md) - *Apr 18 2019*
-* [Exports imports](https://github.com/ashishdotme/notes/blob/master/javascript/exports-imports.md) - *Apr 18 2019*
-* [Prototypes and classes](https://github.com/ashishdotme/notes/blob/master/javascript/prototypes-and-classes.md) - *Apr 18 2019*
-* [Introduction](https://github.com/ashishdotme/notes/blob/master/javascript/introduction.md) - *Jan 23 2019*
-* [Es5](https://github.com/ashishdotme/notes/blob/master/javascript/es5.md) - *Jan 23 2019*
-
 ## Design patterns
 
+* [Composite pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/composite-pattern.md) - *Aug 27 2020*
 * [Decorator pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/decorator-pattern.md) - *Aug 23 2020*
 * [Adapter pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/adapter-pattern.md) - *Aug 23 2020*
 * [Proxy pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/proxy-pattern.md) - *Aug 23 2020*
@@ -38,7 +26,6 @@
 * [Observer pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/observer-pattern.md) - *Jan 23 2019*
 * [Visitor pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/visitor-pattern.md) - *Jan 23 2019*
 * [Introduction](https://github.com/ashishdotme/notes/blob/master/design-patterns/introduction.md) - *Jan 23 2019*
-* [Composite pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/composite-pattern.md) - *Jan 23 2019*
 * [Interpreter pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/interpreter-pattern.md) - *Jan 23 2019*
 * [Chain of responsibility](https://github.com/ashishdotme/notes/blob/master/design-patterns/chain-of-responsibility.md) - *Jan 23 2019*
 * [Factory method](https://github.com/ashishdotme/notes/blob/master/design-patterns/factory-method.md) - *Jan 23 2019*
@@ -52,6 +39,19 @@
 * [Mediator pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/mediator-pattern.md) - *Jan 23 2019*
 * [Memento pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/memento-pattern.md) - *Jan 23 2019*
 * [Prototype pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/prototype-pattern.md) - *Jan 23 2019*
+
+## Javascript
+
+* [Generator](https://github.com/ashishdotme/notes/blob/master/javascript/generator.md) - *Aug 27 2020*
+* [Callback hell](https://github.com/ashishdotme/notes/blob/master/javascript/callback-hell.md) - *Aug 23 2020*
+* [Async await](https://github.com/ashishdotme/notes/blob/master/javascript/async-await.md) - *Aug 23 2020*
+* [Babel](https://github.com/ashishdotme/notes/blob/master/javascript/babel.md) - *Apr 18 2019*
+* [Es6](https://github.com/ashishdotme/notes/blob/master/javascript/es6.md) - *Apr 18 2019*
+* [Webpack](https://github.com/ashishdotme/notes/blob/master/javascript/webpack.md) - *Apr 18 2019*
+* [Exports imports](https://github.com/ashishdotme/notes/blob/master/javascript/exports-imports.md) - *Apr 18 2019*
+* [Prototypes and classes](https://github.com/ashishdotme/notes/blob/master/javascript/prototypes-and-classes.md) - *Apr 18 2019*
+* [Introduction](https://github.com/ashishdotme/notes/blob/master/javascript/introduction.md) - *Jan 23 2019*
+* [Es5](https://github.com/ashishdotme/notes/blob/master/javascript/es5.md) - *Jan 23 2019*
 
 ## React
 
