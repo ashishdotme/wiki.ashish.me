@@ -15,6 +15,7 @@
 <!-- index starts -->
 ## Design patterns
 
+* [Observer pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/observer-pattern.md) - *Aug 28 2020*
 * [Command pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/command-pattern.md) - *Aug 28 2020*
 * [Strategy pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/strategy-pattern.md) - *Aug 28 2020*
 * [Composite pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/composite-pattern.md) - *Aug 27 2020*
@@ -25,7 +26,6 @@
 * [Factory](https://github.com/ashishdotme/notes/blob/master/design-patterns/factory.md) - *Aug 21 2020*
 * [Singleton pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/singleton-pattern.md) - *Aug 21 2020*
 * [Delegate pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/delegate-pattern.md) - *Jan 23 2019*
-* [Observer pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/observer-pattern.md) - *Jan 23 2019*
 * [Visitor pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/visitor-pattern.md) - *Jan 23 2019*
 * [Introduction](https://github.com/ashishdotme/notes/blob/master/design-patterns/introduction.md) - *Jan 23 2019*
 * [Interpreter pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/interpreter-pattern.md) - *Jan 23 2019*
