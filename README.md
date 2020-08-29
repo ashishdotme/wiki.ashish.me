@@ -15,6 +15,7 @@
 <!-- index starts -->
 ## Design patterns
 
+* [Middleware pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/middleware-pattern.md) - *Aug 29 2020*
 * [Observer pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/observer-pattern.md) - *Aug 28 2020*
 * [Command pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/command-pattern.md) - *Aug 28 2020*
 * [Strategy pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/strategy-pattern.md) - *Aug 28 2020*
