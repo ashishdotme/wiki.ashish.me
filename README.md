@@ -15,6 +15,7 @@
 <!-- index starts -->
 ## Design patterns
 
+* [Request reply pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/request-reply-pattern.md) - *last updated at Aug 29 2020*
 * [Template pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/template-pattern.md) - *last updated at Aug 29 2020*
 * [Middleware pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/middleware-pattern.md) - *last updated at Aug 29 2020*
 * [Observer pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/observer-pattern.md) - *last updated at Aug 28 2020*
