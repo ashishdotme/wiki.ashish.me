@@ -19,7 +19,7 @@ if __name__ == "__main__":
         index.append("## {}\n".format(topic))
         for row in rows:
             index.append(
-                "* [{title}]({url}) - last updated at *{date}*".format(
+                "* [{title}]({url}) - *last updated at {date}*".format(
                     date=row["updated"], **row
                 )
             )
