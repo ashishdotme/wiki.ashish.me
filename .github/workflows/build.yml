@@ -44,7 +44,7 @@ jobs:
           git config --global user.name "Ashish Patel"
           git diff --quiet || (git add README.md && git commit -m "chore: update README")
           git push
-              - name: Setup Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v1
         with:
           node-version: '12.x'
