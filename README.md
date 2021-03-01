@@ -12,7 +12,7 @@
 
 <p align="center">📻 my notes on various topics</p>
 <div style='margin:0 auto;width:80%;'>
-  <img src="https://ashishdotme-assets.s3.ap-south-1.amazonaws.com/notes-screen.png" alt="screenshot"/>
+  <img src="./.github/assets/notes-screen.png" alt="screenshot"/>
 </div>
 <p align="center"><a href="https://notes.ashish.me">https://notes.ashish.me</a></p>
 
