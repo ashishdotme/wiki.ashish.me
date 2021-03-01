@@ -10,7 +10,8 @@
 <a href="https://img.shields.io/github/workflow/status/ashishdotme/notes/Build%20notes.ashish.me/master?style=for-the-badge"><img src="https://img.shields.io/github/workflow/status/ashishdotme/notes/Build%20notes.ashish.me/master?style=for-the-badge"></a>
 </p>
 
-<p align="center">📻 my notes on various topics <img src="https://ashishdotme-assets.s3.ap-south-1.amazonaws.com/notes-screen.png"/></p>
+<p align="center">📻 my notes on various topics</p>
+<p align="center"><a href="https://notes.ashish.me"><img src="https://ashishdotme-assets.s3.ap-south-1.amazonaws.com/notes-screen.png"/></a></p>
 <p align="center"><a href="https://notes.ashish.me">https://notes.ashish.me</a></p>
 
 <!-- index starts -->
