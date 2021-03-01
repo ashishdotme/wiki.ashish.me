@@ -5,6 +5,7 @@ import os
 import pathlib
 from urllib.parse import urlencode
 import sqlite_utils
+from pydriller import RepositoryMining
 from sqlite_utils.db import NotFoundError
 import time
 
@@ -13,12 +14,10 @@ root = pathlib.Path(__file__).parent.resolve()
 
 def created_changed_times(repo_path, ref="master"):
     created_changed_times = {}
-    repo = git.Repo(repo_path, odbt=git.GitDB)
-    commits = reversed(list(repo.iter_commits(ref)))
-    for commit in commits:
-        dt = commit.committed_datetime
-        affected_files = list(commit.stats.files.keys())
-        for filepath in affected_files:
+    for commit in RepositoryMining("https://github.com/ashishdotme/notes/").traverse_commits():
+        dt = commit.committer_date
+        for modified_file in commit.modifications:
+            filepath = modified_file.new_path
             if filepath not in created_changed_times:
                 created_changed_times[filepath] = {
                     "created": dt.isoformat(),
@@ -26,7 +25,7 @@ def created_changed_times(repo_path, ref="master"):
                 }
             created_changed_times[filepath].update(
                 {
-                    "updated": dt.strftime("%b %d %Y"),
+                    "updated": dt.isoformat(),
                     "updated_utc": dt.astimezone(timezone.utc).isoformat(),
                 }
             )

@@ -1,4 +1,5 @@
 GitPython
+Pydriller
 sqlite-utils>=3.2
 beautifulsoup4
 datasette>=0.54
