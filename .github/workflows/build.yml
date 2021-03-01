@@ -52,10 +52,9 @@ jobs:
         env:
           NOW_TOKEN: ${{ secrets.NOW_TOKEN }}
         run: |-
-          cd main
           datasette publish vercel notes.db \
             --token $NOW_TOKEN \
-            --branch main \
+            --branch master \
             --project ashish-notes \
             --metadata metadata.yaml \
             --static static:static \
