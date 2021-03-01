@@ -1,4 +1,4 @@
-{% extends "til_base.html" %}
+{% extends "note_base.html" %}
 
 {% set notes = sql("""
     select * from notes where path = :topic || '_' || :slug || '.md'
@@ -14,7 +14,7 @@
 {% block extra_head %}
 <link rel="stylesheet" href="/static/github-light.css">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:creator" content="@simonw">
+<meta name="twitter:creator" content="@ashishdotme">
 <meta name="twitter:title" content="{{ note.title }}">
 <meta name="twitter:description" content="{{ note.body }}">
 <meta name="twitter:image" content="https://notes.ashish.me/-/media/screenshot/{{ note.path }}">

@@ -1,4 +1,4 @@
-{% extends "til_base.html" %}
+{% extends "note_base.html" %}
 
 {% set notes = sql("""
     select * from notes where topic = :topic order by created_utc
