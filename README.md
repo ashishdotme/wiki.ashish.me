@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">📻 my notes on various topics <img src="https://ashishdotme-assets.s3.ap-south-1.amazonaws.com/notes-screen.png"/></p>
-<p align="center"><a href="https://notes.ashish.me">https://notes.ashish.me</a>  
+<p align="center"><a href="https://notes.ashish.me">https://notes.ashish.me</a></p>
 
 <!-- index starts -->
 ## Ielts essays
