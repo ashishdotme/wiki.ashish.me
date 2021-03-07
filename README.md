@@ -17,6 +17,20 @@
 <p align="center"><a href="https://notes.ashish.me">https://notes.ashish.me</a></p>
 
 <!-- index starts -->
+## C sharp
+
+* [Xunit](https://github.com/ashishdotme/notes/blob/master/c-sharp/xunit.md) - *last updated at 2021-03-07*
+* [Delegates](https://github.com/ashishdotme/notes/blob/master/c-sharp/delegates.md) - *last updated at 2019-01-23*
+* [Entity](https://github.com/ashishdotme/notes/blob/master/c-sharp/entity.md) - *last updated at 2019-01-23*
+* [Generics](https://github.com/ashishdotme/notes/blob/master/c-sharp/generics.md) - *last updated at 2019-01-23*
+* [Introduction](https://github.com/ashishdotme/notes/blob/master/c-sharp/introduction.md) - *last updated at 2019-01-23*
+* [Linq](https://github.com/ashishdotme/notes/blob/master/c-sharp/linq.md) - *last updated at 2019-01-23*
+* [Oops](https://github.com/ashishdotme/notes/blob/master/c-sharp/oops.md) - *last updated at 2019-01-23*
+* [Design patterns](https://github.com/ashishdotme/notes/blob/master/c-sharp/design-patterns.md) - *last updated at 2019-01-23*
+* [Lamdas](https://github.com/ashishdotme/notes/blob/master/c-sharp/lamdas.md) - *last updated at 2019-01-23*
+* [Clr](https://github.com/ashishdotme/notes/blob/master/c-sharp/CLR.md) - *last updated at 2019-01-23*
+* [Ado](https://github.com/ashishdotme/notes/blob/master/c-sharp/ado.md) - *last updated at 2019-01-23*
+
 ## Ielts essays
 
 * [Technology relationships](https://github.com/ashishdotme/notes/blob/master/ielts-essays/technology-relationships.md) - *last updated at 2021-03-01*
@@ -143,19 +157,6 @@
 ## Html
 
 * [Position](https://github.com/ashishdotme/notes/blob/master/html/position.md) - *last updated at 2019-01-23*
-
-## C sharp
-
-* [Delegates](https://github.com/ashishdotme/notes/blob/master/c-sharp/delegates.md) - *last updated at 2019-01-23*
-* [Entity](https://github.com/ashishdotme/notes/blob/master/c-sharp/entity.md) - *last updated at 2019-01-23*
-* [Generics](https://github.com/ashishdotme/notes/blob/master/c-sharp/generics.md) - *last updated at 2019-01-23*
-* [Introduction](https://github.com/ashishdotme/notes/blob/master/c-sharp/introduction.md) - *last updated at 2019-01-23*
-* [Linq](https://github.com/ashishdotme/notes/blob/master/c-sharp/linq.md) - *last updated at 2019-01-23*
-* [Oops](https://github.com/ashishdotme/notes/blob/master/c-sharp/oops.md) - *last updated at 2019-01-23*
-* [Design patterns](https://github.com/ashishdotme/notes/blob/master/c-sharp/design-patterns.md) - *last updated at 2019-01-23*
-* [Lamdas](https://github.com/ashishdotme/notes/blob/master/c-sharp/lamdas.md) - *last updated at 2019-01-23*
-* [Clr](https://github.com/ashishdotme/notes/blob/master/c-sharp/CLR.md) - *last updated at 2019-01-23*
-* [Ado](https://github.com/ashishdotme/notes/blob/master/c-sharp/ado.md) - *last updated at 2019-01-23*
 
 ## Computer architecture
 
