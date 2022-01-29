@@ -17,19 +17,96 @@
 <p align="center"><a href="https://notes.ashish.me">https://notes.ashish.me</a></p>
 
 <!-- index starts -->
+## Docker
+
+* [Architecture](https://github.com/ashishdotme/notes/blob/master/docker/architecture.md) - *last updated at 2022-01-29*
+* [Cheatsheet](https://github.com/ashishdotme/notes/blob/master/docker/cheatsheet.md) - *last updated at 2022-01-29*
+* [Container](https://github.com/ashishdotme/notes/blob/master/docker/container.md) - *last updated at 2019-04-08*
+
+## Algorithms
+
+* [Asymptotic analysis](https://github.com/ashishdotme/notes/blob/master/algorithms/asymptotic-analysis.md) - *last updated at 2022-01-29*
+* [Backtracking](https://github.com/ashishdotme/notes/blob/master/algorithms/backtracking.md) - *last updated at 2019-01-23*
+* [Introduction](https://github.com/ashishdotme/notes/blob/master/algorithms/introduction.md) - *last updated at 2019-01-23*
+* [Recursion](https://github.com/ashishdotme/notes/blob/master/algorithms/recursion.md) - *last updated at 2019-01-23*
+* [Divide and conquer](https://github.com/ashishdotme/notes/blob/master/algorithms/divide-and-conquer.md) - *last updated at 2019-01-23*
+* [Dynamic programming](https://github.com/ashishdotme/notes/blob/master/algorithms/dynamic-programming.md) - *last updated at 2019-01-23*
+* [Sorting](https://github.com/ashishdotme/notes/blob/master/algorithms/sorting.md) - *last updated at 2019-01-23*
+* [Greedy algorithms](https://github.com/ashishdotme/notes/blob/master/algorithms/greedy-algorithms.md) - *last updated at 2019-01-23*
+
+## Angular
+
+* [Routing](https://github.com/ashishdotme/notes/blob/master/angular/routing.md) - *last updated at 2022-01-29*
+* [Lifecycle](https://github.com/ashishdotme/notes/blob/master/angular/lifecycle.md) - *last updated at 2022-01-29*
+* [Template](https://github.com/ashishdotme/notes/blob/master/angular/template.md) - *last updated at 2022-01-29*
+* [Directives](https://github.com/ashishdotme/notes/blob/master/angular/directives.md) - *last updated at 2022-01-29*
+* [Pipes](https://github.com/ashishdotme/notes/blob/master/angular/pipes.md) - *last updated at 2022-01-29*
+* [Observables](https://github.com/ashishdotme/notes/blob/master/angular/observables.md) - *last updated at 2022-01-29*
+* [Data binding](https://github.com/ashishdotme/notes/blob/master/angular/data-binding.md) - *last updated at 2022-01-29*
+* [Components](https://github.com/ashishdotme/notes/blob/master/angular/components.md) - *last updated at 2022-01-29*
+* [Module](https://github.com/ashishdotme/notes/blob/master/angular/module.md) - *last updated at 2022-01-29*
+* [Introduction](https://github.com/ashishdotme/notes/blob/master/angular/introduction.md) - *last updated at 2022-01-29*
+* [Dependency injection](https://github.com/ashishdotme/notes/blob/master/angular/dependency-injection.md) - *last updated at 2022-01-29*
+* [Metadata](https://github.com/ashishdotme/notes/blob/master/angular/metadata.md) - *last updated at 2022-01-29*
+* [Angular cli](https://github.com/ashishdotme/notes/blob/master/angular/angular-cli.md) - *last updated at 2022-01-29*
+
+## Html
+
+* [Position](https://github.com/ashishdotme/notes/blob/master/html/position.md) - *last updated at 2022-01-29*
+
 ## C sharp
 
+* [Delegates](https://github.com/ashishdotme/notes/blob/master/c-sharp/delegates.md) - *last updated at 2022-01-29*
+* [Entity](https://github.com/ashishdotme/notes/blob/master/c-sharp/entity.md) - *last updated at 2022-01-29*
+* [Generics](https://github.com/ashishdotme/notes/blob/master/c-sharp/generics.md) - *last updated at 2022-01-29*
+* [Introduction](https://github.com/ashishdotme/notes/blob/master/c-sharp/introduction.md) - *last updated at 2022-01-29*
+* [Linq](https://github.com/ashishdotme/notes/blob/master/c-sharp/linq.md) - *last updated at 2022-01-29*
+* [Oops](https://github.com/ashishdotme/notes/blob/master/c-sharp/oops.md) - *last updated at 2022-01-29*
+* [Design patterns](https://github.com/ashishdotme/notes/blob/master/c-sharp/design-patterns.md) - *last updated at 2022-01-29*
+* [Lamdas](https://github.com/ashishdotme/notes/blob/master/c-sharp/lamdas.md) - *last updated at 2022-01-29*
+* [Ado](https://github.com/ashishdotme/notes/blob/master/c-sharp/ado.md) - *last updated at 2022-01-29*
 * [Xunit](https://github.com/ashishdotme/notes/blob/master/c-sharp/xunit.md) - *last updated at 2021-03-07*
-* [Delegates](https://github.com/ashishdotme/notes/blob/master/c-sharp/delegates.md) - *last updated at 2019-01-23*
-* [Entity](https://github.com/ashishdotme/notes/blob/master/c-sharp/entity.md) - *last updated at 2019-01-23*
-* [Generics](https://github.com/ashishdotme/notes/blob/master/c-sharp/generics.md) - *last updated at 2019-01-23*
-* [Introduction](https://github.com/ashishdotme/notes/blob/master/c-sharp/introduction.md) - *last updated at 2019-01-23*
-* [Linq](https://github.com/ashishdotme/notes/blob/master/c-sharp/linq.md) - *last updated at 2019-01-23*
-* [Oops](https://github.com/ashishdotme/notes/blob/master/c-sharp/oops.md) - *last updated at 2019-01-23*
-* [Design patterns](https://github.com/ashishdotme/notes/blob/master/c-sharp/design-patterns.md) - *last updated at 2019-01-23*
-* [Lamdas](https://github.com/ashishdotme/notes/blob/master/c-sharp/lamdas.md) - *last updated at 2019-01-23*
 * [Clr](https://github.com/ashishdotme/notes/blob/master/c-sharp/CLR.md) - *last updated at 2019-01-23*
-* [Ado](https://github.com/ashishdotme/notes/blob/master/c-sharp/ado.md) - *last updated at 2019-01-23*
+
+## Computer architecture
+
+* [Memory](https://github.com/ashishdotme/notes/blob/master/computer-architecture/memory.md) - *last updated at 2022-01-29*
+
+## Macbook
+
+* [Setup](https://github.com/ashishdotme/notes/blob/master/macbook/setup.md) - *last updated at 2022-01-29*
+
+## Perforce
+
+* [Introduction](https://github.com/ashishdotme/notes/blob/master/perforce/introduction.md) - *last updated at 2022-01-29*
+* [Basic operations](https://github.com/ashishdotme/notes/blob/master/perforce/basic-operations.md) - *last updated at 2022-01-29*
+* [Stream](https://github.com/ashishdotme/notes/blob/master/perforce/stream.md) - *last updated at 2022-01-29*
+
+## Javascript
+
+* [Es6](https://github.com/ashishdotme/notes/blob/master/javascript/es6.md) - *last updated at 2022-01-29*
+* [Babel](https://github.com/ashishdotme/notes/blob/master/javascript/babel.md) - *last updated at 2022-01-29*
+* [Exports imports](https://github.com/ashishdotme/notes/blob/master/javascript/exports-imports.md) - *last updated at 2022-01-29*
+* [Introduction](https://github.com/ashishdotme/notes/blob/master/javascript/introduction.md) - *last updated at 2022-01-29*
+* [Es5](https://github.com/ashishdotme/notes/blob/master/javascript/es5.md) - *last updated at 2022-01-29*
+* [Prototypes and classes](https://github.com/ashishdotme/notes/blob/master/javascript/prototypes-and-classes.md) - *last updated at 2022-01-29*
+* [Webpack](https://github.com/ashishdotme/notes/blob/master/javascript/webpack.md) - *last updated at 2022-01-29*
+* [Generator](https://github.com/ashishdotme/notes/blob/master/javascript/generator.md) - *last updated at 2020-08-27*
+* [Async await](https://github.com/ashishdotme/notes/blob/master/javascript/async-await.md) - *last updated at 2020-08-23*
+* [Callback hell](https://github.com/ashishdotme/notes/blob/master/javascript/callback-hell.md) - *last updated at 2020-08-23*
+
+## Sql
+
+* [Basics](https://github.com/ashishdotme/notes/blob/master/sql/basics.md) - *last updated at 2022-01-29*
+* [Joins](https://github.com/ashishdotme/notes/blob/master/sql/joins.md) - *last updated at 2022-01-29*
+
+## React
+
+* [Binding](https://github.com/ashishdotme/notes/blob/master/react/binding.md) - *last updated at 2022-01-29*
+* [Redux](https://github.com/ashishdotme/notes/blob/master/react/redux.md) - *last updated at 2022-01-29*
+* [Testing](https://github.com/ashishdotme/notes/blob/master/react/testing.md) - *last updated at 2022-01-29*
+* [Redux sideeffects](https://github.com/ashishdotme/notes/blob/master/react/redux-sideeffects.md) - *last updated at 2022-01-29*
+* [Lifecycle](https://github.com/ashishdotme/notes/blob/master/react/lifecycle.md) - *last updated at 2022-01-29*
 
 ## Ielts essays
 
@@ -66,33 +143,6 @@
 * [Chain of responsibility](https://github.com/ashishdotme/notes/blob/master/design-patterns/chain-of-responsibility.md) - *last updated at 2019-01-23*
 * [Mediator pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/mediator-pattern.md) - *last updated at 2019-01-23*
 
-## Javascript
-
-* [Generator](https://github.com/ashishdotme/notes/blob/master/javascript/generator.md) - *last updated at 2020-08-27*
-* [Async await](https://github.com/ashishdotme/notes/blob/master/javascript/async-await.md) - *last updated at 2020-08-23*
-* [Callback hell](https://github.com/ashishdotme/notes/blob/master/javascript/callback-hell.md) - *last updated at 2020-08-23*
-* [Es6](https://github.com/ashishdotme/notes/blob/master/javascript/es6.md) - *last updated at 2019-04-18*
-* [Babel](https://github.com/ashishdotme/notes/blob/master/javascript/babel.md) - *last updated at 2019-04-18*
-* [Exports imports](https://github.com/ashishdotme/notes/blob/master/javascript/exports-imports.md) - *last updated at 2019-04-18*
-* [Prototypes and classes](https://github.com/ashishdotme/notes/blob/master/javascript/prototypes-and-classes.md) - *last updated at 2019-04-18*
-* [Webpack](https://github.com/ashishdotme/notes/blob/master/javascript/webpack.md) - *last updated at 2019-04-18*
-* [Introduction](https://github.com/ashishdotme/notes/blob/master/javascript/introduction.md) - *last updated at 2019-01-23*
-* [Es5](https://github.com/ashishdotme/notes/blob/master/javascript/es5.md) - *last updated at 2019-01-23*
-
-## React
-
-* [Redux](https://github.com/ashishdotme/notes/blob/master/react/redux.md) - *last updated at 2020-08-21*
-* [Lifecycle](https://github.com/ashishdotme/notes/blob/master/react/lifecycle.md) - *last updated at 2020-08-21*
-* [Binding](https://github.com/ashishdotme/notes/blob/master/react/binding.md) - *last updated at 2019-04-18*
-* [Testing](https://github.com/ashishdotme/notes/blob/master/react/testing.md) - *last updated at 2019-04-18*
-* [Redux sideeffects](https://github.com/ashishdotme/notes/blob/master/react/redux-sideeffects.md) - *last updated at 2019-04-18*
-
-## Docker
-
-* [Cheatsheet](https://github.com/ashishdotme/notes/blob/master/docker/cheatsheet.md) - *last updated at 2019-09-03*
-* [Architecture](https://github.com/ashishdotme/notes/blob/master/docker/architecture.md) - *last updated at 2019-04-08*
-* [Container](https://github.com/ashishdotme/notes/blob/master/docker/container.md) - *last updated at 2019-04-08*
-
 ## Personal
 
 * [Skin care](https://github.com/ashishdotme/notes/blob/master/personal/skin-care.md) - *last updated at 2019-04-22*
@@ -100,20 +150,10 @@
 * [Hair care](https://github.com/ashishdotme/notes/blob/master/personal/hair-care.md) - *last updated at 2019-04-18*
 * [Gym](https://github.com/ashishdotme/notes/blob/master/personal/gym.md) - *last updated at 2019-04-17*
 
-## Macbook
-
-* [Setup](https://github.com/ashishdotme/notes/blob/master/macbook/setup.md) - *last updated at 2019-04-18*
-
 ## English
 
 * [Vocalary](https://github.com/ashishdotme/notes/blob/master/english/vocalary.md) - *last updated at 2019-04-18*
 * [Prepositions](https://github.com/ashishdotme/notes/blob/master/english/prepositions.md) - *last updated at 2019-04-18*
-
-## Perforce
-
-* [Introduction](https://github.com/ashishdotme/notes/blob/master/perforce/introduction.md) - *last updated at 2019-04-18*
-* [Basic operations](https://github.com/ashishdotme/notes/blob/master/perforce/basic-operations.md) - *last updated at 2019-04-18*
-* [Stream](https://github.com/ashishdotme/notes/blob/master/perforce/stream.md) - *last updated at 2019-04-18*
 
 ## Data structures
 
@@ -126,41 +166,6 @@
 * [Queue](https://github.com/ashishdotme/notes/blob/master/data-structures/queue.md) - *last updated at 2019-01-23*
 * [Tree](https://github.com/ashishdotme/notes/blob/master/data-structures/tree.md) - *last updated at 2019-01-23*
 * [Graph](https://github.com/ashishdotme/notes/blob/master/data-structures/graph.md) - *last updated at 2019-01-23*
-
-## Algorithms
-
-* [Asymptotic analysis](https://github.com/ashishdotme/notes/blob/master/algorithms/asymptotic-analysis.md) - *last updated at 2019-01-23*
-* [Backtracking](https://github.com/ashishdotme/notes/blob/master/algorithms/backtracking.md) - *last updated at 2019-01-23*
-* [Introduction](https://github.com/ashishdotme/notes/blob/master/algorithms/introduction.md) - *last updated at 2019-01-23*
-* [Recursion](https://github.com/ashishdotme/notes/blob/master/algorithms/recursion.md) - *last updated at 2019-01-23*
-* [Divide and conquer](https://github.com/ashishdotme/notes/blob/master/algorithms/divide-and-conquer.md) - *last updated at 2019-01-23*
-* [Dynamic programming](https://github.com/ashishdotme/notes/blob/master/algorithms/dynamic-programming.md) - *last updated at 2019-01-23*
-* [Sorting](https://github.com/ashishdotme/notes/blob/master/algorithms/sorting.md) - *last updated at 2019-01-23*
-* [Greedy algorithms](https://github.com/ashishdotme/notes/blob/master/algorithms/greedy-algorithms.md) - *last updated at 2019-01-23*
-
-## Angular
-
-* [Routing](https://github.com/ashishdotme/notes/blob/master/angular/routing.md) - *last updated at 2019-01-23*
-* [Lifecycle](https://github.com/ashishdotme/notes/blob/master/angular/lifecycle.md) - *last updated at 2019-01-23*
-* [Template](https://github.com/ashishdotme/notes/blob/master/angular/template.md) - *last updated at 2019-01-23*
-* [Directives](https://github.com/ashishdotme/notes/blob/master/angular/directives.md) - *last updated at 2019-01-23*
-* [Pipes](https://github.com/ashishdotme/notes/blob/master/angular/pipes.md) - *last updated at 2019-01-23*
-* [Observables](https://github.com/ashishdotme/notes/blob/master/angular/observables.md) - *last updated at 2019-01-23*
-* [Data binding](https://github.com/ashishdotme/notes/blob/master/angular/data-binding.md) - *last updated at 2019-01-23*
-* [Components](https://github.com/ashishdotme/notes/blob/master/angular/components.md) - *last updated at 2019-01-23*
-* [Module](https://github.com/ashishdotme/notes/blob/master/angular/module.md) - *last updated at 2019-01-23*
-* [Introduction](https://github.com/ashishdotme/notes/blob/master/angular/introduction.md) - *last updated at 2019-01-23*
-* [Dependency injection](https://github.com/ashishdotme/notes/blob/master/angular/dependency-injection.md) - *last updated at 2019-01-23*
-* [Metadata](https://github.com/ashishdotme/notes/blob/master/angular/metadata.md) - *last updated at 2019-01-23*
-* [Angular cli](https://github.com/ashishdotme/notes/blob/master/angular/angular-cli.md) - *last updated at 2019-01-23*
-
-## Html
-
-* [Position](https://github.com/ashishdotme/notes/blob/master/html/position.md) - *last updated at 2019-01-23*
-
-## Computer architecture
-
-* [Memory](https://github.com/ashishdotme/notes/blob/master/computer-architecture/memory.md) - *last updated at 2019-01-23*
 
 ## Swift
 
@@ -183,9 +188,4 @@
 
 * [Misc](https://github.com/ashishdotme/notes/blob/master/maths/misc.md) - *last updated at 2019-01-23*
 * [Logarithm](https://github.com/ashishdotme/notes/blob/master/maths/logarithm.md) - *last updated at 2019-01-23*
-
-## Sql
-
-* [Basics](https://github.com/ashishdotme/notes/blob/master/sql/basics.md) - *last updated at 2019-01-23*
-* [Joins](https://github.com/ashishdotme/notes/blob/master/sql/joins.md) - *last updated at 2019-01-23*
 <!-- index ends -->
