@@ -1,8 +1,3 @@
----
-id: binding
-title: Binding
----
-
 ## Default binding
 
 ```javascript

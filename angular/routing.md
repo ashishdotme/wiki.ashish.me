@@ -1,8 +1,3 @@
----
-id: routing
-title: Routing
----
-
 To implement routing in Angular 4, we import RouterModule from `@angular/router`. Router module takes an input
 as array. Array is made up of objects containing the path and the component.
 

@@ -1,8 +1,3 @@
----
-id: introduction
-title: Introduction
----
-
 Angular is a front end framework that makes it easy to build applications. The advantage of using Angular is that it provides dependency injection, end to end tooling.
 
 ## Architecture of Angular

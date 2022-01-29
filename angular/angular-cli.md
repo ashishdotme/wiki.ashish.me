@@ -1,8 +1,3 @@
----
-id: angular-cli
-title: Angular CLI
----
-
 Angular CLI(Command Line Interface) is a command line interface to scaffold and build angular apps using nodejs style (commonJs) modules.
 
 Below are the list of commands

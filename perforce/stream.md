@@ -1,8 +1,3 @@
----
-id: streams
-title: Streams
----
-
 ## Streams
 
 It provides guidance of how changes flow from one branch to another. It makes sure each change gets

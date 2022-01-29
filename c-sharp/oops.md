@@ -1,8 +1,3 @@
----
-id: oops
-title: OOPS
----
-
 ## Class
 Class is the blueprint of the object as it stores data and functions. It does not occupy space as it is just the logical representation of data.
 

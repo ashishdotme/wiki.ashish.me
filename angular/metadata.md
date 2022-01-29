@@ -1,8 +1,3 @@
----
-id: metadata
-title: Metadata/Decorators
----
-
 Metadata is also called decorator which is used to decorate a class so that it can configure the expected behavior of the class. There are four types of decorators.
 
 ## Class decorators (@NgModule, @Component)

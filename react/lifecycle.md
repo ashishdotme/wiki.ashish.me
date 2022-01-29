@@ -1,8 +1,3 @@
----
-id: lifecycle
-title: Component Lifecycle
----
-
 ## Create
 
 ### Contructor(props)

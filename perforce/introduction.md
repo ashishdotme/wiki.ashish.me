@@ -1,8 +1,3 @@
----
-id: workspace
-title: Workspace
----
-
 ## Helix Core (P4D)
 
 Helix core is a version control system for large scale development environment.

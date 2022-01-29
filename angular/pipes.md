@@ -1,8 +1,3 @@
----
-id: pipes
-title: Pipes
----
-
 Pipes in Angular are used to transform data. It takes integers, strings, arrays, and date as input separated with `|` to be converted in the format as required and display the same in the browser.
 
 Below are the built in pipes provied by Angular

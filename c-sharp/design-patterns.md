@@ -1,8 +1,3 @@
----
-id: design-patterns
-title: Design Patterns
----
-
 Design patterns may be said as a set of probable solutions for a particular problem which is tested to work best in certain situations.
 
 ## Creational Patterns

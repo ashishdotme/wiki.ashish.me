@@ -1,8 +1,3 @@
----
-id: lifecycle
-title: Lifecycle
----
-
 ![lifecycle](https://github.com/sudheerj/angular-interview-questions/raw/master/images/lifecycle.png)
 
 1. **ngOnChanges**: When the value of a data bound property changes, then this method is called.

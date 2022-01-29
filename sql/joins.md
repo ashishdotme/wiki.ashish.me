@@ -1,8 +1,3 @@
----
-id: joins
-title: Joins
----
-
 SQL Joins is used to combine data or rows from two or more tables based on a common field between them. Different types of Joins are:
 
 **Employee Table**

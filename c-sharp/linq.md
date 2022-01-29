@@ -1,8 +1,3 @@
----
-id: linq
-title: Linq
----
-
 # Linq
 
 LINQ (Language Integrated Query) is uniform query syntax in C# and VB.NET used to save and retrieve data from different sources.

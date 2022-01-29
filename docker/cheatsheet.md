@@ -1,7 +1,4 @@
----
-id: cheatsheet
-title: Cheatsheet
----
+# Cheatsheet
 
 ```sh
 # Run a container based on a docker image

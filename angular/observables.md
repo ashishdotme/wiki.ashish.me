@@ -1,8 +1,3 @@
----
-id: observables
-title: Observables
----
-
 Observables are like promises which provide us with abstractions that help us deal with the
 asynchronous nature of applications.
 

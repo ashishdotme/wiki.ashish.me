@@ -1,8 +1,3 @@
----
-id: exports-imports
-title: Exports Imports
----
-
 ## Default Export
 
 ```javascript

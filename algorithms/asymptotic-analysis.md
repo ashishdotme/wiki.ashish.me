@@ -1,4 +1,4 @@
-[] A problem with complexity O(n) which takes 2^60 times will take 60 times in O(log n) complexity
+A problem with complexity O(n) which takes 2^60 times will take 60 times in O(log n) complexity
 
 | <-- Fast		|          |   		      |		   |			  |		Slow -->|
 | --------------|:--------:|:------------:|:------:|:------------:|:------------|

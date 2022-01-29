@@ -1,8 +1,3 @@
----
-id: basic-operations
-title: Basic Operations
----
-
 ## File Status
 
 1. **Tick Mark**  

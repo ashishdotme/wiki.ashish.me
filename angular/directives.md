@@ -1,8 +1,3 @@
----
-id: directives
-title: Directives
----
-
 There are three types of directives in Angular
 
 - Components - Directives with a template

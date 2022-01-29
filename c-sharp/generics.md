@@ -1,8 +1,3 @@
----
-id: generics
-title: Generics
----
-
 Generics allow for designing a classes and methods whose types are specified only at the time of declaration and instantiation.
 
 Without generics we will have to create class for every datatype. We can use object but it will involve boxing and unboxing. With generics, there is no need for that.

@@ -1,8 +1,3 @@
----
-id: setup
-title: Setup
----
-
 #### Show path bar
 
 `defaults write com.apple.finder ShowPathbar -bool true`

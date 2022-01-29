@@ -1,8 +1,3 @@
----
-id: module
-title: Module
----
-
 NgModule helps us to organize our components, directives and services into logical unit. For example if we want to impoort a component in our component then we need to import everything that it is dependent on like services,
 pipes etc. NgModules rescus us by importing everything and making it available throughout the components under one module.
 

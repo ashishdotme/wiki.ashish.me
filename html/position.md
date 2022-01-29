@@ -1,8 +1,3 @@
----
-id: position
-title: position
----
-
 CSS treats each HTML element as its own box, which is usually referred to as the CSS Box Model. Block-level items automatically start on a new line like headings while inline items sit within surrounding content. We can use the position property to override the layout of elements.
 
 ## Position

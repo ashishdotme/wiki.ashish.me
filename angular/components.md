@@ -1,8 +1,3 @@
----
-id: components
-title: Components
----
-
 Components are classes that interact with the html file of the component. Components uses @Component decorator. It requires template unlike directive. Constructor is auto generated in components.
 
 This is the definition of component
