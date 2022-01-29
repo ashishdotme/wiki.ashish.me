@@ -127,10 +127,6 @@
 
 * [Vocalary](https://github.com/ashishdotme/notes/blob/master/english/vocalary.md) - *last updated at 2019-04-18*
 
-## Personal
-
-* [Gym](https://github.com/ashishdotme/notes/blob/master/personal/gym.md) - *last updated at 2019-04-17*
-
 ## Data structures
 
 * [Time complexity](https://github.com/ashishdotme/notes/blob/master/data-structures/time-complexity.md) - *last updated at 2019-01-23*
