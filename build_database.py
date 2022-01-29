@@ -59,39 +59,40 @@ def build_database(repo_path):
             "slug": slug,
             "body": body,
         }
-        if (body != previous_body) or not previous_html:
-            retries = 0
-            response = None
-            while retries < 3:
-                headers = {}
-                if os.environ.get("GITHUB_TOKEN"):
-                    headers = {
-                        "authorization": "Bearer {}".format(os.environ["GITHUB_TOKEN"])
-                    }
-                response = httpx.post(
-                    "https://api.github.com/markdown",
-                    json={
-                        # mode=gfm would expand #13 issue links and suchlike
-                        "mode": "markdown",
-                        "text": body,
-                    },
-                    headers=headers,
-                )
-                if response.status_code == 200:
-                    record["html"] = response.text
-                    print("Rendered HTML for {}".format(path))
-                    break
-                else:
-                    print("  sleeping 60s")
-                    time.sleep(60)
-                    retries += 1
-            else:
-                assert False, "Could not render {} - last response was {}".format(
-                    path, response.headers
-                )
-        record.update(all_times[path])
-        with db.conn:
-            table.upsert(record, alter=True)
+        if(len(body.strip())):
+          if (body != previous_body) or not previous_html:
+              retries = 0
+              response = None
+              while retries < 3:
+                  headers = {}
+                  if os.environ.get("GITHUB_TOKEN"):
+                      headers = {
+                          "authorization": "Bearer {}".format(os.environ["GITHUB_TOKEN"])
+                      }
+                  response = httpx.post(
+                      "https://api.github.com/markdown",
+                      json={
+                          # mode=gfm would expand #13 issue links and suchlike
+                          "mode": "markdown",
+                          "text": body,
+                      },
+                      headers=headers,
+                  )
+                  if response.status_code == 200:
+                      record["html"] = response.text
+                      print("Rendered HTML for {}".format(path))
+                      break
+                  else:
+                      print("  sleeping 60s")
+                      time.sleep(60)
+                      retries += 1
+              else:
+                  assert False, "Could not render {} - last response was {}".format(
+                      path, response.headers
+                  )
+          record.update(all_times[path])
+          with db.conn:
+              table.upsert(record, alter=True)
     if "notes_fts" not in db.table_names():
         table.enable_fts(["title", "body"])
 
