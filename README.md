@@ -38,7 +38,6 @@
 
 * [Routing](https://github.com/ashishdotme/notes/blob/master/angular/routing.md) - *last updated at 2022-01-29*
 * [Lifecycle](https://github.com/ashishdotme/notes/blob/master/angular/lifecycle.md) - *last updated at 2022-01-29*
-* [Template](https://github.com/ashishdotme/notes/blob/master/angular/template.md) - *last updated at 2022-01-29*
 * [Directives](https://github.com/ashishdotme/notes/blob/master/angular/directives.md) - *last updated at 2022-01-29*
 * [Pipes](https://github.com/ashishdotme/notes/blob/master/angular/pipes.md) - *last updated at 2022-01-29*
 * [Observables](https://github.com/ashishdotme/notes/blob/master/angular/observables.md) - *last updated at 2022-01-29*
@@ -49,6 +48,7 @@
 * [Dependency injection](https://github.com/ashishdotme/notes/blob/master/angular/dependency-injection.md) - *last updated at 2022-01-29*
 * [Metadata](https://github.com/ashishdotme/notes/blob/master/angular/metadata.md) - *last updated at 2022-01-29*
 * [Angular cli](https://github.com/ashishdotme/notes/blob/master/angular/angular-cli.md) - *last updated at 2022-01-29*
+* [Template](https://github.com/ashishdotme/notes/blob/master/angular/template.md) - *last updated at 2022-01-29*
 
 ## Html
 
@@ -59,12 +59,12 @@
 * [Delegates](https://github.com/ashishdotme/notes/blob/master/c-sharp/delegates.md) - *last updated at 2022-01-29*
 * [Entity](https://github.com/ashishdotme/notes/blob/master/c-sharp/entity.md) - *last updated at 2022-01-29*
 * [Generics](https://github.com/ashishdotme/notes/blob/master/c-sharp/generics.md) - *last updated at 2022-01-29*
-* [Introduction](https://github.com/ashishdotme/notes/blob/master/c-sharp/introduction.md) - *last updated at 2022-01-29*
 * [Linq](https://github.com/ashishdotme/notes/blob/master/c-sharp/linq.md) - *last updated at 2022-01-29*
 * [Oops](https://github.com/ashishdotme/notes/blob/master/c-sharp/oops.md) - *last updated at 2022-01-29*
 * [Design patterns](https://github.com/ashishdotme/notes/blob/master/c-sharp/design-patterns.md) - *last updated at 2022-01-29*
-* [Lamdas](https://github.com/ashishdotme/notes/blob/master/c-sharp/lamdas.md) - *last updated at 2022-01-29*
 * [Ado](https://github.com/ashishdotme/notes/blob/master/c-sharp/ado.md) - *last updated at 2022-01-29*
+* [Lamdas](https://github.com/ashishdotme/notes/blob/master/c-sharp/lamdas.md) - *last updated at 2022-01-29*
+* [Introduction](https://github.com/ashishdotme/notes/blob/master/c-sharp/introduction.md) - *last updated at 2022-01-29*
 * [Xunit](https://github.com/ashishdotme/notes/blob/master/c-sharp/xunit.md) - *last updated at 2021-03-07*
 * [Clr](https://github.com/ashishdotme/notes/blob/master/c-sharp/CLR.md) - *last updated at 2019-01-23*
 
@@ -128,61 +128,41 @@
 * [Builder pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/builder-pattern.md) - *last updated at 2020-08-21*
 * [Factory](https://github.com/ashishdotme/notes/blob/master/design-patterns/factory.md) - *last updated at 2020-08-21*
 * [Singleton pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/singleton-pattern.md) - *last updated at 2020-08-21*
-* [Flyweight pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/flyweight-pattern.md) - *last updated at 2019-01-23*
-* [State pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/state-pattern.md) - *last updated at 2019-01-23*
 * [Iterator pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/iterator-pattern.md) - *last updated at 2019-01-23*
-* [Facade pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/facade-pattern.md) - *last updated at 2019-01-23*
-* [Introduction](https://github.com/ashishdotme/notes/blob/master/design-patterns/introduction.md) - *last updated at 2019-01-23*
-* [Factory method](https://github.com/ashishdotme/notes/blob/master/design-patterns/factory-method.md) - *last updated at 2019-01-23*
+* [Chain of responsibility](https://github.com/ashishdotme/notes/blob/master/design-patterns/chain-of-responsibility.md) - *last updated at 2019-01-23*
 * [Memento pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/memento-pattern.md) - *last updated at 2019-01-23*
+* [Mediator pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/mediator-pattern.md) - *last updated at 2019-01-23*
+* [Facade pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/facade-pattern.md) - *last updated at 2019-01-23*
+* [Interpreter pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/interpreter-pattern.md) - *last updated at 2019-01-23*
+* [Factory method](https://github.com/ashishdotme/notes/blob/master/design-patterns/factory-method.md) - *last updated at 2019-01-23*
 * [Prototype pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/prototype-pattern.md) - *last updated at 2019-01-23*
 * [Visitor pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/visitor-pattern.md) - *last updated at 2019-01-23*
-* [Interpreter pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/interpreter-pattern.md) - *last updated at 2019-01-23*
-* [Delegate pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/delegate-pattern.md) - *last updated at 2019-01-23*
+* [Flyweight pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/flyweight-pattern.md) - *last updated at 2019-01-23*
+* [Introduction](https://github.com/ashishdotme/notes/blob/master/design-patterns/introduction.md) - *last updated at 2019-01-23*
+* [State pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/state-pattern.md) - *last updated at 2019-01-23*
 * [Bridge pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/bridge-pattern.md) - *last updated at 2019-01-23*
-* [Chain of responsibility](https://github.com/ashishdotme/notes/blob/master/design-patterns/chain-of-responsibility.md) - *last updated at 2019-01-23*
-* [Mediator pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/mediator-pattern.md) - *last updated at 2019-01-23*
-
-## Personal
-
-* [Skin care](https://github.com/ashishdotme/notes/blob/master/personal/skin-care.md) - *last updated at 2019-04-22*
-* [Diet plan](https://github.com/ashishdotme/notes/blob/master/personal/diet-plan.md) - *last updated at 2019-04-19*
-* [Hair care](https://github.com/ashishdotme/notes/blob/master/personal/hair-care.md) - *last updated at 2019-04-18*
-* [Gym](https://github.com/ashishdotme/notes/blob/master/personal/gym.md) - *last updated at 2019-04-17*
+* [Delegate pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/delegate-pattern.md) - *last updated at 2019-01-23*
 
 ## English
 
 * [Vocalary](https://github.com/ashishdotme/notes/blob/master/english/vocalary.md) - *last updated at 2019-04-18*
 * [Prepositions](https://github.com/ashishdotme/notes/blob/master/english/prepositions.md) - *last updated at 2019-04-18*
 
+## Personal
+
+* [Gym](https://github.com/ashishdotme/notes/blob/master/personal/gym.md) - *last updated at 2019-04-17*
+
 ## Data structures
 
-* [Stack](https://github.com/ashishdotme/notes/blob/master/data-structures/stack.md) - *last updated at 2019-01-23*
-* [Hash table](https://github.com/ashishdotme/notes/blob/master/data-structures/hash-table.md) - *last updated at 2019-01-23*
 * [Time complexity](https://github.com/ashishdotme/notes/blob/master/data-structures/time-complexity.md) - *last updated at 2019-01-23*
-* [Introduction](https://github.com/ashishdotme/notes/blob/master/data-structures/introduction.md) - *last updated at 2019-01-23*
 * [Array](https://github.com/ashishdotme/notes/blob/master/data-structures/array.md) - *last updated at 2019-01-23*
 * [Linked list](https://github.com/ashishdotme/notes/blob/master/data-structures/linked-list.md) - *last updated at 2019-01-23*
-* [Queue](https://github.com/ashishdotme/notes/blob/master/data-structures/queue.md) - *last updated at 2019-01-23*
 * [Tree](https://github.com/ashishdotme/notes/blob/master/data-structures/tree.md) - *last updated at 2019-01-23*
+* [Stack](https://github.com/ashishdotme/notes/blob/master/data-structures/stack.md) - *last updated at 2019-01-23*
 * [Graph](https://github.com/ashishdotme/notes/blob/master/data-structures/graph.md) - *last updated at 2019-01-23*
-
-## Swift
-
-* [Extensions](https://github.com/ashishdotme/notes/blob/master/swift/extensions.md) - *last updated at 2019-01-23*
-* [Collections](https://github.com/ashishdotme/notes/blob/master/swift/collections.md) - *last updated at 2019-01-23*
-* [Generics](https://github.com/ashishdotme/notes/blob/master/swift/generics.md) - *last updated at 2019-01-23*
-* [Classes and structures](https://github.com/ashishdotme/notes/blob/master/swift/classes-and-structures.md) - *last updated at 2019-01-23*
-* [Pattern matching](https://github.com/ashishdotme/notes/blob/master/swift/pattern-matching.md) - *last updated at 2019-01-23*
-* [Types and flow](https://github.com/ashishdotme/notes/blob/master/swift/types-and-flow.md) - *last updated at 2019-01-23*
-* [Introduction](https://github.com/ashishdotme/notes/blob/master/swift/introduction.md) - *last updated at 2019-01-23*
-* [Optionals](https://github.com/ashishdotme/notes/blob/master/swift/optionals.md) - *last updated at 2019-01-23*
-* [Operators](https://github.com/ashishdotme/notes/blob/master/swift/operators.md) - *last updated at 2019-01-23*
-* [Memory management](https://github.com/ashishdotme/notes/blob/master/swift/memory-management.md) - *last updated at 2019-01-23*
-* [Functions and closures](https://github.com/ashishdotme/notes/blob/master/swift/functions-and-closures.md) - *last updated at 2019-01-23*
-* [Error handling](https://github.com/ashishdotme/notes/blob/master/swift/error-handling.md) - *last updated at 2019-01-23*
-* [Protocols](https://github.com/ashishdotme/notes/blob/master/swift/protocols.md) - *last updated at 2019-01-23*
-* [Enumerations](https://github.com/ashishdotme/notes/blob/master/swift/enumerations.md) - *last updated at 2019-01-23*
+* [Queue](https://github.com/ashishdotme/notes/blob/master/data-structures/queue.md) - *last updated at 2019-01-23*
+* [Hash table](https://github.com/ashishdotme/notes/blob/master/data-structures/hash-table.md) - *last updated at 2019-01-23*
+* [Introduction](https://github.com/ashishdotme/notes/blob/master/data-structures/introduction.md) - *last updated at 2019-01-23*
 
 ## Maths
 
