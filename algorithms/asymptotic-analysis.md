@@ -27,3 +27,18 @@ for(var i...){ // O(n)
 }
 ```
 
+### O(log n)
+
+```javascript
+for(let i = 0; i < n; i*2){ //O(log n)
+	stmt;
+}
+```
+
+$$  
+\begin{aligned}
+i >= n \\
+2^{k} >= n \\
+k = \log _{2} n \\
+\end{aligned}
+$$
