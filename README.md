@@ -17,14 +17,9 @@
 <p align="center"><a href="https://notes.ashish.me">https://notes.ashish.me</a></p>
 
 <!-- index starts -->
-## Docker
-
-* [Architecture](https://github.com/ashishdotme/notes/blob/master/docker/architecture.md) - *last updated at 2022-01-29*
-* [Cheatsheet](https://github.com/ashishdotme/notes/blob/master/docker/cheatsheet.md) - *last updated at 2022-01-29*
-
 ## Algorithms
 
-* [Asymptotic analysis](https://github.com/ashishdotme/notes/blob/master/algorithms/asymptotic-analysis.md) - *last updated at 2022-01-29*
+* [Asymptotic analysis](https://github.com/ashishdotme/notes/blob/master/algorithms/asymptotic-analysis.md) - *last updated at 2022-02-02*
 * [Backtracking](https://github.com/ashishdotme/notes/blob/master/algorithms/backtracking.md) - *last updated at 2019-01-23*
 * [Introduction](https://github.com/ashishdotme/notes/blob/master/algorithms/introduction.md) - *last updated at 2019-01-23*
 * [Recursion](https://github.com/ashishdotme/notes/blob/master/algorithms/recursion.md) - *last updated at 2019-01-23*
@@ -32,6 +27,11 @@
 * [Dynamic programming](https://github.com/ashishdotme/notes/blob/master/algorithms/dynamic-programming.md) - *last updated at 2019-01-23*
 * [Sorting](https://github.com/ashishdotme/notes/blob/master/algorithms/sorting.md) - *last updated at 2019-01-23*
 * [Greedy algorithms](https://github.com/ashishdotme/notes/blob/master/algorithms/greedy-algorithms.md) - *last updated at 2019-01-23*
+
+## Docker
+
+* [Architecture](https://github.com/ashishdotme/notes/blob/master/docker/architecture.md) - *last updated at 2022-01-29*
+* [Cheatsheet](https://github.com/ashishdotme/notes/blob/master/docker/cheatsheet.md) - *last updated at 2022-01-29*
 
 ## Angular
 
