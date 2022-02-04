@@ -102,10 +102,6 @@
 * [Redux sideeffects](https://github.com/ashishdotme/notes/blob/master/react/redux-sideeffects.md) - *last updated at 2022-01-29*
 * [Lifecycle](https://github.com/ashishdotme/notes/blob/master/react/lifecycle.md) - *last updated at 2022-01-29*
 
-## Ielts essays
-
-* [Technology relationships](https://github.com/ashishdotme/notes/blob/master/ielts-essays/technology-relationships.md) - *last updated at 2021-03-01*
-
 ## Design patterns
 
 * [Publisher subscriber pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/publisher-subscriber-pattern.md) - *last updated at 2020-08-29*
