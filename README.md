@@ -17,6 +17,10 @@
 <p align="center"><a href="https://notes.ashish.me">https://notes.ashish.me</a></p>
 
 <!-- index starts -->
+## Oops
+
+* [Abstraction](https://github.com/ashishdotme/notes/blob/master/oops/abstraction.md) - *last updated at 2022-06-06*
+
 ## Algorithms
 
 * [Asymptotic analysis](https://github.com/ashishdotme/notes/blob/master/algorithms/asymptotic-analysis.md) - *last updated at 2022-02-02*
