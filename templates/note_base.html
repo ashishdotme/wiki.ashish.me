@@ -6,6 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" href="/static/favicon.ico" type="image/x-icon">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css">
+<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
 <title>{% block title %}{% endblock %}</title>
 {% block extra_head %}{% endblock %}
 <style>
@@ -124,8 +125,6 @@ section.body {
 
 {% block body %}{% endblock %}
 	
-<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-	<script>mermaid.initialize({startOnLoad:true});
-</script>
+<script>mermaid.initialize({startOnLoad:true});</script>
 </body>
 </html>
