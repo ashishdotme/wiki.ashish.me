@@ -17,6 +17,10 @@
 <p align="center"><a href="https://notes.ashish.me">https://notes.ashish.me</a></p>
 
 <!-- index starts -->
+## Kafka
+
+* [Introduction](https://github.com/ashishdotme/notes/blob/master/kafka/introduction.md) - *last updated at 2024-03-21*
+
 ## Oops
 
 * [Abstraction](https://github.com/ashishdotme/notes/blob/master/oops/abstraction.md) - *last updated at 2022-06-06*
