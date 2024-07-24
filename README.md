@@ -17,6 +17,10 @@
 <p align="center"><a href="https://notes.ashish.me">https://notes.ashish.me</a></p>
 
 <!-- index starts -->
+## System design
+
+* [Nosql](https://github.com/ashishdotme/notes/blob/master/system-design/nosql.md) - *last updated at 2024-07-24*
+
 ## Kafka
 
 * [Introduction](https://github.com/ashishdotme/notes/blob/master/kafka/introduction.md) - *last updated at 2024-03-21*
