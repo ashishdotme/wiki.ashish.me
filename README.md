@@ -19,6 +19,7 @@
 <!-- index starts -->
 ## System design
 
+* [Introduction](https://github.com/ashishdotme/notes/blob/master/system-design/Introduction.md) - *last updated at 2024-07-24*
 * [Nosql](https://github.com/ashishdotme/notes/blob/master/system-design/nosql.md) - *last updated at 2024-07-24*
 
 ## Kafka
