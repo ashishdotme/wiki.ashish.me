@@ -1,4 +1,6 @@
 
+## Introduction
+
 1. **Scalability**
     - **Horizontal Scaling**: Easily distribute data across multiple servers.
 2. **Data Model Flexibility**
