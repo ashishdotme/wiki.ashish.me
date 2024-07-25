@@ -1,6 +1,6 @@
 GitPython
 Pydriller==1.15.5
-sqlite-utils>=3.2
+sqlite-utils==3.2
 beautifulsoup4
 datasette==0.64.7
 datasette-atom>=0.7
