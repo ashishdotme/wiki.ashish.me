@@ -19,8 +19,8 @@
 <!-- index starts -->
 ## System design
 
-* [Nosql](https://github.com/ashishdotme/notes/blob/master/system-design/nosql.md) - *last updated at 2024-07-25*
 * [Availability vs consistency pattern](https://github.com/ashishdotme/notes/blob/master/system-design/availability-vs-consistency-pattern.md) - *last updated at 2024-07-25*
+* [Nosql](https://github.com/ashishdotme/notes/blob/master/system-design/nosql.md) - *last updated at 2024-07-25*
 * [Introduction](https://github.com/ashishdotme/notes/blob/master/system-design/Introduction.md) - *last updated at 2024-07-25*
 
 ## Kafka
