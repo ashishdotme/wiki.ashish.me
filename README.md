@@ -17,6 +17,13 @@
 <p align="center"><a href="https://notes.ashish.me">https://notes.ashish.me</a></p>
 
 <!-- index starts -->
+## System design
+
+* [Database](https://github.com/ashishdotme/notes/blob/master/system-design/database.md) - *last updated at 2024-07-25*
+* [Availability vs consistency pattern](https://github.com/ashishdotme/notes/blob/master/system-design/availability-vs-consistency-pattern.md) - *last updated at 2024-07-25*
+* [Nosql](https://github.com/ashishdotme/notes/blob/master/system-design/nosql.md) - *last updated at 2024-07-25*
+* [Introduction](https://github.com/ashishdotme/notes/blob/master/system-design/Introduction.md) - *last updated at 2024-07-25*
+
 ## Algorithms
 
 * [Round robin](https://github.com/ashishdotme/notes/blob/master/algorithms/round-robin.md) - *last updated at 2024-07-25*
@@ -28,12 +35,6 @@
 * [Dynamic programming](https://github.com/ashishdotme/notes/blob/master/algorithms/dynamic-programming.md) - *last updated at 2019-01-23*
 * [Sorting](https://github.com/ashishdotme/notes/blob/master/algorithms/sorting.md) - *last updated at 2019-01-23*
 * [Greedy algorithms](https://github.com/ashishdotme/notes/blob/master/algorithms/greedy-algorithms.md) - *last updated at 2019-01-23*
-
-## System design
-
-* [Availability vs consistency pattern](https://github.com/ashishdotme/notes/blob/master/system-design/availability-vs-consistency-pattern.md) - *last updated at 2024-07-25*
-* [Nosql](https://github.com/ashishdotme/notes/blob/master/system-design/nosql.md) - *last updated at 2024-07-25*
-* [Introduction](https://github.com/ashishdotme/notes/blob/master/system-design/Introduction.md) - *last updated at 2024-07-25*
 
 ## Kafka
 
