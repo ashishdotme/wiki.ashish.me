@@ -2,9 +2,9 @@ GitPython
 Pydriller==1.15.5
 sqlite-utils>=3.2
 beautifulsoup4
-datasette>=0.64.8
+datasette==0.64.7
 datasette-atom>=0.7
-datasette-publish-vercel>=0.9.1
+datasette-publish-vercel>=0.14.1
 datasette-template-sql>=1.0.2
 datasette-graphql
 datasette-media
