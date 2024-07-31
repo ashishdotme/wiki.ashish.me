@@ -17,6 +17,11 @@
 <p align="center"><a href="https://notes.ashish.me">https://notes.ashish.me</a></p>
 
 <!-- index starts -->
+## Oops
+
+* [Class uml](https://github.com/ashishdotme/notes/blob/master/oops/class-uml.md) - *last updated at 2024-07-31*
+* [Abstraction](https://github.com/ashishdotme/notes/blob/master/oops/abstraction.md) - *last updated at 2022-06-06*
+
 ## System design
 
 * [Database](https://github.com/ashishdotme/notes/blob/master/system-design/database.md) - *last updated at 2024-07-26*
@@ -39,10 +44,6 @@
 ## Kafka
 
 * [Introduction](https://github.com/ashishdotme/notes/blob/master/kafka/introduction.md) - *last updated at 2024-03-21*
-
-## Oops
-
-* [Abstraction](https://github.com/ashishdotme/notes/blob/master/oops/abstraction.md) - *last updated at 2022-06-06*
 
 ## Docker
 
