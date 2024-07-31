@@ -29,3 +29,22 @@ Class A owns Class B.
 E.g. Body consists of Arm, Head, Legs. BankAccount consists of Balance and TransactionHistory.
 
 So if class A gets deleted then also class B will get deleted.
+
+````mermaid
+classDiagram
+  direction RL
+  class Student {
+    -idCard : IdCard
+  }
+  class IdCard{
+    -id : int
+    -name : string
+  }
+  class Bike{
+    -id : int
+    -name : string
+  }
+  Student "1" --o "1" IdCard : carries
+  Student "1" --o "1" Bike : rides
+
+````
