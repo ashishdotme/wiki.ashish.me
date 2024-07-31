@@ -7,4 +7,13 @@ class Item {
 -itemId
 +isRestricted()
 }
+class Customer {
+-name
++getAddress()
+}
+class Address {
+-country
+-state
+}
+Address *-- Customer : composition 
 ```
