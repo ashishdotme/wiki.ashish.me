@@ -19,8 +19,8 @@
 <!-- index starts -->
 ## Oops
 
-* [Class uml](https://github.com/ashishdotme/notes/blob/master/oops/class-uml.md) - *last updated at 2024-07-31*
 * [Shopping cart uml](https://github.com/ashishdotme/notes/blob/master/oops/shopping-cart-uml.md) - *last updated at 2024-07-31*
+* [Class uml](https://github.com/ashishdotme/notes/blob/master/oops/class-uml.md) - *last updated at 2024-07-31*
 * [Abstraction](https://github.com/ashishdotme/notes/blob/master/oops/abstraction.md) - *last updated at 2022-06-06*
 
 ## System design
