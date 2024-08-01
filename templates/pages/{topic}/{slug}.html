@@ -79,10 +79,11 @@
     </form>
   </div>
 </section>
-<section class="content body mt-2">
-  <article class="markdown-body">
-    {{ note.html|safe }}
-  </article>
-</section>
+<!-- <section class="content body mt-2">
+  
+</section> -->
+<article class="markdown-body">
+  {{ note.html|safe }}
+</article>
 <p class="created ml-3 mb-5">Created {{ note.created }}{% if note.created != note.updated %}, updated {{ note.updated }} &middot; <a href="{{ note.url|replace("https://github.com/ashishdotme/notes/blob/", "https://github.com/ashishdotme/notes/commits/") }}">History</a>{% endif %} &middot; <a href="{{ note.url }}">Edit</a></p>
 {% endblock %}
