@@ -50,7 +50,7 @@ jobs:
         run: |-
           datasette publish vercel notes.db \
             --token $NOW_TOKEN \
-            --branch master \
+            --branch 0.64.x \
             --project ashish-notes \
             --metadata metadata.yaml \
             --static static:static \
