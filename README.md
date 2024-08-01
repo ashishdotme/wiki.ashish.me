@@ -17,19 +17,19 @@
 <p align="center"><a href="https://notes.ashish.me">https://notes.ashish.me</a></p>
 
 <!-- index starts -->
+## System design
+
+* [Database](https://github.com/ashishdotme/notes/blob/master/system-design/database.md) - *last updated at 2024-08-01*
+* [Availability vs consistency pattern](https://github.com/ashishdotme/notes/blob/master/system-design/availability-vs-consistency-pattern.md) - *last updated at 2024-07-25*
+* [Nosql](https://github.com/ashishdotme/notes/blob/master/system-design/nosql.md) - *last updated at 2024-07-25*
+* [Introduction](https://github.com/ashishdotme/notes/blob/master/system-design/Introduction.md) - *last updated at 2024-07-25*
+
 ## Oops
 
 * [Class uml](https://github.com/ashishdotme/notes/blob/master/oops/class-uml.md) - *last updated at 2024-08-01*
 * [Shopping cart uml](https://github.com/ashishdotme/notes/blob/master/oops/shopping-cart-uml.md) - *last updated at 2024-08-01*
 * [Bank uml](https://github.com/ashishdotme/notes/blob/master/oops/bank-uml.md) - *last updated at 2024-08-01*
 * [Abstraction](https://github.com/ashishdotme/notes/blob/master/oops/abstraction.md) - *last updated at 2022-06-06*
-
-## System design
-
-* [Database](https://github.com/ashishdotme/notes/blob/master/system-design/database.md) - *last updated at 2024-07-26*
-* [Availability vs consistency pattern](https://github.com/ashishdotme/notes/blob/master/system-design/availability-vs-consistency-pattern.md) - *last updated at 2024-07-25*
-* [Nosql](https://github.com/ashishdotme/notes/blob/master/system-design/nosql.md) - *last updated at 2024-07-25*
-* [Introduction](https://github.com/ashishdotme/notes/blob/master/system-design/Introduction.md) - *last updated at 2024-07-25*
 
 ## Algorithms
 
