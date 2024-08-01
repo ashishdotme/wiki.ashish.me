@@ -30,21 +30,22 @@ E.g. Body consists of Arm, Head, Legs. BankAccount consists of Balance and Trans
 
 So if class A gets deleted then also class B will get deleted.
 
-````mermaid
-classDiagram
-  direction RL
-  class Student {
-    -idCard : IdCard
-  }
-  class IdCard{
-    -id : int
-    -name : string
-  }
-  class Bike{
-    -id : int
-    -name : string
-  }
-  Student "1" --o "1" IdCard : carries
-  Student "1" --o "1" Bike : rides
 
-````
+## Class UML cheatsheet
+
+![](https://i.sstatic.net/AJlpc9t8.png)
+
+
+## Mermaid class UML diagram syntax
+
+|Type|Description|
+|---|---|
+|`<\|--`|Inheritance|
+|`*--`|Composition|
+|`o--`|Aggregation|
+|`-->`|Association|
+|`--`|Link (Solid)|
+|`..>`|Dependency|
+|`..\|>`|Realization|
+|`..`|Link (Dashed)|
+
