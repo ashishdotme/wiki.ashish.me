@@ -1,4 +1,3 @@
-
 ## Types of Relationships
 
 #### 1. Association
@@ -30,22 +29,17 @@ E.g. Body consists of Arm, Head, Legs. BankAccount consists of Balance and Trans
 
 So if class A gets deleted then also class B will get deleted.
 
-
-## Class UML cheatsheet
-
 ![](https://i.sstatic.net/AJlpc9t8.png)
-
 
 ## Mermaid class UML diagram syntax
 
-|Type|Description|
-|---|---|
-|`<\|--`|Inheritance|
-|`*--`|Composition|
-|`o--`|Aggregation|
-|`-->`|Association|
-|`--`|Link (Solid)|
-|`..>`|Dependency|
-|`..\|>`|Realization|
-|`..`|Link (Dashed)|
-
+| Type    | Description   |
+| ------- | ------------- |
+| `<\|--` | Inheritance   |
+| `*--`   | Composition   |
+| `o--`   | Aggregation   |
+| `-->`   | Association   |
+| `--`    | Link (Solid)  |
+| `..>`   | Dependency    |
+| `..\|>` | Realization   |
+| `..`    | Link (Dashed) |
