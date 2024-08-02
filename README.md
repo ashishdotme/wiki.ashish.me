@@ -52,21 +52,6 @@
 * [Architecture](https://github.com/ashishdotme/notes/blob/master/docker/architecture.md) - *last updated at 2022-01-29*
 * [Cheatsheet](https://github.com/ashishdotme/notes/blob/master/docker/cheatsheet.md) - *last updated at 2022-01-29*
 
-## Angular
-
-* [Routing](https://github.com/ashishdotme/notes/blob/master/angular/routing.md) - *last updated at 2022-01-29*
-* [Lifecycle](https://github.com/ashishdotme/notes/blob/master/angular/lifecycle.md) - *last updated at 2022-01-29*
-* [Directives](https://github.com/ashishdotme/notes/blob/master/angular/directives.md) - *last updated at 2022-01-29*
-* [Pipes](https://github.com/ashishdotme/notes/blob/master/angular/pipes.md) - *last updated at 2022-01-29*
-* [Observables](https://github.com/ashishdotme/notes/blob/master/angular/observables.md) - *last updated at 2022-01-29*
-* [Data binding](https://github.com/ashishdotme/notes/blob/master/angular/data-binding.md) - *last updated at 2022-01-29*
-* [Components](https://github.com/ashishdotme/notes/blob/master/angular/components.md) - *last updated at 2022-01-29*
-* [Module](https://github.com/ashishdotme/notes/blob/master/angular/module.md) - *last updated at 2022-01-29*
-* [Introduction](https://github.com/ashishdotme/notes/blob/master/angular/introduction.md) - *last updated at 2022-01-29*
-* [Dependency injection](https://github.com/ashishdotme/notes/blob/master/angular/dependency-injection.md) - *last updated at 2022-01-29*
-* [Metadata](https://github.com/ashishdotme/notes/blob/master/angular/metadata.md) - *last updated at 2022-01-29*
-* [Angular cli](https://github.com/ashishdotme/notes/blob/master/angular/angular-cli.md) - *last updated at 2022-01-29*
-
 ## Html
 
 * [Position](https://github.com/ashishdotme/notes/blob/master/html/position.md) - *last updated at 2022-01-29*
@@ -88,12 +73,6 @@
 ## Macbook
 
 * [Setup](https://github.com/ashishdotme/notes/blob/master/macbook/setup.md) - *last updated at 2022-01-29*
-
-## Perforce
-
-* [Introduction](https://github.com/ashishdotme/notes/blob/master/perforce/introduction.md) - *last updated at 2022-01-29*
-* [Basic operations](https://github.com/ashishdotme/notes/blob/master/perforce/basic-operations.md) - *last updated at 2022-01-29*
-* [Stream](https://github.com/ashishdotme/notes/blob/master/perforce/stream.md) - *last updated at 2022-01-29*
 
 ## Javascript
 
