@@ -52,8 +52,8 @@ jobs:
             --token $NOW_TOKEN \
             --branch 0.64.x \
             --project ashish-notes \
-            --metadata metadata.yaml \
-            --static static:static \
+            --metadata .github/metadata.yaml \
+            --static static:.github/static \
             --install datasette-template-sql \
             --install "datasette-atom>=0.7" \
             --install datasette-json-html \
@@ -61,6 +61,6 @@ jobs:
             --install datasette-debug-asgi \
             --install "datasette-graphql>=0.12" \
             --install datasette-media \
-            --plugins-dir plugins \
-            --template-dir templates \
+            --plugins-dir .github/plugins \
+            --template-dir .github/templates \
             --public
