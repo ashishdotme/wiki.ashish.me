@@ -7,5 +7,6 @@ Abstraction is basically capturing the core data of an object and ignoring the d
 In the above example, When student class need to work with Course class, it can do so with directly referencing course class, without worrying about how the course details are internall managed, stored, etc. 
 
 ## Advantages
+
 - Reduces complexity
 - Increases Efficiency
