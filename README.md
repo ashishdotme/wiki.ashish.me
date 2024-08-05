@@ -17,6 +17,10 @@
 <p align="center"><a href="https://notes.ashish.me">https://notes.ashish.me</a></p>
 
 <!-- index starts -->
+## Uml
+
+* [Uml class university management](https://github.com/ashishdotme/notes/blob/master/uml/UML-class-university-management.md) - *last updated at 2024-08-05*
+
 ## Oops
 
 * [Abstraction](https://github.com/ashishdotme/notes/blob/master/oops/abstraction.md) - *last updated at 2024-08-04*
