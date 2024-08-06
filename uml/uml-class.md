@@ -29,7 +29,9 @@ E.g. Body consists of Arm, Head, Legs. BankAccount consists of Balance and Trans
 
 So if class A gets deleted then also class B will get deleted.
 
-![](https://i.sstatic.net/AJlpc9t8.png)
+## Relationships Cheatsheet
+
+![UML Class](../.github/static/assets/uml-class.png)
 
 ## Mermaid class UML diagram syntax
 
