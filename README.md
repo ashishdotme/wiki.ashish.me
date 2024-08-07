@@ -19,6 +19,7 @@
 <!-- index starts -->
 ## Uml
 
+* [Uml class](https://github.com/ashishdotme/notes/blob/master/uml/uml-class.md) - *last updated at 2024-08-06*
 * [Uml class restaurant](https://github.com/ashishdotme/notes/blob/master/uml/UML-class-restaurant.md) - *last updated at 2024-08-05*
 * [Uml class library](https://github.com/ashishdotme/notes/blob/master/uml/UML-class-library.md) - *last updated at 2024-08-05*
 * [Uml class university management](https://github.com/ashishdotme/notes/blob/master/uml/UML-class-university-management.md) - *last updated at 2024-08-05*
