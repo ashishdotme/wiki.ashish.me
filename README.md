@@ -17,16 +17,16 @@
 <p align="center"><a href="https://notes.ashish.me">https://notes.ashish.me</a></p>
 
 <!-- index starts -->
-## Gym
-
-* [Chest](https://github.com/ashishdotme/notes/blob/master/gym/Chest.md) - *last updated at 2024-08-07*
-
 ## Uml
 
-* [Uml class](https://github.com/ashishdotme/notes/blob/master/uml/uml-class.md) - *last updated at 2024-08-06*
+* [Uml class](https://github.com/ashishdotme/notes/blob/master/uml/uml-class.md) - *last updated at 2024-08-07*
 * [Uml class restaurant](https://github.com/ashishdotme/notes/blob/master/uml/UML-class-restaurant.md) - *last updated at 2024-08-05*
 * [Uml class library](https://github.com/ashishdotme/notes/blob/master/uml/UML-class-library.md) - *last updated at 2024-08-05*
 * [Uml class university management](https://github.com/ashishdotme/notes/blob/master/uml/UML-class-university-management.md) - *last updated at 2024-08-05*
+
+## Gym
+
+* [Chest](https://github.com/ashishdotme/notes/blob/master/gym/Chest.md) - *last updated at 2024-08-07*
 
 ## Oops
 
