@@ -17,6 +17,10 @@
 <p align="center"><a href="https://notes.ashish.me">https://notes.ashish.me</a></p>
 
 <!-- index starts -->
+## Gym
+
+* [Chest](https://github.com/ashishdotme/notes/blob/master/gym/Chest.md) - *last updated at 2024-08-07*
+
 ## Uml
 
 * [Uml class](https://github.com/ashishdotme/notes/blob/master/uml/uml-class.md) - *last updated at 2024-08-06*
