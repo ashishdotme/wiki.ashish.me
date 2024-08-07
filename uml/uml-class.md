@@ -31,7 +31,7 @@ So if class A gets deleted then also class B will get deleted.
 
 ## Relationships Cheatsheet
 
-![UML Class](../.github/static/assets/uml-class.png)
+![UML Class](/static/assets/uml-class.png)
 
 ## Mermaid class UML diagram syntax
 

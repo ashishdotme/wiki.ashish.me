@@ -53,7 +53,7 @@ jobs:
             --branch 0.64.x \
             --project ashish-notes \
             --metadata .github/metadata.yaml \
-            --static static:.github/static \
+            --static static:static \
             --install datasette-template-sql \
             --install "datasette-atom>=0.7" \
             --install datasette-json-html \

@@ -1,6 +1,7 @@
 ## Bench press
 
-![[Pasted image 20240807191324.png]]
+![UML Class](/static/assets/chest-press.png)
+
 ## Incline bench press
 
 ## Dumbell fly
