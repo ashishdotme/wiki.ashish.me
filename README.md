@@ -17,6 +17,10 @@
 <p align="center"><a href="https://notes.ashish.me">https://notes.ashish.me</a></p>
 
 <!-- index starts -->
+## Drafts
+
+* [Untitled](https://github.com/ashishdotme/notes/blob/master/drafts/Untitled.md) - *last updated at 2024-08-26*
+
 ## Uml
 
 * [Uml class](https://github.com/ashishdotme/notes/blob/master/uml/uml-class.md) - *last updated at 2024-08-07*
