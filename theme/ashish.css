@@ -92,5 +92,17 @@ h4 {
 
 .sidebar {
   transition: transform 0s;
-  animation: slide away;
+  animation: none;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  text-size-adjust: none;
+}
+
+#theme-toggle {
+  display: none;
 }

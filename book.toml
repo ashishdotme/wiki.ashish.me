@@ -18,7 +18,7 @@ level = 0
 
 
 [output.html]
-additional-js = ["./theme/custom.js","./theme/mermaid.min.js", "./theme/mermaid-init.js"]
+additional-js = ["./theme/mermaid.min.js", "./theme/mermaid-init.js"]
 mathjax-support = true
 default-theme = "latte"
 preferred-dark-theme = "latte"
