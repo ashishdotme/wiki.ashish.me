@@ -87,7 +87,6 @@ h4 {
 .chapter li > a.toggle {
   margin-inline-start: 0.25rem;
   text-decoration: none;
-  visibility: hidden;
 }
 
 .sidebar {
