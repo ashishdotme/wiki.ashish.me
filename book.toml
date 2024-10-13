@@ -3,7 +3,8 @@ authors = ["Ashish Patel"]
 language = "en"
 multilingual = false
 src = ""
-title = "wiki"
+title = "Wiki"
+description = "Personal wiki"
 create-missing = false
 
 [build]
