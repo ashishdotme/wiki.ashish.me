@@ -4,12 +4,13 @@ language = "en"
 multilingual = false
 src = ""
 title = "wiki"
+create-missing = false
 
 [build]
 build-dir = "book"
 
 [preprocessor.autosummary]
-index-name = "index.md"
+index-name = "readme.md"
 
 
 [output.html.fold]
