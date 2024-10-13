@@ -26,9 +26,8 @@ additional-css = ["./theme/catppuccin.css","./theme/ashish.css"]
 no-section-label = true
 git-repository-url = "https://github.com/ashishdotme/notes"
 git-repository-icon = "fa-github"
-cname = "wiki.ashish.me"
 edit-url-template = "https://github.com/ashishdotme/notes/edit/master{path}"
-
+site-url = "https://wiki.ashish.me"
 
 [preprocessor.mermaid]
 command = "mdbook-mermaid"

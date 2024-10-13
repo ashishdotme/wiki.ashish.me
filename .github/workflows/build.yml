@@ -59,7 +59,7 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: cd78c815cc8afdc708dedabdcb7ade24
-          projectName: wiki
+          projectName: notes
           directory: book
           branch: master
       - name: Deploy Datasette using Vercel
