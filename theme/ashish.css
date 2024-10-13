@@ -67,7 +67,6 @@ h4 {
   text-transform: capitalize;
 }
 
-
 .chapter li a:hover {
   /* color: var(--black); */
   text-decoration: underline;
@@ -89,4 +88,9 @@ h4 {
   margin-inline-start: 0.25rem;
   text-decoration: none;
   visibility: hidden;
+}
+
+.sidebar {
+  transition: transform 0s;
+  animation: slide away;
 }
