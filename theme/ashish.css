@@ -1,0 +1,92 @@
+:root {
+  --prim: #5e81ac;
+  --sec: #81a1c1;
+  --tert: #88c0d0;
+  --dark: #4c566a;
+  --darker: #3b4252;
+  --darkest: #2e3440;
+  --light: #d8dee9;
+  --lighter: #e5e9f0;
+  --lightest: #eceff4;
+  --red: #bf616a;
+  --yellow: #ebcb8b;
+  --white: #fff;
+  --black: #000;
+  --bg: var(--white);
+  --fg: var(--darker);
+  --links: var(--prim);
+  --quote-bg: #f7f7fa;
+  --quote-border: var(--prim);
+  --sidebar-active: var(--dark);
+  --sidebar-bg: #f7f7fa;
+  --sidebar-fg: var(--dark);
+  --sidebar-spacer: var(--lightest);
+}
+
+@font-face {
+  font-family: "SNPro Medium";
+  font-style: normal;
+  src: url("./SNPro-Medium.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter Black";
+  font-style: normal;
+  src: url("./Inter-Bold.woff2") format("woff2");
+  font-display: swap;
+}
+
+html {
+  font-family: "SNPro Medium", sans-serif;
+}
+
+body {
+  font-size: 1.8rem;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Inter Black", sans-serif;
+}
+
+.content h3:before {
+  content: "#";
+  margin-right: 6px;
+}
+
+.content h2 {
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid rgba(97, 97, 97, 0.702);
+}
+
+.chapter,
+.chapter-item {
+  text-transform: capitalize;
+}
+
+
+.chapter li a:hover {
+  /* color: var(--black); */
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+}
+
+.chapter li a.active {
+  color: var(--black);
+  text-decoration: underline;
+  text-decoration-color: var(--prim);
+  text-decoration-thickness: 2px;
+}
+
+.chapter li {
+  letter-spacing: -0.5px;
+}
+
+.chapter li > a.toggle {
+  margin-inline-start: 0.25rem;
+  text-decoration: none;
+  visibility: hidden;
+}

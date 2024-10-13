@@ -44,6 +44,23 @@ jobs:
           git config --global user.name "Ashish Patel"
           git diff --quiet || (git add . && git commit -m "chore: update README")
           git push
+      - name: Setup mdBook
+        uses: peaceiris/actions-mdbook@v2
+        with:
+          mdbook-version: 'latest'
+          # mdbook-version: 'latest'
+      - uses: brndnmtthws/rust-action-cargo-binstall@v1
+        with:
+          packages: mdbook-mermaid mdbook-autosummary
+      - run: mdbook build
+      - name: Publish to Cloudflare Pages
+        uses: cloudflare/pages-action@v1
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: cd78c815cc8afdc708dedabdcb7ade24
+          projectName: wiki
+          directory: book
+          branch: master
       - name: Deploy Datasette using Vercel
         env:
           NOW_TOKEN: ${{ secrets.NOW_TOKEN }}
