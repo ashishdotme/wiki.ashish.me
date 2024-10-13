@@ -50,6 +50,7 @@ h2,
 h3,
 h4 {
   font-family: "Inter Black", sans-serif;
+  letter-spacing: -1px;
 }
 
 .content h3:before {
