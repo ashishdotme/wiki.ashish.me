@@ -1,0 +1,11 @@
+# data-structures 
+- [Array](array.md)
+- [Introduction](introduction.md)
+- [Graph](graph.md)
+- [Tree](tree.md)
+- [Time Complexity](time-complexity.md)
+- [Readme](readme.md)
+- [Stack](stack.md)
+- [Queue](queue.md)
+- [Linked List](linked-list.md)
+- [Hash Table](hash-table.md)
