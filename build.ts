@@ -9,7 +9,7 @@ const markdownFiles = (await recursiveReaddir(join("."))).filter(
 for (const file of markdownFiles) {
   var path = file.split("/")[0];
   console.log(path);
-  let indexFile = `# ${path} `;
+  let indexFile = `# ${titleCase(path)} `;
   if(!path) continue;
   if (path === "README.md" || path === "SUMMARY.md") continue;
   for await (const f of Deno.readDir(path)) {
