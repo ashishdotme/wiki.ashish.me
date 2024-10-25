@@ -25,7 +25,6 @@ jobs:
         run: deno run -A build.ts
       - name: Commit and push if README changed
         run: |-
-          git pull
           git diff
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
