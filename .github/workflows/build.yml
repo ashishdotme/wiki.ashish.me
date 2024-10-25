@@ -23,6 +23,14 @@ jobs:
 
       - name: Run script
         run: deno run -A build.ts
+      - name: Commit and push if README changed
+        run: |-
+          git pull
+          git diff
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git diff --quiet || (git add . && git commit -m "chore: update README")
+          git push
       - name: Set up Python
         uses: actions/setup-python@v1
         with:
