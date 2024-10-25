@@ -22,20 +22,6 @@
 * [Readme](https://github.com/ashishdotme/notes/blob/master/kafka/readme.md) - *last updated at 2024-10-25*
 * [Introduction](https://github.com/ashishdotme/notes/blob/master/kafka/introduction.md) - *last updated at 2024-03-21*
 
-## Drafts
-
-* [Readme](https://github.com/ashishdotme/notes/blob/master/drafts/readme.md) - *last updated at 2024-10-25*
-* [Untitled](https://github.com/ashishdotme/notes/blob/master/drafts/Untitled.md) - *last updated at 2024-08-26*
-
-## Computer architecture
-
-* [Readme](https://github.com/ashishdotme/notes/blob/master/computer-architecture/readme.md) - *last updated at 2024-10-25*
-* [Memory](https://github.com/ashishdotme/notes/blob/master/computer-architecture/memory.md) - *last updated at 2022-01-29*
-
-## Personal
-
-* [Readme](https://github.com/ashishdotme/notes/blob/master/personal/readme.md) - *last updated at 2024-10-25*
-
 ## Oops
 
 * [Readme](https://github.com/ashishdotme/notes/blob/master/oops/readme.md) - *last updated at 2024-10-25*
@@ -74,21 +60,6 @@
 * [Basics](https://github.com/ashishdotme/notes/blob/master/sql/basics.md) - *last updated at 2022-01-29*
 * [Joins](https://github.com/ashishdotme/notes/blob/master/sql/joins.md) - *last updated at 2022-01-29*
 
-## Macbook
-
-* [Readme](https://github.com/ashishdotme/notes/blob/master/macbook/readme.md) - *last updated at 2024-10-25*
-* [Setup](https://github.com/ashishdotme/notes/blob/master/macbook/setup.md) - *last updated at 2022-01-29*
-
-## English
-
-* [Readme](https://github.com/ashishdotme/notes/blob/master/english/readme.md) - *last updated at 2024-10-25*
-* [Vocalary](https://github.com/ashishdotme/notes/blob/master/english/vocalary.md) - *last updated at 2019-04-18*
-
-## Gym
-
-* [Readme](https://github.com/ashishdotme/notes/blob/master/gym/readme.md) - *last updated at 2024-10-25*
-* [Chest](https://github.com/ashishdotme/notes/blob/master/gym/Chest.md) - *last updated at 2024-08-07*
-
 ## System design
 
 * [Readme](https://github.com/ashishdotme/notes/blob/master/system-design/readme.md) - *last updated at 2024-10-25*
@@ -96,6 +67,11 @@
 * [Availability vs consistency pattern](https://github.com/ashishdotme/notes/blob/master/system-design/availability-vs-consistency-pattern.md) - *last updated at 2024-07-25*
 * [Nosql](https://github.com/ashishdotme/notes/blob/master/system-design/nosql.md) - *last updated at 2024-07-25*
 * [Introduction](https://github.com/ashishdotme/notes/blob/master/system-design/Introduction.md) - *last updated at 2024-07-25*
+
+## Drafts
+
+* [Readme](https://github.com/ashishdotme/notes/blob/master/drafts/readme.md) - *last updated at 2024-10-25*
+* [Untitled](https://github.com/ashishdotme/notes/blob/master/drafts/Untitled.md) - *last updated at 2024-08-26*
 
 ## Javascript
 
@@ -153,6 +129,11 @@
 * [Misc](https://github.com/ashishdotme/notes/blob/master/maths/misc.md) - *last updated at 2019-01-23*
 * [Logarithm](https://github.com/ashishdotme/notes/blob/master/maths/logarithm.md) - *last updated at 2019-01-23*
 
+## Computer architecture
+
+* [Readme](https://github.com/ashishdotme/notes/blob/master/computer-architecture/readme.md) - *last updated at 2024-10-25*
+* [Memory](https://github.com/ashishdotme/notes/blob/master/computer-architecture/memory.md) - *last updated at 2022-01-29*
+
 ## Design patterns
 
 * [Readme](https://github.com/ashishdotme/notes/blob/master/design-patterns/readme.md) - *last updated at 2024-10-25*
@@ -170,4 +151,23 @@
 * [Builder pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/builder-pattern.md) - *last updated at 2020-08-21*
 * [Factory](https://github.com/ashishdotme/notes/blob/master/design-patterns/factory.md) - *last updated at 2020-08-21*
 * [Singleton pattern](https://github.com/ashishdotme/notes/blob/master/design-patterns/singleton-pattern.md) - *last updated at 2020-08-21*
+
+## Personal
+
+* [Readme](https://github.com/ashishdotme/notes/blob/master/personal/readme.md) - *last updated at 2024-10-25*
+
+## Macbook
+
+* [Readme](https://github.com/ashishdotme/notes/blob/master/macbook/readme.md) - *last updated at 2024-10-25*
+* [Setup](https://github.com/ashishdotme/notes/blob/master/macbook/setup.md) - *last updated at 2022-01-29*
+
+## English
+
+* [Readme](https://github.com/ashishdotme/notes/blob/master/english/readme.md) - *last updated at 2024-10-25*
+* [Vocalary](https://github.com/ashishdotme/notes/blob/master/english/vocalary.md) - *last updated at 2019-04-18*
+
+## Gym
+
+* [Readme](https://github.com/ashishdotme/notes/blob/master/gym/readme.md) - *last updated at 2024-10-25*
+* [Chest](https://github.com/ashishdotme/notes/blob/master/gym/Chest.md) - *last updated at 2024-08-07*
 <!-- index ends -->
