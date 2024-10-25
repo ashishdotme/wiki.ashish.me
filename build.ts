@@ -11,7 +11,7 @@ for (const file of markdownFiles) {
   console.log(path);
   let indexFile = `# ${path} `;
   if(!path) continue;
-  if (path === "README.md") continue;
+  if (path === "README.md" || path === "SUMMARY") continue;
   for await (const f of Deno.readDir(path)) {
     if (!f.isFile) continue;
     indexFile += `\n- [${titleCase(f.name.split('.').slice(0, -1).join('.')
