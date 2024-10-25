@@ -45,11 +45,18 @@ body {
   font-size: 1.8rem;
 }
 
-h1,
+
 h2,
 h3,
 h4 {
   font-family: "Inter Black", sans-serif;
+  letter-spacing: -1px;
+}
+
+h1
+{
+  font-family: "Inter Black", sans-serif;
+  letter-spacing: -2px;
 }
 
 .content h3:before {
