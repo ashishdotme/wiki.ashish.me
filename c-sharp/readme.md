@@ -1,0 +1,13 @@
+# c-sharp 
+- [Design Patterns](design-patterns.md)
+- [Oops](oops.md)
+- [Lamdas](lamdas.md)
+- [Generics](generics.md)
+- [Ado](ado.md)
+- [Linq](linq.md)
+- [Introduction](introduction.md)
+- [Delegates](delegates.md)
+- [Xunit](xunit.md)
+- [Readme](readme.md)
+- [Entity](entity.md)
+- [Clr](CLR.md)
