@@ -16,6 +16,13 @@ jobs:
         # We need full history to introspect created/updated:
         with:
           fetch-depth: 0
+      - name: Setup Deno
+        uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+
+      - name: Run script
+        run: deno run -A build.ts
       - name: Set up Python
         uses: actions/setup-python@v1
         with:
