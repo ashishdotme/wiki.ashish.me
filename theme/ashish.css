@@ -113,6 +113,11 @@ h1
   display: none;
 }
 
+.chapter li {
+  font-family: var(--mono-font);
+  letter-spacing: -1px;
+}
+
 @media screen and (prefers-reduced-motion: reduce) {
   *:hover {
     transition: all .0s ease-in-out;
