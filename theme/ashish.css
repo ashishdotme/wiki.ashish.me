@@ -112,3 +112,15 @@ h1
 #theme-toggle {
   display: none;
 }
+
+@media screen and (prefers-reduced-motion: reduce) {
+  *:hover {
+    transition: all .0s ease-in-out;
+  }
+}
+
+@media (-moz-touch-enabled: 1), (pointer: coarse) {
+  .chapter li > a.toggle{
+    padding: 5px 10px;
+  }
+}
