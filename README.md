@@ -22,6 +22,20 @@
 * [Readme](https://github.com/ashishdotme/notes/blob/master/kafka/readme.md) - *last updated at 2024-10-25*
 * [Introduction](https://github.com/ashishdotme/notes/blob/master/kafka/introduction.md) - *last updated at 2024-03-21*
 
+## Drafts
+
+* [Readme](https://github.com/ashishdotme/notes/blob/master/drafts/readme.md) - *last updated at 2024-10-25*
+* [Untitled](https://github.com/ashishdotme/notes/blob/master/drafts/Untitled.md) - *last updated at 2024-08-26*
+
+## Computer architecture
+
+* [Readme](https://github.com/ashishdotme/notes/blob/master/computer-architecture/readme.md) - *last updated at 2024-10-25*
+* [Memory](https://github.com/ashishdotme/notes/blob/master/computer-architecture/memory.md) - *last updated at 2022-01-29*
+
+## Personal
+
+* [Readme](https://github.com/ashishdotme/notes/blob/master/personal/readme.md) - *last updated at 2024-10-25*
+
 ## Oops
 
 * [Readme](https://github.com/ashishdotme/notes/blob/master/oops/readme.md) - *last updated at 2024-10-25*
@@ -83,11 +97,6 @@
 * [Nosql](https://github.com/ashishdotme/notes/blob/master/system-design/nosql.md) - *last updated at 2024-07-25*
 * [Introduction](https://github.com/ashishdotme/notes/blob/master/system-design/Introduction.md) - *last updated at 2024-07-25*
 
-## Drafts
-
-* [Readme](https://github.com/ashishdotme/notes/blob/master/drafts/readme.md) - *last updated at 2024-10-25*
-* [Untitled](https://github.com/ashishdotme/notes/blob/master/drafts/Untitled.md) - *last updated at 2024-08-26*
-
 ## Javascript
 
 * [Readme](https://github.com/ashishdotme/notes/blob/master/javascript/readme.md) - *last updated at 2024-10-25*
@@ -143,11 +152,6 @@
 * [Readme](https://github.com/ashishdotme/notes/blob/master/maths/readme.md) - *last updated at 2024-10-25*
 * [Misc](https://github.com/ashishdotme/notes/blob/master/maths/misc.md) - *last updated at 2019-01-23*
 * [Logarithm](https://github.com/ashishdotme/notes/blob/master/maths/logarithm.md) - *last updated at 2019-01-23*
-
-## Computer architecture
-
-* [Readme](https://github.com/ashishdotme/notes/blob/master/computer-architecture/readme.md) - *last updated at 2024-10-25*
-* [Memory](https://github.com/ashishdotme/notes/blob/master/computer-architecture/memory.md) - *last updated at 2022-01-29*
 
 ## Design patterns
 
