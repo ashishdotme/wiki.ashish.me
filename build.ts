@@ -10,7 +10,7 @@ for (const file of markdownFiles) {
   var path = file.split("/")[0];
   console.log(path);
   let indexFile = `# ${path} `;
-
+  if(!path) continue;
   for await (const f of Deno.readDir(path)) {
     if (!f.isFile) continue;
     indexFile += `\n- [${titleCase(f.name.split('.').slice(0, -1).join('.')
