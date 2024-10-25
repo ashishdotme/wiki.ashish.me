@@ -18,6 +18,6 @@ for (const file of markdownFiles) {
     )}](${f.name})`;
   }
 
-  await Deno.writeTextFile(`${path}\\readme.md`, indexFile);
+  await Deno.writeTextFile(`${path}/readme.md`, indexFile);
 }
 
