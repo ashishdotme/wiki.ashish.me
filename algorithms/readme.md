@@ -1,4 +1,4 @@
-# algorithms 
+# Algorithms 
 - [Divide And Conquer](divide-and-conquer.md)
 - [Dynamic Programming](dynamic-programming.md)
 - [Greedy Algorithms](greedy-algorithms.md)

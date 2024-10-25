@@ -1,4 +1,4 @@
-# data-structures 
+# Data Structures 
 - [Array](array.md)
 - [Introduction](introduction.md)
 - [Graph](graph.md)

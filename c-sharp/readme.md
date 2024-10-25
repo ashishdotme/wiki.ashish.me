@@ -1,4 +1,4 @@
-# c-sharp 
+# C Sharp 
 - [Design Patterns](design-patterns.md)
 - [Oops](oops.md)
 - [Lamdas](lamdas.md)

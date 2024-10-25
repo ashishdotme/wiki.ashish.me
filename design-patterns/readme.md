@@ -1,4 +1,4 @@
-# design-patterns 
+# Design Patterns 
 - [Delegate Pattern](delegate-pattern.md)
 - [Proxy Pattern](proxy-pattern.md)
 - [Middleware Pattern](middleware-pattern.md)

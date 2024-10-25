@@ -1,4 +1,4 @@
-# react 
+# React 
 - [Binding](binding.md)
 - [Testing](testing.md)
 - [Lifecycle](lifecycle.md)

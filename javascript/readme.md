@@ -1,4 +1,4 @@
-# javascript 
+# Javascript 
 - [Prototypes And Classes](prototypes-and-classes.md)
 - [Introduction](introduction.md)
 - [Async Await](async-await.md)
