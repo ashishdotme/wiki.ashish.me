@@ -1,2 +1,2 @@
-# gym 
+# Personal Gym 
 - [Chest](Chest.md)

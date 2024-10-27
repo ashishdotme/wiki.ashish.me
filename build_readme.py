@@ -28,7 +28,7 @@ if __name__ == "__main__":
         index.pop()
     index.append("<!-- index ends -->")
     if "--rewrite" in sys.argv:
-        readme = root / "README.md"
+        readme = root / "readme.md"
         index_txt = "\n".join(index).strip()
         readme_contents = readme.open().read()
         readme.open("w").write(index_re.sub(index_txt, readme_contents))

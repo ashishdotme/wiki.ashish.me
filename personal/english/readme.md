@@ -1,4 +1,3 @@
-# english 
+# Personal English 
 - [Vocalary](vocalary.md)
-- [Readme](readme.md)
 - [Prepositions](prepositions.md)
