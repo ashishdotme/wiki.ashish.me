@@ -59,6 +59,9 @@ jobs:
           git config --local user.name "GitHub Action"
           git diff --quiet || (git add . && git commit -m "chore: update README")
           git push
+      - name: Create Summary
+        run: |-
+          touch SUMMARY.md
       - name: Setup mdBook
         uses: peaceiris/actions-mdbook@v2
         with:
