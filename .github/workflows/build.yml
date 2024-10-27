@@ -50,7 +50,7 @@ jobs:
       - name: Update README
         run: |-
           python build_readme.py --rewrite
-          cat README.md
+          cat readme.md
       - name: Commit and push if README changed
         run: |-
           git pull
