@@ -1,3 +1,5 @@
+# Redux
+
 Redux is used to change the state of application.
 
 ## Three principles of Redux

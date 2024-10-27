@@ -1,4 +1,4 @@
-## Callback Hell
+# Callback Hell
 
 - The callback pattern is the default pattern for managing the outcome of an asynchronous method
 - Nested callbacks become unmanageable and unreadable

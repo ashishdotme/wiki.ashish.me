@@ -1,3 +1,5 @@
+# Memory
+
 Heap and stack are generic terms for ways in which memory can be allocated. Stack is more faster than heap because 
 
 ## Stack

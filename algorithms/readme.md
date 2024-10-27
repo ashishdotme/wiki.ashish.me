@@ -6,5 +6,4 @@
 - [Asymptotic Analysis](asymptotic-analysis.md)
 - [Divide And Conquer](divide-and-conquer.md)
 - [Dynamic Programming](dynamic-programming.md)
-- [Introduction](introduction.md)
 - [Sorting](sorting.md)

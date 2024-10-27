@@ -1,2 +1,2 @@
-# Personal Gym 
-- [Chest](Chest.md)
+# Gym 
+- [Chest](chest.md)

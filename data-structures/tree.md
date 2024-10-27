@@ -1,4 +1,6 @@
-# Binary Search Tree
+# Tree
+
+## Binary Search Tree
 
 Binary search tree is a node based binary tree data structure.
 

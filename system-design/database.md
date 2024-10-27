@@ -1,6 +1,8 @@
-# SQL
+# Database
 
-## ACID Properties
+## SQL
+
+### ACID Properties
 
 1. **Atomicity**
 
@@ -22,7 +24,7 @@
    - **Definition:** Once a transaction is committed, it remains so, even in the event of a system failure.
    - **Example:** After a successful transfer, the system crashes. Once back up, the transaction should still be reflected in the database.
 
-### Example
+#### Example
 
 Imagine a bank transaction where Alice transfers $100 to Bob:
 
@@ -35,17 +37,17 @@ These properties ensure that databases operate correctly and predictably, even i
 
 Sharding is a database architecture pattern used to horizontally partition data across multiple servers, enabling systems to handle more data and transactions. It improves scalability and performance.
 
-## Sharding
+### Sharding
 
 - **Definition**: Divides a database into smaller, manageable pieces called "shards."
 - **Purpose**: Allows distribution of data across multiple machines, balancing the load and reducing bottlenecks.
 
-### Sharding Key
+#### Sharding Key
 
 - **Definition**: A specific key or column used to determine how data is distributed across shards.
 - **Purpose**: Ensures that related data is stored together and efficiently queried.
 
-### Sharding Example
+#### Sharding Example
 
 Imagine an e-commerce application with a database table `Orders`:
 
@@ -73,9 +75,9 @@ Imagine an e-commerce application with a database table `Orders`:
 
 By choosing a proper sharding key, data is balanced across shards, minimizing data transfer and optimizing query performance.
 
-# NOSQL
+## NOSQL
 
-## Introduction
+### Introduction
 
 1. **Scalability**
    - **Horizontal Scaling**: Easily distribute data across multiple servers.

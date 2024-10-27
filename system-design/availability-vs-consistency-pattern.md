@@ -1,5 +1,6 @@
+# Availability vs Consistency
 
-# Consistency Pattern
+## Consistency Pattern
 
 Methods to ensure data consistency across distributed systems. Three main types:
 
@@ -15,7 +16,7 @@ Delayed data updates, high availability, low latency, but potential inconsistenc
 
 Data updates eventually propagate, balancing availability and integrity, but with possible temporary inconsistencies. Example - An example of eventual consistency is a social media platform where users can post updates, comments, and messages. The platform is designed for high availability and low latency, so the data is stored in multiple data centers around the world. When a user posts an update, the update is immediately visible to other users in the same data center, but it may take some time for the update to propagate to other data centers. This means that some users may see the update while others may not, depending on which data center they are connected to. This can lead to inconsistencies between different versions of the data, but it also allows for a high level of availability and low latency.
 
-# Availability Pattern
+## Availability Pattern
 
 
 - **Failover**

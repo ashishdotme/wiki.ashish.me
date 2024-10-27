@@ -1,4 +1,6 @@
-# List of common complexities 
+# Time Complexity
+
+## List of common complexities 
 
 In computer science, the performance of program is determined by total time and space taken to execute the program with respect to input.
 

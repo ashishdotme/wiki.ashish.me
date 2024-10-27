@@ -7,4 +7,3 @@
 - [Linked List](linked-list.md)
 - [Time Complexity](time-complexity.md)
 - [Stack](stack.md)
-- [Introduction](introduction.md)

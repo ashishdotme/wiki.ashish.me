@@ -1,4 +1,4 @@
-## Async Await
+# Async Await
 
 - Async/await builds on top of promises
 - Enables synchronous style execution of multiple asynchronous methods

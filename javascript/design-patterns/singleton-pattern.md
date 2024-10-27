@@ -1,4 +1,4 @@
-## Singleton Design Pattern
+# Singleton Design Pattern
 
 - Singletons are objects that can only have a single instance, with a single point of access
 - The module system in nodejs offers a rudimentary implementation of a singleton

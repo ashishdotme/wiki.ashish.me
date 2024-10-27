@@ -1,2 +1,2 @@
-# Personal Setup 
+# Setup 
 - [Macbook](macbook.md)

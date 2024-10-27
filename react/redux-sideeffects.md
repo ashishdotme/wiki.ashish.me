@@ -1,3 +1,5 @@
+# Redux Sideeffects
+
 Redux is a predictable state container for JavaScript apps which makes state management easier but the actions 
 dispatched via Redux are synchronous. For network calls, we need the ability to dispatch actions asynchronously.
 Dispatching actions asynchronously can be done by popular middlewares like i.e Redux Thunk and Redux Saga. 

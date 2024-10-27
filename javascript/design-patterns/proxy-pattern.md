@@ -1,4 +1,4 @@
-## Proxy Pattern
+# Proxy Pattern
 
 A proxy is an object that has the same interface as another object and is used in place of that other object. It provides a surrogate or placeholder for another object to control access to it. It intends to add a wrapper and delegation to protect the real component from undue complexity.
 

@@ -1,4 +1,4 @@
-## Factory Pattern
+# Factory Pattern
 
 In factory pattern, we create objects without exposing the creation logic to the code that requires the object to be created.
 

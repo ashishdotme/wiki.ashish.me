@@ -1,12 +1,8 @@
 # C Sharp 
-- [Lamdas](lamdas.md)
 - [Linq](linq.md)
-- [Clr](CLR.md)
 - [Xunit](xunit.md)
 - [Oops](oops.md)
 - [Generics](generics.md)
-- [Ado](ado.md)
 - [Delegates](delegates.md)
 - [Entity](entity.md)
 - [Design Patterns](design-patterns.md)
-- [Introduction](introduction.md)

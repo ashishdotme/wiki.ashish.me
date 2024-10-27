@@ -1,3 +1,5 @@
+# Binding
+
 ## Default binding
 
 ```javascript

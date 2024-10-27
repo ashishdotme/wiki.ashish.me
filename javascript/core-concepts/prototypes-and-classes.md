@@ -1,3 +1,5 @@
+# Prototypes and classes
+
 ## Generating objects using functions
 
 We can generate objects using function but each time new object is created, there are multiple

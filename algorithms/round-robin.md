@@ -1,4 +1,4 @@
-# Introduction
+# Round Robin
 
 The Round Robin scheduling algorithm is a simple and efficient method used in operating systems to manage processes. It allocates a fixed time slice or "quantum" to each process in the queue, cycling through them repeatedly.
 

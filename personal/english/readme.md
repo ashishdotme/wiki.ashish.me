@@ -1,3 +1,3 @@
-# Personal English 
-- [Vocalary](vocalary.md)
+# English 
+- [Vocabulary](vocabulary.md)
 - [Prepositions](prepositions.md)

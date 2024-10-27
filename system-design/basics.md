@@ -1,5 +1,6 @@
+# Basics
 
-# System Design
+## System Design
 
 System design is the process of defining the elements of a distributed system, as well as their interactions and relationships, in order to satisfy a set of specified requirements. Example of distributed systems - different microservices (accounts, payments, orders, inventory) work together to handle transactions.
 

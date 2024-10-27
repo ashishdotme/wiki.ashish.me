@@ -1,4 +1,4 @@
-## Decorator Pattern
+# Decorator Pattern
 
 Decorator Pattern is designed to provide you with a clean way of extending abilities of your original Object or Component, without impacting its initial state or structure.
 

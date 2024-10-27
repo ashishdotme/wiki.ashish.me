@@ -1,4 +1,4 @@
-## Builder Design Pattern
+# Builder Pattern
 
 - It enables the creation of an easy to use interface to a complex process.
 - By Introducing a step by step workflow, npm packages can be made easy to understand and consume

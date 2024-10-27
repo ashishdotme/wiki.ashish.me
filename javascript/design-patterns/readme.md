@@ -1,4 +1,4 @@
-# Javascript Design Patterns 
+# Design Patterns 
 - [Decorator Pattern](decorator-pattern.md)
 - [Factory](factory.md)
 - [Singleton Pattern](singleton-pattern.md)

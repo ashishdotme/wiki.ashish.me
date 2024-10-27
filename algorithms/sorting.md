@@ -1,4 +1,6 @@
-# Bubble Sort
+# Sorting
+
+## Bubble Sort
 
 It works by swapping the adjacent elements if they are in wrong order. It is the most inefficient sorting algorithm because of simple it is. It has the time complexity of O(n^2). Insertion sort is better than bubble sort because it has the same asymptotic complexity but only requires O(n) swaps whereas bubble sort require O(n2) swaps.
 

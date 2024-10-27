@@ -1,3 +1,5 @@
+# ES 6
+
 ## Let vs Const
 
 In javascript, `var` is used to create variable. With ES6, `let` and `const` were introduced. `Var` still works but its recommended to use `let` and `const`. Use `const` to create constant value whose value never changes and use `let` to create variables whose value is going to change.

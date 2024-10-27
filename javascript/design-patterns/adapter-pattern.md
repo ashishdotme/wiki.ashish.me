@@ -1,4 +1,4 @@
-## Adapter Pattern
+# Adapter Pattern
 
 Adapter Pattern is an abstraction for nasty or 3rd party code, you need in your main clean codebase.
 

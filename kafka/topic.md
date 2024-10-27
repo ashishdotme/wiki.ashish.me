@@ -1,7 +1,4 @@
-# Introduction
-
-
-## Topic
+# Topic
 
 - Topics are like table, provides scalability
 - Each topic has 1 or more than 1 partition

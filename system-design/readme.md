@@ -1,4 +1,4 @@
 # System Design 
 - [Availability Vs Consistency Pattern](availability-vs-consistency-pattern.md)
-- [Introduction](Introduction.md)
+- [Basics](basics.md)
 - [Database](database.md)
