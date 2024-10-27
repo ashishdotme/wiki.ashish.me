@@ -1,21 +1,6 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashishdotme/assets/master/logo.png" alt="drawing" width="100"/>
-</p>
 
-<h2 align="center">notes.ashish.me</h2>
 
-<p align="center">
-    <a href="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fnotes.ashish.me"><img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fnotes.ashish.me"></a>
-<a href="https://img.shields.io/github/last-commit/ashishdotme/notes?style=for-the-badge"><img src="https://img.shields.io/github/last-commit/ashishdotme/notes?style=for-the-badge"></a>
-<a href="https://img.shields.io/github/workflow/status/ashishdotme/notes/Build%20notes.ashish.me/master?style=for-the-badge"><img src="https://img.shields.io/github/workflow/status/ashishdotme/notes/Build%20notes.ashish.me/master?style=for-the-badge"></a>
-</p>
-
-<p align="center">📻 my notes on various topics</p>
-<div style='margin:0 auto;width:80%;'>
-  <img src="./.github/assets/notes-screen.png" alt="screenshot"/>
-</div>
-<p align="center"><a href="https://notes.ashish.me">https://notes.ashish.me</a></p>
-
+## Index
 <!-- index starts -->
 ## Kafka
 

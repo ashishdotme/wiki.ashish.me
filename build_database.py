@@ -8,6 +8,7 @@ import sqlite_utils
 from pydriller import RepositoryMining
 from sqlite_utils.db import NotFoundError
 import time
+import re
 
 root = pathlib.Path(__file__).parent.resolve()
 
@@ -41,6 +42,8 @@ def build_database(repo_path):
         body = fp.read().strip()
         slug = filepath.stem
         path = str(filepath.relative_to(root))
+        if "readme" in path: 
+            continue
         url = "https://github.com/ashishdotme/notes/blob/master/{}".format(
             path)
         path_slug = path.replace("/", "_")
