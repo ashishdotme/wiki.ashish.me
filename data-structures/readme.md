@@ -1,6 +1,5 @@
 # Data Structures 
 - [Array](array.md)
-- [Introduction](introduction.md)
 - [Graph](graph.md)
 - [Tree](tree.md)
 - [Time Complexity](time-complexity.md)

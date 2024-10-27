@@ -2,7 +2,6 @@
 - [Divide And Conquer](divide-and-conquer.md)
 - [Dynamic Programming](dynamic-programming.md)
 - [Greedy Algorithms](greedy-algorithms.md)
-- [Introduction](introduction.md)
 - [Backtracking](backtracking.md)
 - [Sorting](sorting.md)
 - [Recursion](recursion.md)

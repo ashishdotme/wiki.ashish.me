@@ -1,11 +1,3 @@
 # Javascript 
-- [Prototypes And Classes](prototypes-and-classes.md)
-- [Introduction](introduction.md)
-- [Async Await](async-await.md)
-- [Generator](generator.md)
-- [Exports Imports](exports-imports.md)
-- [Webpack](webpack.md)
-- [Es5](es5.md)
-- [Es6](es6.md)
-- [Callback Hell](callback-hell.md)
-- [Babel](babel.md)
+- [Core Concepts](core-concepts)
+- [Design Patterns](design-patterns)

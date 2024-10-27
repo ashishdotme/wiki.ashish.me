@@ -1,4 +1,4 @@
-# Javascript Design Patterns 
+# Design Patterns 
 - [Proxy Pattern](proxy-pattern.md)
 - [Singleton Pattern](singleton-pattern.md)
 - [Decorator Pattern](decorator-pattern.md)
