@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/setup/macbook.md",
-                "mode": "source",
-                "source": false
+                "file": "misc/gym/workout-plan.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "macbook"
+              "title": "workout-plan"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/setup/macbook.md"
+                "file": "misc/gym/workout-plan.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of macbook"
+              "title": "Outline of workout-plan"
             }
           },
           {
@@ -187,47 +187,50 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cec1ade13a4bed0c",
+  "active": "c0f0c72be0b1deee",
   "lastOpenFiles": [
-    "personal/setup",
-    "personal",
-    "weekly/week-41-2024.md",
-    "weekly/week-42-2024.md",
-    "posts/making-a-simple-todo-app-using-react-and-bulma.md",
-    "posts/setting-up-my-dev-environment-on-windows-10.md",
-    "now/2024-10-12.md",
-    "scripts/node_modules/which/bin/which",
-    "scripts/node_modules/which/bin",
-    "scripts/node_modules/wcwidth/test/index.js",
-    "scripts/node_modules/wcwidth/test",
-    "scripts/node_modules/wcwidth/docs/index.md",
-    "scripts/node_modules/wcwidth/docs",
-    "scripts/node_modules/shiki/dist/types/wasm-dynamic.d.mts",
-    "scripts/node_modules/shiki/dist/types",
-    "scripts/node_modules/rxjs/dist/cjs/webSocket/index.js.map",
-    "scripts/node_modules/rxjs/dist/cjs/webSocket/index.js",
-    "scripts/node_modules/run-parallel/README.md",
-    "scripts/node_modules/run-async/README.md",
-    "scripts/node_modules/resolve-dir/README.md",
-    "scripts/node_modules/ms/readme.md",
-    "scripts/node_modules/ms/license.md",
-    "scripts/node_modules/micromark-util-types/readme.md",
-    "scripts/node_modules/map-cache/README.md",
-    "scripts/node_modules/make-iterator/README.md",
-    "scripts/node_modules/is-windows/README.md",
-    "scripts/node_modules/is-number/README.md",
-    "scripts/node_modules/get-east-asian-width/readme.md",
-    "scripts/node_modules/fined/README.md",
-    "scripts/node_modules/findup-sync/README.md",
-    "scripts/node_modules/expand-tilde/README.md",
-    "scripts/node_modules/merge2/README.md",
-    "scripts/node_modules/is-extglob/README.md",
-    "scripts/node_modules/is-absolute/README.md",
-    "scripts/node_modules/interpret/README.md",
-    "scripts/node_modules/ini/README.md",
+    "misc/gym/chest.md",
+    "misc/gym/readme.md",
+    "misc/gym/workout-plan.md",
+    "misc/gym/shoulder.md",
+    "misc/gym/tricep.md",
+    "misc/gym/Untitled.md",
+    "attachments/male-Machine-machine-reverse-fly-side.mp4",
+    "attachments/male-Machine-machine-chest-press-side.mp4",
+    "attachments",
+    "personal/subscriptions.md",
+    "personal/readme.md",
+    "personal/gadgets.md",
+    "personal/setup/macbook.md",
+    "personal/setup/readme.md",
+    "misc/maths/readme.md",
+    "misc/maths/misc.md",
+    "misc/maths/logarithm.md",
+    "misc/english/vocabulary.md",
+    "misc/english/readme.md",
+    "misc/english/prepositions.md",
+    "misc/readme.md",
+    "misc/maths",
+    "misc/gym",
+    "misc/english",
+    "misc",
+    "system-design/basics.md",
+    "javascript/design-patterns/singleton-pattern.md",
+    "javascript/design-patterns/readme.md",
+    "javascript/design-patterns/proxy-pattern.md",
+    "javascript/design-patterns/factory.md",
+    "javascript/design-patterns/builder-pattern.md",
+    "javascript/design-patterns/decorator-pattern.md",
+    "javascript/design-patterns/adapter-pattern.md",
+    "javascript/design-patterns",
+    "software-development/uml/assets/uml-class-restaurant.png",
+    "software-development/uml/assets/uml-class-library.png",
+    "software-development/uml/assets",
+    "software-development/uml",
     "scripts/node_modules/date-fns/docs/logotype.svg",
     "scripts/node_modules/date-fns/docs/logo.svg",
     "node_modules/date-fns/docs/logotype.svg",
@@ -240,8 +243,6 @@
     "Projects/Game Master/Ai dnd helper.canvas",
     "attachments/Untitled(1).svg",
     "Job Hunting/Technical Skills.canvas",
-    "attachments/Basic stack.svg",
-    "attachments/Basic sidebar.svg",
-    "attachments/Database design.svg"
+    "attachments/Basic stack.svg"
   ]
 }

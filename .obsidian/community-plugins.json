@@ -15,5 +15,10 @@
   "obsidian-cloudinary-uploader",
   "harper",
   "obsidian-auto-link-title",
-  "obsidian-git"
+  "obsidian-git",
+  "number-headings-obsidian",
+  "obsidian-linter",
+  "table-editor-obsidian",
+  "mousewheel-image-zoom",
+  "convert-url-to-iframe"
 ]
