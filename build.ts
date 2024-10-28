@@ -10,7 +10,6 @@ const getName = (name: string) => {
   if (name.includes(".")) {
     return titleCase(name.split('.').slice(0, -1).join('.'))
   }
-  console.log(name)
   return titleCase(name)
 }
 
