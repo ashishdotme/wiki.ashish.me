@@ -29,7 +29,7 @@ git config --global user.name "Ashish Patel"
 git config --global user.email "ashishsushilpatel@gmail.com"
 ```
 
-#### SHell
+#### Shell
 
 zsh
 
