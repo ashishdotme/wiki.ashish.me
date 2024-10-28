@@ -13,6 +13,10 @@ Main topics covered by this wiki:
 
 ## Index
 <!-- index starts -->
+## Personal
+
+* [Subscriptions](https://github.com/ashishdotme/notes/blob/master/personal/subscriptions.md) - *last updated at 2024-10-28*
+
 ## Data structures
 
 * [Time complexity](https://github.com/ashishdotme/notes/blob/master/data-structures/time-complexity.md) - *last updated at 2024-10-27*
