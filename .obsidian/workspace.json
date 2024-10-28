@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "misc/gym/workout-plan.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -193,15 +193,15 @@
   },
   "active": "c0f0c72be0b1deee",
   "lastOpenFiles": [
-    "misc/gym/Untitled.md",
+    "misc/gym/chest.md",
+    "misc/gym/readme.md",
+    "misc/gym/workout-plan.md",
     "misc/gym/shoulder.md",
     "misc/gym/tricep.md",
-    "misc/gym/workout-plan.md",
-    "misc/gym/chest.md",
+    "misc/gym/Untitled.md",
     "attachments/male-Machine-machine-reverse-fly-side.mp4",
     "attachments/male-Machine-machine-chest-press-side.mp4",
     "attachments",
-    "misc/gym/readme.md",
     "personal/subscriptions.md",
     "personal/readme.md",
     "personal/gadgets.md",

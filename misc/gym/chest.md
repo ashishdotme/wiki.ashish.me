@@ -2,13 +2,13 @@
 
 ## Bench press
 
-![[male-Machine-machine-chest-press-side.mp4]]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NwzUje3z0qY?si=FcZB-GtropSdjJ8o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Incline bench press
 
 ## Dumbell fly
 
-<iframe width="800" height="415" src="https://www.youtube.com/embed/eGjt4lk6g34?si=yU0SzpyMMw03elhJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eGjt4lk6g34?si=yU0SzpyMMw03elhJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Pushup
 

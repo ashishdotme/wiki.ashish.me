@@ -26,8 +26,17 @@
 | Day   | Exercise                                                                                       |
 | ----- | ---------------------------------------------------------------------------------------------- |
 | Day 1 | Barbell bench press, Dumbbell overhead press, Dumbbell Fly, Triceps extensions, lateral raises |
-| Day 2 | Bent over row, Barbell Row, Biceps Curl, Hammer Curl, Reverse Fly                          |
+| Day 2 | Bent over row, Cable Row, Biceps Curl, Hammer Curl, Reverse Fly                              |
 | Day 3 | Front Squat, Leg Curl, Leg Extension, Calf Raise                                               |
+
+
+| Day | Muscle |
+| --- | ------ |
+|  Day 1   |   Chest, Shoulder, Chest, Triceps, Shoulder      |
+|   Day 2  |   Back, Back, Bicep, Bicep, Back      |
+|    Day 3    | Back, Leg, Leg, Leg |
+
+
 
 ## Links
 
