@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/gym/workout-plan.md",
-                "mode": "preview",
+                "file": "personal/shortcuts.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "workout-plan"
+              "title": "shortcuts"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/gym/workout-plan.md"
+                "file": "personal/shortcuts.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of workout-plan"
+              "title": "Outline of shortcuts"
             }
           },
           {
@@ -181,7 +181,6 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-kanban:Create new board": false,
@@ -193,12 +192,15 @@
   },
   "active": "c0f0c72be0b1deee",
   "lastOpenFiles": [
+    "books/atomic-habits.md",
+    "personal/shortcuts.md",
+    "books",
+    "misc/gym/workout-plan.md",
     "personal/subscriptions.md",
     "system-design/database.md",
     "system-design/readme.md",
     "system-design/availability-vs-consistency-pattern.md",
     "system-design/basics.md",
-    "misc/gym/workout-plan.md",
     "misc/gym/chest.md",
     "misc/gym/readme.md",
     "misc/gym/shoulder.md",
@@ -224,13 +226,10 @@
     "misc",
     "javascript/design-patterns/singleton-pattern.md",
     "javascript/design-patterns/readme.md",
-    "javascript/design-patterns/proxy-pattern.md",
-    "javascript/design-patterns/factory.md",
     "javascript/design-patterns",
     "software-development/uml/assets/uml-class-restaurant.png",
     "software-development/uml/assets/uml-class-library.png",
     "software-development/uml/assets",
-    "software-development/uml",
     "scripts/node_modules/date-fns/docs/logotype.svg",
     "scripts/node_modules/date-fns/docs/logo.svg",
     "node_modules/date-fns/docs/logotype.svg",
