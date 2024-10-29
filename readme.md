@@ -15,6 +15,7 @@ Main topics covered by this wiki:
 <!-- index starts -->
 ## Personal
 
+* [Shortcuts](https://github.com/ashishdotme/notes/blob/master/personal/shortcuts.md) - *last updated at 2024-10-29*
 * [Subscriptions](https://github.com/ashishdotme/notes/blob/master/personal/subscriptions.md) - *last updated at 2024-10-28*
 
 ## Data structures
