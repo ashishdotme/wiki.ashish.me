@@ -18,6 +18,8 @@ index-name = "readme.md"
 enable = true
 level = 0
 
+[preprocessor.katex]
+after = ["links"]
 
 [output.html]
 additional-js = ["./theme/mermaid.min.js", "./theme/mermaid-init.js", "./theme/custom.js"]
