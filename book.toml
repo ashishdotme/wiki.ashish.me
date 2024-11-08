@@ -35,5 +35,3 @@ site-url = "https://wiki.ashish.me"
 
 [preprocessor.mermaid]
 command = "mdbook-mermaid"
-
-[preprocessor.mdinclude]
