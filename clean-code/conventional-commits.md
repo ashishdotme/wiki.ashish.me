@@ -2,15 +2,15 @@
 
 ## Format
 
-<type>(<scope>): <description>
+`<type>(<scope>): <description>`
 
-feat: A new feature
-fix: A bug fix
-docs: Documentation changes
-style: Code style changes (formatting, etc.)
-refactor: Code refactoring
-test: Adding or modifying tests
-chore: Routine tasks, maintenance, etc
+- feat: A new feature
+- fix: A bug fix
+- docs: Documentation changes
+- style: Code style changes (formatting, etc.)
+- refactor: Code refactoring
+- test: Adding or modifying tests
+- chore: Routine tasks, maintenance, etc
 
 
 ## Examples
