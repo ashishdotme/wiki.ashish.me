@@ -62,14 +62,14 @@ jobs:
       - name: Create Summary
         run: |-
           touch SUMMARY.md
-      - name: Setup mdBook
-        uses: peaceiris/actions-mdbook@v2
-        with:
-          mdbook-version: 'latest'
-          # mdbook-version: 'latest'
+      # - name: Setup mdBook
+      #   uses: peaceiris/actions-mdbook@v2
+      #   with:
+      #     mdbook-version: 'latest'
+      #     # mdbook-version: 'latest'
       - uses: brndnmtthws/rust-action-cargo-binstall@v1
         with:
-          packages: mdbook-mermaid mdbook-autosummary mdbook-katex mdbook-embedify
+          packages: mdbook@0.4.40 mdbook-mermaid mdbook-autosummary mdbook-katex mdbook-repl mdbook-mdinclude mdbook-embedify
       - run: mdbook build
       - name: Deploy
         uses: cloudflare/wrangler-action@v3
