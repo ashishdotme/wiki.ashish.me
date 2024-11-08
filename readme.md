@@ -13,8 +13,13 @@ Main topics covered by this wiki:
 
 ## Index
 <!-- index starts -->
+## Clean code
+
+* [Conventional commits](https://github.com/ashishdotme/notes/blob/master/clean-code/conventional-commits.md) - *last updated at 2024-11-08*
+
 ## Personal
 
+* [Cli](https://github.com/ashishdotme/notes/blob/master/personal/cli.md) - *last updated at 2024-11-08*
 * [Shortcuts](https://github.com/ashishdotme/notes/blob/master/personal/shortcuts.md) - *last updated at 2024-10-29*
 * [Subscriptions](https://github.com/ashishdotme/notes/blob/master/personal/subscriptions.md) - *last updated at 2024-10-28*
 
