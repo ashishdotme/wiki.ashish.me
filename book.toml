@@ -21,6 +21,8 @@ level = 0
 [preprocessor.katex]
 after = ["links"]
 
+[preprocessor.embedify]
+
 [output.html]
 additional-js = ["./theme/mermaid.min.js", "./theme/mermaid-init.js", "./theme/custom.js"]
 mathjax-support = true

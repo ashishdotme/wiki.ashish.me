@@ -69,7 +69,7 @@ jobs:
           # mdbook-version: 'latest'
       - uses: brndnmtthws/rust-action-cargo-binstall@v1
         with:
-          packages: mdbook-mermaid mdbook-autosummary mdbook-katex mdbook-mdinclude mdbook-embedify
+          packages: mdbook-mermaid mdbook-autosummary mdbook-katex mdbook-embedify
       - run: mdbook build
       - name: Deploy
         uses: cloudflare/wrangler-action@v3
