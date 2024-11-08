@@ -52,6 +52,4 @@ typescript.loading = "lazy"
 javascript.enable = true
 javascript.loading = "lazy"
 
-[preprocessor.mdinclude]
-
 [preprocessor.embedify]
