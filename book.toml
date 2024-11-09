@@ -55,3 +55,7 @@ javascript.loading = "lazy"
 [preprocessor.mdinclude]
 
 [preprocessor.embedify]
+scroll-to-top.enable = true
+
+footer.enable = true
+footer.message = "Copyright © 2024 • Created with ❤️ by [Ashish Patel](https://ashish.me)"
