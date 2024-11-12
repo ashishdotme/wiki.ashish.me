@@ -59,3 +59,6 @@ scroll-to-top.enable = true
 
 footer.enable = true
 footer.message = "Copyright © 2024 • Created with ❤️ by [Ashish Patel](https://ashish.me)"
+
+[preprocessor.random]
+command = "python3 build_index.py"
