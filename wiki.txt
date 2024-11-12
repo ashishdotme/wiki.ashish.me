@@ -1,6 +1,4 @@
-# Wiki
-
-## Ashish's Wiki
+# Ashish's Wiki
 
 This wiki is a curated collection of insights, best practices, and learnings from my journey
 in software engineering. It covers key concepts and code examples aimed at 
