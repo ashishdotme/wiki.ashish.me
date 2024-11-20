@@ -2,5 +2,7 @@
   "accentColor": "",
   "translucency": false,
   "cssTheme": "Minimal",
-  "monospaceFontFamily": "JetBrainsMono Nerd Font"
+  "monospaceFontFamily": "PolySans Neutral",
+  "textFontFamily": "PolySans Neutral",
+  "interfaceFontFamily": "PolySans Neutral"
 }

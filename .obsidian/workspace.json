@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "c06e4b28992aa21c",
+    "id": "8162cb150936b2a1",
     "type": "split",
     "children": [
       {
-        "id": "0301d829bb132e36",
+        "id": "906419e370324f37",
         "type": "tabs",
         "children": [
           {
-            "id": "c0f0c72be0b1deee",
+            "id": "1fd65d8154b76ce6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/shortcuts.md",
+                "file": "misc/health/skincare.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "shortcuts"
+              "title": "skincare"
             }
           }
         ]
@@ -27,27 +27,27 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "34933c75410b4e98",
+    "id": "e980ad74f2c9a2ae",
     "type": "split",
     "children": [
       {
-        "id": "947fa88aed1e3e92",
+        "id": "398abcfba57e3b04",
         "type": "tabs",
         "children": [
           {
-            "id": "cec1ade13a4bed0c",
+            "id": "1feb869614004727",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "958b727c35340e0a",
+            "id": "668f9028c9384b0e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -55,7 +55,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "4ea4d6d7de0d3337",
+            "id": "e9705a9b176caaba",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,9 +72,56 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "68c788b0326f7c2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7f8d8712caac687",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c296f59bfe42feef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "html/position.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for position"
+            }
           },
           {
-            "id": "3b9f861620582e09",
+            "id": "4b329c14c8b8785f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "misc/health/skincare.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from skincare"
+            }
+          },
+          {
+            "id": "42766b12a4236f26",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -85,68 +132,21 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 284.5
-  },
-  "right": {
-    "id": "3f4588c22704d497",
-    "type": "split",
-    "children": [
-      {
-        "id": "6c93c7a19dc91e63",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fd29eb7a5f783b7e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "weekly/week-42-2024.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for week-42-2024"
-            }
           },
           {
-            "id": "eb1368574b699205",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "weekly/week-42-2024.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from week-42-2024"
-            }
-          },
-          {
-            "id": "f38187bb985519d8",
+            "id": "f9161c0f7c29b6f2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/shortcuts.md"
+                "file": "misc/health/skincare.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of shortcuts"
+              "title": "Outline of skincare"
             }
           },
           {
-            "id": "cdb01a26df560f16",
+            "id": "249933e6e6c43e8f",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -156,7 +156,7 @@
             }
           },
           {
-            "id": "b661a178e5c713cd",
+            "id": "14ccc66f12c3ad27",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -166,82 +166,78 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 364.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c0f0c72be0b1deee",
+  "active": "1fd65d8154b76ce6",
   "lastOpenFiles": [
-    "books/atomic-habits.md",
     "personal/shortcuts.md",
-    "books",
-    "misc/gym/workout-plan.md",
-    "personal/subscriptions.md",
-    "system-design/database.md",
-    "system-design/readme.md",
-    "system-design/availability-vs-consistency-pattern.md",
-    "system-design/basics.md",
-    "misc/gym/chest.md",
-    "misc/gym/readme.md",
-    "misc/gym/shoulder.md",
-    "misc/gym/tricep.md",
-    "misc/gym/Untitled.md",
-    "attachments/male-Machine-machine-reverse-fly-side.mp4",
-    "attachments/male-Machine-machine-chest-press-side.mp4",
-    "attachments",
-    "personal/readme.md",
-    "personal/gadgets.md",
-    "personal/setup/macbook.md",
-    "personal/setup/readme.md",
-    "misc/maths/readme.md",
-    "misc/maths/misc.md",
-    "misc/maths/logarithm.md",
     "misc/english/vocabulary.md",
     "misc/english/readme.md",
     "misc/english/prepositions.md",
-    "misc/readme.md",
-    "misc/maths",
-    "misc/gym",
-    "misc/english",
-    "misc",
+    "clean-code/readme.md",
+    "clean-code/conventional-commits.md",
+    "html/position.md",
+    "misc/health/skincare.md",
+    "misc/health",
+    "theme/mermaid.min.js",
+    "theme/SNPro-Medium.woff2",
+    "theme/mermaid-init.js",
+    "theme/Inter-Bold.woff2",
+    "theme/index.hbs",
+    "theme/custom.js",
+    "theme/catppuccin.css",
+    "theme/ashish.css",
+    "theme",
     "javascript/design-patterns/singleton-pattern.md",
     "javascript/design-patterns/readme.md",
-    "javascript/design-patterns",
+    "javascript/design-patterns/factory.md",
+    "javascript/design-patterns/proxy-pattern.md",
+    "javascript/design-patterns/decorator-pattern.md",
+    "javascript/design-patterns/builder-pattern.md",
+    "javascript/design-patterns/adapter-pattern.md",
+    "javascript/core-concepts/webpack.md",
+    "javascript/core-concepts/readme.md",
+    "javascript/core-concepts/prototypes-and-classes.md",
+    "javascript/core-concepts/generator.md",
+    "javascript/core-concepts/exports-imports.md",
+    "javascript/core-concepts/es5.md",
+    "javascript/core-concepts/es6.md",
+    "javascript/core-concepts/callback-hell.md",
+    "javascript/core-concepts/babel.md",
+    "javascript/core-concepts/async-await.md",
     "software-development/uml/assets/uml-class-restaurant.png",
     "software-development/uml/assets/uml-class-library.png",
-    "software-development/uml/assets",
-    "scripts/node_modules/date-fns/docs/logotype.svg",
-    "scripts/node_modules/date-fns/docs/logo.svg",
-    "node_modules/date-fns/docs/logotype.svg",
-    "node_modules/date-fns/docs/logo.svg",
-    "Pasted image 20241012115151.png",
-    "Untitled.canvas",
-    "Pasted image 20240716144010.png",
-    "Home.canvas",
-    "AI Notes/Untitled.canvas",
-    "Projects/Game Master/Ai dnd helper.canvas",
-    "attachments/Untitled(1).svg",
-    "Job Hunting/Technical Skills.canvas",
-    "attachments/Basic stack.svg"
+    "software-development/uml/assets/readme.md",
+    "static/assets/uml-class.png",
+    "static/assets/chest-press.png",
+    "uml/assets/uml-class-library.png",
+    "uml/assets/uml-class-restaurant.png",
+    "uml/assets/uml-class-university.png",
+    "diagrams/assets/uml-class-library.png",
+    "oops/shopping-cart-uml-1.svg",
+    "oops/bank-uml-1.svg",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
   ]
 }
