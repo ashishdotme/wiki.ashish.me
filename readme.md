@@ -17,15 +17,15 @@
 <p align="center"><a href="https://notes.ashish.me">https://notes.ashish.me</a></p>
 
 <!-- index starts -->
+## Personal
+
+* [Shortcuts](https://github.com/ashishdotme/notes/blob/master/personal/shortcuts.md) - *last updated at 2024-11-20*
+* [Cli](https://github.com/ashishdotme/notes/blob/master/personal/cli.md) - *last updated at 2024-11-08*
+* [Subscriptions](https://github.com/ashishdotme/notes/blob/master/personal/subscriptions.md) - *last updated at 2024-10-28*
+
 ## Clean code
 
 * [Conventional commits](https://github.com/ashishdotme/notes/blob/master/clean-code/conventional-commits.md) - *last updated at 2024-11-08*
-
-## Personal
-
-* [Cli](https://github.com/ashishdotme/notes/blob/master/personal/cli.md) - *last updated at 2024-11-08*
-* [Shortcuts](https://github.com/ashishdotme/notes/blob/master/personal/shortcuts.md) - *last updated at 2024-10-29*
-* [Subscriptions](https://github.com/ashishdotme/notes/blob/master/personal/subscriptions.md) - *last updated at 2024-10-28*
 
 ## Data structures
 
