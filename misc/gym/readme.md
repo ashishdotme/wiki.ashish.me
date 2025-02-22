@@ -1,5 +1,5 @@
 # Gym 
-- [Workout Plan](workout-plan.md)
-- [Chest](chest.md)
 - [Shoulder](shoulder.md)
+- [Chest](chest.md)
 - [Tricep](tricep.md)
+- [Workout Plan](workout-plan.md)
