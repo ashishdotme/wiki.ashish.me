@@ -19,6 +19,7 @@
 <!-- index starts -->
 ## Personal
 
+* [Info](https://github.com/ashishdotme/notes/blob/master/personal/info.md) - *last updated at 2025-02-22*
 * [Shortcuts](https://github.com/ashishdotme/notes/blob/master/personal/shortcuts.md) - *last updated at 2024-11-20*
 * [Cli](https://github.com/ashishdotme/notes/blob/master/personal/cli.md) - *last updated at 2024-11-08*
 * [Subscriptions](https://github.com/ashishdotme/notes/blob/master/personal/subscriptions.md) - *last updated at 2024-10-28*
