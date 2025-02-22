@@ -1,3 +1,3 @@
 # Sql 
-- [Basics](basics.md)
 - [Joins](joins.md)
+- [Basics](basics.md)

@@ -1,3 +1,3 @@
 # Maths 
-- [Logarithm](logarithm.md)
 - [Misc](misc.md)
+- [Logarithm](logarithm.md)
