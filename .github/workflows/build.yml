@@ -81,6 +81,7 @@ jobs:
         env:
           NOW_TOKEN: ${{ secrets.NOW_TOKEN }}
         run: |-
+          pnpm i -g vercel
           datasette publish vercel notes.db \
             --token $NOW_TOKEN \
             --branch 0.64.x \
