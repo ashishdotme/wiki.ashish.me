@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/health/skincare.md",
+                "file": "git/squash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "skincare"
+              "title": "squash"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -139,10 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/health/skincare.md"
+                "file": "git/squash.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of skincare"
+              "title": "Outline of squash"
             }
           },
           {
@@ -164,6 +168,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "d9609a4a266fcec8",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
         "currentTab": 5
@@ -174,23 +188,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "templater-obsidian:Templater": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "1fd65d8154b76ce6",
+  "active": "14ccc66f12c3ad27",
   "lastOpenFiles": [
+    "git/rebase.md",
+    "git/squash.md",
+    "git/cherrypick.md",
+    "git/commands.md",
+    "misc/health/skincare.md",
+    "git",
     "personal/shortcuts.md",
     "misc/english/vocabulary.md",
     "misc/english/readme.md",
@@ -198,7 +220,6 @@
     "clean-code/readme.md",
     "clean-code/conventional-commits.md",
     "html/position.md",
-    "misc/health/skincare.md",
     "misc/health",
     "theme/mermaid.min.js",
     "theme/SNPro-Medium.woff2",
@@ -208,7 +229,6 @@
     "theme/custom.js",
     "theme/catppuccin.css",
     "theme/ashish.css",
-    "theme",
     "javascript/design-patterns/singleton-pattern.md",
     "javascript/design-patterns/readme.md",
     "javascript/design-patterns/factory.md",
@@ -223,12 +243,8 @@
     "javascript/core-concepts/exports-imports.md",
     "javascript/core-concepts/es5.md",
     "javascript/core-concepts/es6.md",
-    "javascript/core-concepts/callback-hell.md",
-    "javascript/core-concepts/babel.md",
-    "javascript/core-concepts/async-await.md",
     "software-development/uml/assets/uml-class-restaurant.png",
     "software-development/uml/assets/uml-class-library.png",
-    "software-development/uml/assets/readme.md",
     "static/assets/uml-class.png",
     "static/assets/chest-press.png",
     "uml/assets/uml-class-library.png",

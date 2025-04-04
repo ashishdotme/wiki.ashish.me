@@ -8,5 +8,6 @@
     "node_modules/",
     "scripts/"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "showInlineTitle": false
 }
