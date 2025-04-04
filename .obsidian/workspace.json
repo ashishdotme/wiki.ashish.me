@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 296.5
   },
   "right": {
     "id": "68c788b0326f7c2d",
@@ -205,7 +205,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "14ccc66f12c3ad27",
+  "active": "1feb869614004727",
   "lastOpenFiles": [
     "git/rebase.md",
     "git/squash.md",
