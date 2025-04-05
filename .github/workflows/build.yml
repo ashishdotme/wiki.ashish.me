@@ -76,7 +76,8 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: cd78c815cc8afdc708dedabdcb7ade24
-          command: pages deploy book --project-name=notes  
+          command: pages deploy book --project-name=notes
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
       - name: Deploy Datasette using Vercel
         env:
           NOW_TOKEN: ${{ secrets.NOW_TOKEN }}
