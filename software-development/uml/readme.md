@@ -1,5 +1,5 @@
 # Uml 
-- [Uml Class Restaurant](UML-class-restaurant.md)
-- [Uml Class](uml-class.md)
-- [Assets](assets)
 - [Uml Class Library](UML-class-library.md)
+- [Assets](assets)
+- [Uml Class](uml-class.md)
+- [Uml Class Restaurant](UML-class-restaurant.md)

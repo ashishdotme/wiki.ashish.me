@@ -1,5 +1,5 @@
 # Misc 
-- [Maths](maths)
-- [Health](health)
-- [English](english)
 - [Gym](gym)
+- [English](english)
+- [Health](health)
+- [Maths](maths)
