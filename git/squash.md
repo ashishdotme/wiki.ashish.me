@@ -1,4 +1,4 @@
-# Squashing Commits in Git
+# Squashing
 
 To squash all commits in your current branch into one commit, follow these steps:
 

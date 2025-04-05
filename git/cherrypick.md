@@ -1,4 +1,4 @@
-# Cherry-picking Commits from Develop to Current Branch
+# Cherrypicking
 
 To cherry-pick your last commit from the develop branch to your current branch, follow these steps:
 
