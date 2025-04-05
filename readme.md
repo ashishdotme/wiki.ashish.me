@@ -17,6 +17,13 @@
 <p align="center"><a href="https://notes.ashish.me">https://notes.ashish.me</a></p>
 
 <!-- index starts -->
+## Git
+
+* [Squash](https://github.com/ashishdotme/notes/blob/master/git/squash.md) - *last updated at 2025-04-04*
+* [Commands](https://github.com/ashishdotme/notes/blob/master/git/commands.md) - *last updated at 2025-04-04*
+* [Rebase](https://github.com/ashishdotme/notes/blob/master/git/rebase.md) - *last updated at 2025-04-04*
+* [Cherrypick](https://github.com/ashishdotme/notes/blob/master/git/cherrypick.md) - *last updated at 2025-04-04*
+
 ## Personal
 
 * [Info](https://github.com/ashishdotme/notes/blob/master/personal/info.md) - *last updated at 2025-02-22*
