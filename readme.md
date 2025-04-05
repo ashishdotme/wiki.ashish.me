@@ -20,9 +20,9 @@
 ## Git
 
 * [Squash](https://github.com/ashishdotme/notes/blob/master/git/squash.md) - *last updated at 2025-04-05*
+* [Commands](https://github.com/ashishdotme/notes/blob/master/git/commands.md) - *last updated at 2025-04-05*
+* [Rebase](https://github.com/ashishdotme/notes/blob/master/git/rebase.md) - *last updated at 2025-04-05*
 * [Cherrypick](https://github.com/ashishdotme/notes/blob/master/git/cherrypick.md) - *last updated at 2025-04-05*
-* [Commands](https://github.com/ashishdotme/notes/blob/master/git/commands.md) - *last updated at 2025-04-04*
-* [Rebase](https://github.com/ashishdotme/notes/blob/master/git/rebase.md) - *last updated at 2025-04-04*
 
 ## Personal
 
