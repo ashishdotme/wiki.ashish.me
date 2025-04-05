@@ -26,7 +26,7 @@
 @font-face {
   font-family: "SNPro Medium";
   font-style: normal;
-  src: url("./SNPro-Medium.woff2") format("woff2");
+  src: url("./VinilaTest-Regular.otf") format("otf");
   font-display: swap;
 }
 
@@ -53,20 +53,28 @@ h4 {
   letter-spacing: -1px;
 }
 
-h1
-{
+h1 {
   font-family: "Inter Black", sans-serif;
   letter-spacing: -2px;
 }
 
+.content h3 {
+  position: relative;
+  padding-bottom: 5px;
+  width: fit-content;
+}
 .content h3:before {
-  content: "#";
-  margin-right: 6px;
+  content: " ";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  border-bottom: 3px solid #ea76cb;
+  width: 100%;
 }
 
 .content h2 {
   padding-bottom: 0.3em;
-  border-bottom: 1px solid rgba(97, 97, 97, 0.702);
+  border-bottom: 3px solid #8839ef;
 }
 
 .chapter,
@@ -120,12 +128,12 @@ h1
 
 @media screen and (prefers-reduced-motion: reduce) {
   *:hover {
-    transition: all .0s ease-in-out;
+    transition: all 0s ease-in-out;
   }
 }
 
 @media (-moz-touch-enabled: 1), (pointer: coarse) {
-  .chapter li > a.toggle{
+  .chapter li > a.toggle {
     padding: 5px 10px;
   }
 }
@@ -140,5 +148,5 @@ h3 {
 
 h4 {
   font-size: 2rem;
-  text-decoration: underline ;
+  text-decoration: underline;
 }
