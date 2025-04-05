@@ -17,6 +17,18 @@
 <p align="center"><a href="https://notes.ashish.me">https://notes.ashish.me</a></p>
 
 <!-- index starts -->
+## Algorithms
+
+* [Sorting](https://github.com/ashishdotme/notes/blob/master/algorithms/sorting.md) - *last updated at 2025-04-05*
+* [Asymptotic analysis](https://github.com/ashishdotme/notes/blob/master/algorithms/asymptotic-analysis.md) - *last updated at 2024-10-27*
+* [Round robin](https://github.com/ashishdotme/notes/blob/master/algorithms/round-robin.md) - *last updated at 2024-10-27*
+* [Backtracking](https://github.com/ashishdotme/notes/blob/master/algorithms/backtracking.md) - *last updated at 2019-01-23*
+* [Introduction](https://github.com/ashishdotme/notes/blob/master/algorithms/introduction.md) - *last updated at 2019-01-23*
+* [Recursion](https://github.com/ashishdotme/notes/blob/master/algorithms/recursion.md) - *last updated at 2019-01-23*
+* [Divide and conquer](https://github.com/ashishdotme/notes/blob/master/algorithms/divide-and-conquer.md) - *last updated at 2019-01-23*
+* [Dynamic programming](https://github.com/ashishdotme/notes/blob/master/algorithms/dynamic-programming.md) - *last updated at 2019-01-23*
+* [Greedy algorithms](https://github.com/ashishdotme/notes/blob/master/algorithms/greedy-algorithms.md) - *last updated at 2019-01-23*
+
 ## Git
 
 * [Squash](https://github.com/ashishdotme/notes/blob/master/git/squash.md) - *last updated at 2025-04-05*
@@ -51,18 +63,6 @@
 * [Architecture](https://github.com/ashishdotme/notes/blob/master/docker/architecture.md) - *last updated at 2024-10-27*
 * [Container](https://github.com/ashishdotme/notes/blob/master/docker/container.md) - *last updated at 2024-10-27*
 * [Cheatsheet](https://github.com/ashishdotme/notes/blob/master/docker/cheatsheet.md) - *last updated at 2022-01-29*
-
-## Algorithms
-
-* [Asymptotic analysis](https://github.com/ashishdotme/notes/blob/master/algorithms/asymptotic-analysis.md) - *last updated at 2024-10-27*
-* [Sorting](https://github.com/ashishdotme/notes/blob/master/algorithms/sorting.md) - *last updated at 2024-10-27*
-* [Round robin](https://github.com/ashishdotme/notes/blob/master/algorithms/round-robin.md) - *last updated at 2024-10-27*
-* [Backtracking](https://github.com/ashishdotme/notes/blob/master/algorithms/backtracking.md) - *last updated at 2019-01-23*
-* [Introduction](https://github.com/ashishdotme/notes/blob/master/algorithms/introduction.md) - *last updated at 2019-01-23*
-* [Recursion](https://github.com/ashishdotme/notes/blob/master/algorithms/recursion.md) - *last updated at 2019-01-23*
-* [Divide and conquer](https://github.com/ashishdotme/notes/blob/master/algorithms/divide-and-conquer.md) - *last updated at 2019-01-23*
-* [Dynamic programming](https://github.com/ashishdotme/notes/blob/master/algorithms/dynamic-programming.md) - *last updated at 2019-01-23*
-* [Greedy algorithms](https://github.com/ashishdotme/notes/blob/master/algorithms/greedy-algorithms.md) - *last updated at 2019-01-23*
 
 ## Html
 
