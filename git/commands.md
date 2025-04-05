@@ -1,63 +1,62 @@
-# Commands
+# Git Commands
 
-### General
+## General
 
-Create repository: `git init`
-Add file: `git add <file>`
-Remove file: `git rm <file>`
-Move or rename file: `git mv <from> <to>`
-Commit changes: `git commit`
-Show changes:`git status`
-Show log: `git log`
-Show log with tags: `git log --decorate`
-Search thru commit messages: `git log --grep="<search>"`
-Add remote repository: `git remote add origin <url>`
+| Command | Description |
+|---------|-------------|
+| `git init` | Create a new Git repository |
+| `git add <file>` | Add file to staging area |
+| `git rm <file>` | Remove file from repository |
+| `git mv <from> <to>` | Move or rename file |
+| `git commit` | Commit staged changes |
+| `git status` | Show working tree status |
+| `git log` | Show commit history |
+| `git log --decorate` | Show commit history with tags |
+| `git log --grep="<search>"` | Search through commit messages |
+| `git remote add origin <url>` | Add remote repository |
 
-### Branches
+## Branches
 
-Show branches: `git branch`
-Create branch: `git branch <branch>`
-Create and checkout branch: `git checkout -b <branch>`
-Checkout branch: `git checkout <branch>`
-Rename branch: `git branch -m <from> <to>`
-Delete branch: `git branch -d <branch>`
-Delete remote branch: `git push origin :<branch>`
-Review branch changes: `git diff <branch>`
-Merge branch into current: `git merge <branch>`
-Resolve merge conflicts:
+| Command | Description |
+|---------|-------------|
+| `git branch` | List all branches |
+| `git branch <branch>` | Create a new branch |
+| `git checkout -b <branch>` | Create and checkout branch |
+| `git checkout <branch>` | Switch to branch |
+| `git branch -m <from> <to>` | Rename branch |
+| `git branch -d <branch>` | Delete local branch |
+| `git push origin :<branch>` | Delete remote branch |
+| `git diff <branch>` | Show changes between branches |
+| `git merge <branch>` | Merge branch into current |
+| `mate <file> git add <file> git commit` | Resolving merge conflicts |
+| `git checkout -f master` | Discard branch changes |
 
-	mate <file>
-	git add <file>
-	git commit
+## Tags
 
-Discard branch changes: `git checkout -f master`
+| Command | Description |
+|---------|-------------|
+| `git tag` | List all tags |
+| `git tag -a <tag>` | Create a new tag |
+| `git tag -a <tag> <commit>` | Create tag for specific commit |
+| `git show <tag>` | Show tag details |
+| `git tag -d <tag>` | Delete local tag |
+| `git push origin :refs/tags/<tag>` | Delete remote tag |
 
-### Tags
+## Push & Pull
 
-Show tags: `git tag`
-Create tag: `git tag -a <tag>`
-Create tag for specific commit: `git tag -a <tag> <commit>`
-Show tag data: `git show <tag>`
-Delete tag: `git tag -d <tag>`
-Delete remote tag: `git push origin :refs/tags/<tag>`
+| Command | Description |
+|---------|-------------|
+| `git push origin master` | Push to master branch |
+| `git push origin master --tags` | Push with tags |
+| `git fetch origin` | Fetch from remote repository |
+| `git merge origin/master` | Merge remote branch into current |
+| `git pull` | Fetch and merge into current branch |
 
-### Push
+## Clone & Submodules
 
-Push to master: `git push origin master`
-Push with tags: `git push origin master --tags`
-
-### Pull
-
-Fetch from remote repository: `git fetch origin`
-Merge remote branch into current: `git merge origin/master`
-Fetch and merge into current branch: `git pull`
-
-### Clone
-
-Clone repository: `git clone <url>`
-Clone with submodules: `git clone --recursive <url>`
-
-### Submodules
-
-Add submodule to repository: `git submodule add <url>`
-Update submodule: `git submodule update`
+| Command | Description |
+|---------|-------------|
+| `git clone <url>` | Clone repository |
+| `git clone --recursive <url>` | Clone with submodules |
+| `git submodule add <url>` | Add submodule to repository |
+| `git submodule update` | Update submodule |

@@ -2,7 +2,7 @@
 
 To rebase your current branch with the develop branch, follow these steps:
 
-## Basic Rebase Process
+### Basic Rebase Process
 
 1.  Fetch all the latest changes from the remote:
 
@@ -42,7 +42,7 @@ To rebase your current branch with the develop branch, follow these steps:
         git rebase --abort
         ```
 
-## Alternative with Stashing (if you have uncommitted changes)
+### Alternative with Stashing (if you have uncommitted changes)
 
 1.  Stash your changes:
 
@@ -63,7 +63,7 @@ To rebase your current branch with the develop branch, follow these steps:
     git stash pop
     ```
 
-## Force Push After Rebase
+### Force Push After Rebase
 
 After rebasing, you'll need to force push your changes since you've rewritten history:
 
