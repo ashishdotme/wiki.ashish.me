@@ -71,12 +71,14 @@ jobs:
         with:
           packages: mdbook mdbook-mermaid mdbook-autosummary mdbook-katex mdbook-repl mdbook-mdinclude mdbook-embedify
       - run: mdbook build
-      - name: Deploy
-        uses: cloudflare/wrangler-action@v3
+      - name: Publish to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: cd78c815cc8afdc708dedabdcb7ade24
-          command: pages deploy book --project-name=notes
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          publish_dir: book
+          force_orphan: true
       - name: Deploy Datasette using Vercel
         env:
           NOW_TOKEN: ${{ secrets.NOW_TOKEN }}
