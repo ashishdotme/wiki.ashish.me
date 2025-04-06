@@ -1,0 +1,18 @@
+# Ashish's Wiki
+
+This wiki is a curated collection of insights, best practices, and learnings from my journey
+in software engineering. It covers key concepts and code examples aimed at 
+deepening technical understanding.
+
+<b>Links</b>
+
+[[Website]](https://ashish.me) [[Notes]](https://ashish.me/notes) [[Uses]](https://ashish.me/uses) [[Todos]](https://ashish.me/todos) [[Listens]](https://ashish.me/listens) [[Movies]](https://ashish.me/movies) [[Shows]](https://ashish.me/shows) [[Books]](https://ashish.me/books)
+
+
+## Topics
+
+Main topics covered by this wiki:
+
+- [Software Development](./software-development/index.html)
+- [Personal](./personal/index.html)
+- [System Design](./system-design/index.html)

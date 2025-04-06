@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "8162cb150936b2a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "cff36ba315f629e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0c0d10d6611969c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system-design/readme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "readme"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e980ad74f2c9a2ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "398abcfba57e3b04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1feb869614004727",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "668f9028c9384b0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e9705a9b176caaba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296.5
+  },
+  "right": {
+    "id": "68c788b0326f7c2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7f8d8712caac687",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c296f59bfe42feef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "html/position.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for position"
+            }
+          },
+          {
+            "id": "4b329c14c8b8785f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "misc/health/skincare.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from skincare"
+            }
+          },
+          {
+            "id": "42766b12a4236f26",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f9161c0f7c29b6f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "git/squash.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of squash"
+            }
+          },
+          {
+            "id": "249933e6e6c43e8f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "14ccc66f12c3ad27",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "d9609a4a266fcec8",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 364.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "f0c0d10d6611969c",
+  "lastOpenFiles": [
+    "CNAME",
+    "system-design/database.md",
+    "system-design/basics.md",
+    "system-design/availability-vs-consistency-pattern.md",
+    "personal/setup/selfhost.md",
+    "personal/setup/readme.md",
+    "git/squash.md",
+    "personal/setup/macbook.md",
+    "book/build.ts",
+    "book/git",
+    "book/book.toml",
+    "book/notes.db",
+    "book/attachments/male-Machine-machine-reverse-fly-side.mp4",
+    "book/attachments/male-Machine-machine-chest-press-side.mp4",
+    "book/attachments",
+    "book/build_readme.py",
+    "book/static/assets/chest-press.png",
+    "book/static/assets/uml-class.png",
+    "book/static/github-light.css",
+    "book/static/favicon.ico",
+    "book/software-development/uml/assets/uml-class-library.png",
+    "book/software-development/uml/assets/uml-class-restaurant.png",
+    "book/FontAwesome/fonts/fontawesome-webfont.svg",
+    "book/favicon.svg",
+    "book/favicon.png",
+    "SUMMARY.md",
+    "git/rebase.md",
+    "git/cherrypick.md",
+    "git/commands.md",
+    "misc/health/skincare.md",
+    "personal/shortcuts.md",
+    "misc/english/vocabulary.md",
+    "misc/english/readme.md",
+    "misc/english/prepositions.md",
+    "clean-code/readme.md",
+    "clean-code/conventional-commits.md",
+    "html/position.md",
+    "javascript/design-patterns/singleton-pattern.md",
+    "javascript/design-patterns/readme.md",
+    "javascript/design-patterns/factory.md",
+    "javascript/design-patterns/proxy-pattern.md",
+    "javascript/design-patterns/decorator-pattern.md",
+    "javascript/design-patterns/builder-pattern.md",
+    "software-development/uml/assets/uml-class-restaurant.png",
+    "software-development/uml/assets/uml-class-library.png",
+    "static/assets/uml-class.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}

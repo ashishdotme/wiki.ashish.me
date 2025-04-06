@@ -1,0 +1,64 @@
+[book]
+authors = ["Ashish Patel"]
+language = "en"
+multilingual = false
+src = ""
+title = "Wiki"
+description = "Personal wiki"
+create-missing = false
+
+[build]
+build-dir = "book"
+
+[preprocessor.autosummary]
+index-name = "readme.md"
+
+
+[output.html.fold]
+enable = true
+level = 0
+
+[preprocessor.katex]
+after = ["links"]
+
+[output.html]
+additional-js = ["./theme/mermaid.min.js", "./theme/mermaid-init.js", "./theme/custom.js"]
+mathjax-support = true
+default-theme = "latte"
+preferred-dark-theme = "latte"
+additional-css = ["./theme/catppuccin.css","./theme/ashish.css"]
+no-section-label = true
+git-repository-url = "https://github.com/ashishdotme/notes"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/ashishdotme/notes/edit/master{path}"
+site-url = "https://wiki.ashish.me"
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
+[preprocessor.repl]
+# iframe url, default is https://mr-addict.github.io/mdbook-repl/embed/
+src = "https://mr-addict.github.io/mdbook-repl/embed/"
+
+# python is disabled by default and loading is lazy
+python.enable = true
+python.loading = "lazy"
+
+# typescript is disabled by default and loading is lazy
+typescript.enable = true
+typescript.loading = "lazy"
+
+# javascript is disabled by default and loading is lazy
+javascript.enable = true
+javascript.loading = "lazy"
+
+[preprocessor.mdinclude]
+
+[preprocessor.embedify]
+scroll-to-top.enable = true
+
+footer.enable = true
+footer.message = "Copyright © 2024 • Created with ❤️ by [Ashish Patel](https://ashish.me)"
+
+[preprocessor.random]
+command = "python3 build_index.py"
