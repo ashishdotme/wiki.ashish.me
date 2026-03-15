@@ -1,6 +1,6 @@
 # React 
+- [Binding](binding.md)
 - [Lifecycle](lifecycle.md)
-- [Testing](testing.md)
 - [Redux](redux.md)
 - [Redux Sideeffects](redux-sideeffects.md)
-- [Binding](binding.md)
+- [Testing](testing.md)

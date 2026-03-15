@@ -1,6 +1,6 @@
 # Personal 
-- [Subscriptions](subscriptions.md)
-- [Info](info.md)
-- [Shortcuts](shortcuts.md)
 - [Cli](cli.md)
+- [Shortcuts](shortcuts.md)
 - [Setup](setup)
+- [Info](info.md)
+- [Subscriptions](subscriptions.md)

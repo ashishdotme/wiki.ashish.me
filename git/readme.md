@@ -1,5 +1,5 @@
 # Git 
-- [Squash](squash.md)
-- [Commands](commands.md)
-- [Rebase](rebase.md)
 - [Cherrypick](cherrypick.md)
+- [Squash](squash.md)
+- [Rebase](rebase.md)
+- [Commands](commands.md)
