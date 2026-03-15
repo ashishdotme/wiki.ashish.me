@@ -1,7 +1,6 @@
 [book]
 authors = ["Ashish Patel"]
 language = "en"
-multilingual = false
 src = ""
 title = "Wiki"
 description = "Personal wiki"
