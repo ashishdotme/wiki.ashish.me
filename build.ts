@@ -2,8 +2,18 @@ import { recursiveReaddir } from "https://deno.land/x/recursive_readdir/mod.ts";
 import { join, extname } from "https://deno.land/std/path/mod.ts";
 import { titleCase } from "https://deno.land/x/case/mod.ts";
 
+const EXCLUDED_FOLDERS = ["c-sharp", "algorithms", "html", "misc"];
+
+const isInExcludedFolder = (path: string) => {
+  const normalizedPath = path.replaceAll("\\", "/");
+  return EXCLUDED_FOLDERS.some(
+    (folder) =>
+      normalizedPath === folder || normalizedPath.startsWith(`${folder}/`)
+  );
+};
+
 const markdownFiles = (await recursiveReaddir(join("."))).filter(
-  (file: string) => extname(file) === ".md"
+  (file: string) => extname(file) === ".md" && !isInExcludedFolder(file)
 );
 
 const getName = (name: string) => {
@@ -24,8 +34,12 @@ const getHeader = (name: string) => {
 }
 
 const iterateFolder = async (path: any) => {
+  if (isInExcludedFolder(path)) return;
+
   let indexFile = `# ${(getHeader(path))} `;
   for await (const f of Deno.readDir(path)) {
+    if (isInExcludedFolder(`${path}/${f.name}`)) continue;
+
     if (!f.isFile) {
       iterateFolder(`${path}/${f.name}`)
     }

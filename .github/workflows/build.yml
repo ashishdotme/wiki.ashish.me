@@ -62,11 +62,6 @@ jobs:
       - name: Create Summary
         run: |-
           touch SUMMARY.md
-      # - name: Setup mdBook
-      #   uses: peaceiris/actions-mdbook@v2
-      #   with:
-      #     mdbook-version: 'latest'
-      #     # mdbook-version: 'latest'
       - uses: brndnmtthws/rust-action-cargo-binstall@v1
         with:
           packages: mdbook mdbook-mermaid mdbook-autosummary mdbook-katex mdbook-repl mdbook-mdinclude mdbook-embedify
@@ -79,24 +74,3 @@ jobs:
           user_email: 'github-actions[bot]@users.noreply.github.com'
           publish_dir: book
           force_orphan: true
-      - name: Deploy Datasette using Vercel
-        env:
-          NOW_TOKEN: ${{ secrets.NOW_TOKEN }}
-        run: |-
-          npm i -g vercel@latest
-          datasette publish vercel notes.db \
-            --token $NOW_TOKEN \
-            --branch 0.64.x \
-            --project ashish-notes \
-            --metadata .github/metadata.yaml \
-            --static static:static \
-            --install datasette-template-sql \
-            --install "datasette-atom>=0.7" \
-            --install datasette-json-html \
-            --install beautifulsoup4 \
-            --install datasette-debug-asgi \
-            --install "datasette-graphql>=0.12" \
-            --install datasette-media \
-            --plugins-dir .github/plugins \
-            --template-dir .github/templates \
-            --public
