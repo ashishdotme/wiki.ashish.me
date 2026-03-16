@@ -2,4 +2,7 @@ book
 node_modules
 website
 SUMMARY.md
+.git/
+.vscode/
+output/
 .DS_Store
