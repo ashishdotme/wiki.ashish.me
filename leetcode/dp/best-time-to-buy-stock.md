@@ -18,10 +18,10 @@ Example: `prices = [1, 5, 3]`
 
 ```mermaid
 graph TD
-    classDef optimal fill:#d4edda,stroke:#28a745,stroke-width:3px
-    classDef overlap1 fill:#fff3cd,stroke:#ffc107,stroke-width:2px
-    classDef overlap2 fill:#d1ecf1,stroke:#17a2b8,stroke-width:2px
-    classDef base fill:#e2e3e5,stroke:#6c757d
+    classDef optimal fill:#166534,stroke:#14532d,stroke-width:3px,color:#fff
+    classDef overlap1 fill:#92400e,stroke:#78350f,stroke-width:2px,color:#fff
+    classDef overlap2 fill:#1e40af,stroke:#1e3a8a,stroke-width:2px,color:#fff
+    classDef base fill:#374151,stroke:#1f2937,color:#fff
 
     R["solve(0, 0)<br/>= max(0, -1+5) = <b>4</b>"]:::optimal
 
