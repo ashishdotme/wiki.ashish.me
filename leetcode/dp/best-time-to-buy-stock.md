@@ -19,39 +19,67 @@ Example: `prices = [1, 5, 3]`
 ```mermaid
 graph TD
     classDef optimal fill:#166534,stroke:#14532d,stroke-width:3px,color:#fff
+    classDef normal fill:#475569,stroke:#334155,color:#fff
     classDef overlap1 fill:#92400e,stroke:#78350f,stroke-width:2px,color:#fff
     classDef overlap2 fill:#1e40af,stroke:#1e3a8a,stroke-width:2px,color:#fff
-    classDef base fill:#374151,stroke:#1f2937,color:#fff
+    classDef base fill:#374151,stroke:#1f2937,color:#d1d5db
 
-    R["solve(0, 0)<br/>= max(0, -1+5) = <b>4</b>"]:::optimal
+    subgraph day0 ["Day 0 — price = 1"]
+        R["No Stock → <b>4</b>"]:::optimal
+    end
 
-    R -->|"skip"| A["solve(1, 0)<br/>= max(0, -5+3) = <b>0</b>"]
-    R -->|"buy@1 → -1"| B["solve(1, 1)<br/>= max(3, 5+0) = <b>5</b>"]:::optimal
+    subgraph day1 ["Day 1 — price = 5"]
+        A["No Stock → <b>0</b>"]:::normal
+        B["Holding → <b>5</b>"]:::optimal
+    end
 
-    A -->|"skip"| C["solve(2, 0)<br/>= max(0, -3+0) = <b>0</b>"]:::overlap1
-    A -->|"buy@5 → -5"| D["solve(2, 1)<br/>= max(0, 3+0) = <b>3</b>"]:::overlap2
+    subgraph day2 ["Day 2 — price = 3"]
+        C["No Stock → <b>0</b>"]:::overlap1
+        D["Holding → <b>3</b>"]:::overlap2
+        E["Holding → <b>3</b>"]:::overlap2
+        F["No Stock → <b>0</b>"]:::overlap1
+    end
 
-    B -->|"skip"| E["solve(2, 1)<br/>= max(0, 3+0) = <b>3</b>"]:::overlap2
-    B -->|"sell@5 → +5"| F["solve(2, 0)<br/>= max(0, -3+0) = <b>0</b>"]:::optimal
+    subgraph day3 ["Day 3 — past end"]
+        G["0"]:::base
+        H["0"]:::base
+        I["0"]:::base
+        J["0"]:::base
+        K["0"]:::base
+        L["0"]:::base
+        M["0"]:::base
+        N["0"]:::base
+    end
 
-    C -->|"skip"| G["solve(3, 0) = <b>0</b>"]:::base
-    C -->|"buy@3 → -3"| H["solve(3, 1) = <b>0</b>"]:::base
+    R -- "skip" --> A
+    R -- "BUY at 1 ✅" --> B
 
-    D -->|"skip"| I["solve(3, 1) = <b>0</b>"]:::base
-    D -->|"sell@3 → +3"| J["solve(3, 0) = <b>0</b>"]:::base
+    A -- "skip" --> C
+    A -- "buy at 5" --> D
 
-    E -->|"skip"| K["solve(3, 1) = <b>0</b>"]:::base
-    E -->|"sell@3 → +3"| L["solve(3, 0) = <b>0</b>"]:::base
+    B -- "hold" --> E
+    B -- "SELL at 5 ✅" --> F
 
-    F -->|"skip"| M["solve(3, 0) = <b>0</b>"]:::base
-    F -->|"buy@3 → -3"| N["solve(3, 1) = <b>0</b>"]:::base
+    C -- "skip" --> G
+    C -- "buy at 3" --> H
+
+    D -- "hold" --> I
+    D -- "sell at 3" --> J
+
+    E -- "hold" --> K
+    E -- "sell at 3" --> L
+
+    F -- "skip" --> M
+    F -- "buy at 3" --> N
 ```
 
-**Legend:**
-- Green = optimal path (buy@1, sell@5 = profit 4)
-- Yellow = overlapping subproblem `solve(2, 0)` (appears 2x)
-- Blue = overlapping subproblem `solve(2, 1)` (appears 2x)
-- Grey = base cases `solve(3, _) = 0`
+**How to read:**
+- Each node shows `state → best profit from here`
+- Edges = decisions (skip/buy/sell) at that day's price
+- **Green** = optimal path: buy at 1, sell at 5 = **profit 4**
+- **Amber** = overlapping `(day 2, no stock)` — computed twice, same result
+- **Blue** = overlapping `(day 2, holding)` — computed twice, same result
+- **Grey** = base cases (no more days)
 
 ## Overlapping Subproblems
 
