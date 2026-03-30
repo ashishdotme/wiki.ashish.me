@@ -1,0 +1,21 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  text-size-adjust: none;
+}
+
+@media screen and (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto;
+    transition: none !important;
+  }
+}
+
+@media (-moz-touch-enabled: 1), (pointer: coarse) {
+  .chapter .chapter-fold-toggle {
+    padding: 5px 10px;
+  }
+}
