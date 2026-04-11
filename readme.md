@@ -17,6 +17,13 @@
 <p align="center"><a href="https://notes.ashish.me">https://notes.ashish.me</a></p>
 
 <!-- index starts -->
+## Recipes
+
+* [Nagpur tarri poha](https://github.com/ashishdotme/notes/blob/master/recipes/nagpur-tarri-poha.md) - *last updated at 2026-04-11*
+* [Desi masala pasta](https://github.com/ashishdotme/notes/blob/master/recipes/desi-masala-pasta.md) - *last updated at 2026-04-11*
+* [Dahi kadhi](https://github.com/ashishdotme/notes/blob/master/recipes/dahi-kadhi.md) - *last updated at 2026-03-31*
+* [Rajasthani hare pyaz ki sabzi](https://github.com/ashishdotme/notes/blob/master/recipes/rajasthani-hare-pyaz-ki-sabzi.md) - *last updated at 2026-03-31*
+
 ## Algorithms
 
 * [Sorting](https://github.com/ashishdotme/notes/blob/master/algorithms/sorting.md) - *last updated at 2025-04-05*
