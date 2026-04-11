@@ -1,9 +1,9 @@
 # Data Structures 
-- [Stack](stack.md)
-- [Linked List](linked-list.md)
-- [Tree](tree.md)
 - [Hash Table](hash-table.md)
-- [Queue](queue.md)
 - [Array](array.md)
+- [Linked List](linked-list.md)
+- [Stack](stack.md)
+- [Tree](tree.md)
 - [Time Complexity](time-complexity.md)
 - [Graph](graph.md)
+- [Queue](queue.md)
