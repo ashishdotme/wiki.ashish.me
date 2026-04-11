@@ -1,0 +1,10 @@
+[book]
+src = "."
+title = "Wiki"
+
+[tool.mdbook-summary-tools]
+index-names = ["readme.md"]
+
+[tool.mdbook-summary-tools.homepage]
+title = "wiki.ashish.me"
+path = "readme.md"

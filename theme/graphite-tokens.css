@@ -1,0 +1,162 @@
+@font-face {
+  font-family: "Avenir Next LT Pro";
+  font-style: normal;
+  font-weight: 400;
+  src:
+    local("Avenir Next LT Pro Regular"),
+    url("./graphite/AvenirNextLTPro-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Avenir Next LT Pro";
+  font-style: italic;
+  font-weight: 400;
+  src:
+    local("Avenir Next LT Pro It"),
+    url("./graphite/AvenirNextLTPro-Italic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Avenir Next LT Pro";
+  font-style: normal;
+  font-weight: 600;
+  src:
+    local("Avenir Next LT Pro Demi"),
+    url("./graphite/AvenirNextLTPro-Demi.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Avenir Next LT Pro";
+  font-style: italic;
+  font-weight: 600;
+  src:
+    local("Avenir Next LT Pro DemiIt"),
+    url("./graphite/AvenirNextLTPro-DemiItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: Adelle;
+  font-style: normal;
+  font-weight: 400;
+  src:
+    local("Adelle Light"),
+    url("./graphite/Adelle-Light.woff") format("woff");
+}
+
+@font-face {
+  font-family: Adelle;
+  font-style: italic;
+  font-weight: 400;
+  src:
+    local("Adelle Light Italic"),
+    url("./graphite/Adelle-LightItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: Adelle;
+  font-style: normal;
+  font-weight: 600;
+  src:
+    local("Adelle SemiBold"),
+    url("./graphite/Adelle-SemiBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: Adelle;
+  font-style: italic;
+  font-weight: 600;
+  src:
+    local("Adelle SemiBold Italic"),
+    url("./graphite/Adelle-SemiBoldItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Fira Mono";
+  font-style: normal;
+  font-weight: 400;
+  src:
+    local("Fira Mono Regular"),
+    url("./graphite/FiraMono-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Fira Mono";
+  font-style: normal;
+  font-weight: 700;
+  src:
+    local("Fira Mono Bold"),
+    url("./graphite/FiraMono-Bold.ttf") format("truetype");
+}
+
+:root {
+  color-scheme: light;
+
+  --shell-graphite: #292c2e;
+  --shell-graphite-soft: #2f3437;
+  --shell-graphite-deep: #222628;
+  --shell-graphite-edge: #1a1d1f;
+
+  --paper-canvas: #f3f3f1;
+  --paper-panel: #fbfbfb;
+  --paper-panel-strong: #ffffff;
+  --paper-muted: #ececec;
+  --paper-search: #f5f5f4;
+
+  --ink-main: #333333;
+  --ink-strong: #1f2224;
+  --ink-muted: #6f6f6f;
+  --ink-faint: #8b8b8b;
+  --ink-inverse: #f0f0f0;
+
+  --line-soft: #d4d4d2;
+  --line-quiet: #e3e3e1;
+  --line-strong: #bdbdb9;
+
+  --accent-red: #cb4c48;
+  --accent-red-soft: #db4d52;
+  --accent-red-ghost: rgba(203, 76, 72, 0.14);
+  --accent-highlight: rgba(199, 246, 97, 0.83);
+
+  --code-paper: #fafafa;
+  --code-border: rgba(0, 0, 0, 0.1);
+  --quote-ink: #827676;
+  --table-stripe: #ececec;
+  --table-head: #dddddd;
+
+  --reading-body-font:
+    "Avenir Next LT Pro", "Avenir Next", Avenir, Lato, "Helvetica Neue",
+    Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol", "Noto Color Emoji";
+  --reading-heading-font:
+    Adelle, "Roboto Slab", "Iowan Old Style", "Palatino Linotype", Georgia,
+    serif;
+  --reading-mono-font:
+    "Fira Mono", "SFMono-Regular", Cousine, Consolas, "Liberation Mono",
+    Menlo, Courier, monospace;
+
+  --content-max-width: 52rem;
+  --content-feature-width: 60%;
+  --content-side-padding: 3.2rem;
+  --reading-line-height: 1.65;
+  --mono-font: var(--reading-mono-font);
+
+  --bg: var(--paper-canvas);
+  --fg: var(--ink-main);
+  --links: var(--accent-red);
+  --quote-bg: transparent;
+  --quote-border: var(--accent-red);
+  --sidebar-bg: var(--shell-graphite);
+  --sidebar-fg: var(--ink-inverse);
+  --sidebar-active: var(--accent-red-soft);
+  --sidebar-spacer: var(--shell-graphite-edge);
+}
+
+html {
+  background: var(--paper-canvas);
+  color: var(--ink-main);
+}
+
+body {
+  background: var(--paper-canvas);
+  color: var(--ink-main);
+}
